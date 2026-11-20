@@ -1,0 +1,394 @@
+{
+  "wpId": 3812,
+  "title": "Campus",
+  "slug": "campus",
+  "path": "/campus",
+  "template": "default",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {
+    "description": "Stay updated with the latest ITTI news, announcements and achievements in aviation, travel and tourism education."
+  },
+  "layout": [
+    {
+      "id": "31b761c5",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "4a617184",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "7b2dc4c0",
+              "type": "theme-post-title",
+              "props": {
+                "title": {
+                  "$dyn": "title"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "64px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 20% 0% 0%",
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "11.037%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "10ddbe1d",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "2a4a82bc",
+              "type": "heading",
+              "props": {
+                "title": "Overview",
+                "header_size": "h3"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "30px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "610994c7",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p data-start=\"558\" data-end=\"750\">From hands-on bootcamps to industry-led events and global aviation developments, this space keeps you connected to what’s happening at ITTI and across the wider aviation and hospitality world.</p><p data-start=\"752\" data-end=\"897\">Whether you’re a student, professional, or future applicant, you’ll find updates designed to inform, inspire, and prepare you for the road ahead.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "300",
+                    "font-size": "20px",
+                    "line-height": "1.8em"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 12%",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 10% 5% 10%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%",
+                "--justify-content": "flex-start"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "450px",
+            "background-color": "var(--e-global-color-secondary)"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--min-height": "100vh"
+          }
+        }
+      ]
+    },
+    {
+      "id": "78bcf0c8",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "7e197aec",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "6f27cb8a",
+              "type": "posts",
+              "props": {
+                "classic_read_more_text": "Read More »",
+                "cards_read_more_text": "Read More »",
+                "full_content_meta_separator": "///",
+                "posts_include": [
+                  "terms"
+                ],
+                "posts_include_term_ids": [
+                  54
+                ],
+                "pagination_page_limit": "5",
+                "pagination_prev_label": "&laquo; Previous",
+                "pagination_next_label": "Next &raquo;",
+                "_skin": "cards",
+                "classic_meta_data": [
+                  "date"
+                ],
+                "classic_show_read_more": "",
+                "cards_posts_per_page": "9",
+                "cards_thumbnail_size_size": "full",
+                "cards_item_ratio": {
+                  "unit": "px",
+                  "size": "0.62",
+                  "sizes": []
+                },
+                "cards_meta_data": [
+                  "date",
+                  "time"
+                ],
+                "cards_show_badge": "",
+                "cards_show_avatar": "",
+                "text": "Load More",
+                "load_more_no_posts_custom_message": "No more posts to show",
+                "cards_open_new_tab": "yes",
+                "pagination_type": "prev_next"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-posts",
+                  "css": {
+                    "column-gap": "50px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-post-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "var(--e-global-typography-42300ad-font-family)",
+                    "font-size": "var(--e-global-typography-42300ad-font-size)",
+                    "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                    "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                    "font-style": "var(--e-global-typography-42300ad-font-style)",
+                    "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                    "line-height": "var(--e-global-typography-42300ad-line-height)",
+                    "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-post-meta",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "var(--e-global-typography-7ba1c84-font-family)",
+                    "font-size": "var(--e-global-typography-7ba1c84-font-size)",
+                    "font-weight": "var(--e-global-typography-7ba1c84-font-weight)",
+                    "text-transform": "var(--e-global-typography-7ba1c84-text-transform)",
+                    "font-style": "var(--e-global-typography-7ba1c84-font-style)",
+                    "text-decoration": "var(--e-global-typography-7ba1c84-text-decoration)",
+                    "line-height": "var(--e-global-typography-7ba1c84-line-height)",
+                    "letter-spacing": "var(--e-global-typography-7ba1c84-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-7ba1c84-word-spacing)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-post-excerpt",
+                  "css": {
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "300",
+                    "font-size": "16px",
+                    "line-height": "1.8em"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "200px 0px 200px 0px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 0% 15% 0%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0 0% 0 0%"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        }
+      ]
+    }
+  ]
+}

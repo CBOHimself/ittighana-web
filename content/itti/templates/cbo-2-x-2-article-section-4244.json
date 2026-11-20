@@ -1,0 +1,230 @@
+{
+  "wpId": 4244,
+  "title": "CBO - 2 x 2 Article section",
+  "slug": "cbo-2-x-2-article-section-4244",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "2145c70b",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "2f0a989",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "17150b23",
+              "type": "theme-post-featured-image",
+              "props": {
+                "image_size": "custom",
+                "image_custom_dimension": {
+                  "width": "700",
+                  "height": "200"
+                },
+                "image": {
+                  "$dyn": "featured-image",
+                  "fallback": {
+                    "url": "/wp-content/uploads/2025/11/airport-crew.png",
+                    "alt": ""
+                  }
+                }
+              }
+            },
+            {
+              "id": "43c40ea9",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "31e9c42a",
+                  "type": "heading",
+                  "props": {
+                    "title": "Add Your Heading Text Here"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "padding": "25px 10px 10px 10px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "6db7f894",
+                  "type": "text-editor",
+                  "props": {},
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "padding": "19px 19px 19px 19px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "z-index": "8",
+                    "position": "absolute",
+                    "top": "175px",
+                    "background-color": "var(--e-global-color-284b516)",
+                    "border-style": "solid",
+                    "border-width": "015px 0px 0px 0px",
+                    "border-color": "var(--e-global-color-text)",
+                    "border-radius": "0px 0px 0px 0px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "border-style": "solid",
+                    "border-width": "0px 0px 0px 0px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--flex-direction": "column",
+                "--width": "50%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "22efc6f1",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "68c4ce94",
+              "type": "theme-post-featured-image",
+              "props": {
+                "image_size": "custom",
+                "image_custom_dimension": {
+                  "width": "700",
+                  "height": "200"
+                },
+                "image": {
+                  "$dyn": "featured-image",
+                  "fallback": {
+                    "url": "/wp-content/uploads/2025/11/airport-crew.png",
+                    "alt": ""
+                  }
+                }
+              }
+            },
+            {
+              "id": "215dd676",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "5bade9eb",
+                  "type": "heading",
+                  "props": {
+                    "title": "Add Your Heading Text Here"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "padding": "25px 10px 10px 10px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5c896351",
+                  "type": "text-editor",
+                  "props": {},
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "padding": "19px 19px 19px 19px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "z-index": "8",
+                    "position": "absolute",
+                    "top": "175px",
+                    "background-color": "var(--e-global-color-284b516)",
+                    "border-style": "solid",
+                    "border-width": "015px 0px 0px 0px",
+                    "border-color": "var(--e-global-color-text)",
+                    "border-radius": "0px 0px 0px 0px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "border-style": "solid",
+                    "border-width": "0px 0px 0px 0px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--flex-direction": "column",
+                "--width": "50%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--row-gap": "0px",
+            "--column-gap": "40px"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+/*
+ * Design tokens for @vantara-ui/ui (Tailwind v4).
+ *
+ * vantara-ui 0.8.0 ships compiled components that use token-based Tailwind
+ * classes (bg-primary-600, text-text-secondary, rounded-card, shadow-modal …),
+ * but it does not ship its CSS or token files. This file defines those tokens
+ * using the ITTI palette (Elementor Global Colors), so vantara components render on-brand.
+ *
+ * When vantara-ui publishes its theme, replace this file with:
+ *   @import '@vantara-ui/ui/styles';
+ */
+@theme {
+  /* Primary: ITTI navy #002147 (600) with the ITTI "Text" blue #3277AE at 500 */
+  --color-primary-50: #eef4fa;
+  --color-primary-100: #dde9f4;
+  --color-primary-200: #b9d1e8;
+  --color-primary-300: #8bb3d6;
+  --color-primary-400: #5b93c2;
+  --color-primary-500: #3277ae;
+  --color-primary-600: #002147;
+  --color-primary-700: #001b3b;
+  --color-primary-800: #00152e;
+  --color-primary-900: #001022;
+  --color-primary-950: #000a16;
+
+  /* Status scales */
+  --color-error-50: var(--color-red-50);
+  --color-error-100: var(--color-red-100);
+  --color-error-200: var(--color-red-200);
+  --color-error-300: var(--color-red-300);
+  --color-error-400: var(--color-red-400);
+  --color-error-500: var(--color-red-500);
+  --color-error-600: var(--color-red-600);
+  --color-error-700: var(--color-red-700);
+  --color-error-800: var(--color-red-800);
+  --color-error-900: var(--color-red-900);
+  --color-error-950: var(--color-red-950);
+
+  --color-success-50: var(--color-emerald-50);
+  --color-success-100: var(--color-emerald-100);
+  --color-success-200: var(--color-emerald-200);
+  --color-success-300: var(--color-emerald-300);
+  --color-success-400: var(--color-emerald-400);
+  --color-success-500: var(--color-emerald-500);
+  --color-success-600: var(--color-emerald-600);
+  --color-success-700: var(--color-emerald-700);
+  --color-success-800: var(--color-emerald-800);
+  --color-success-900: var(--color-emerald-900);
+  --color-success-950: var(--color-emerald-950);
+
+  --color-warning-50: var(--color-amber-50);
+  --color-warning-100: var(--color-amber-100);
+  --color-warning-200: var(--color-amber-200);
+  --color-warning-300: var(--color-amber-300);
+  --color-warning-400: var(--color-amber-400);
+  --color-warning-500: var(--color-amber-500);
+  --color-warning-600: var(--color-amber-600);
+  --color-warning-700: var(--color-amber-700);
+  --color-warning-800: var(--color-amber-800);
+  --color-warning-900: var(--color-amber-900);
+  --color-warning-950: var(--color-amber-950);
+
+  --color-info-50: var(--color-sky-50);
+  --color-info-100: var(--color-sky-100);
+  --color-info-200: var(--color-sky-200);
+  --color-info-300: var(--color-sky-300);
+  --color-info-400: var(--color-sky-400);
+  --color-info-500: var(--color-sky-500);
+  --color-info-600: var(--color-sky-600);
+  --color-info-700: var(--color-sky-700);
+  --color-info-800: var(--color-sky-800);
+  --color-info-900: var(--color-sky-900);
+  --color-info-950: var(--color-sky-950);
+
+  /* Semantic */
+  --color-primary: var(--color-primary-600);
+  --color-secondary: var(--color-gray-600);
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #f5f5f5; /* ITTI Accent / White Element */
+  /* Text on white: darker shades for contrast (ITTI preference) */
+  --color-text-primary: #0b1526;
+  /* No grey text on light backgrounds: secondary/tertiary text uses ITTI navy tones. */
+  --color-text-secondary: #0b1526;
+  --color-text-tertiary: #13233d;
+  --color-border: #e6e6e6; /* ITTI Secondary / White BG */
+  --color-border-focus: var(--color-primary-500);
+  --color-interactive-primary: var(--color-primary-600);
+  --color-focus: var(--color-primary-500);
+
+  /* Shape, depth, type */
+  --radius-badge: 9999px;
+  --radius-card: 0.75rem;
+  --radius-modal: 1rem;
+  /* 0.10 radius roles */
+  --radius-surface: 0.75rem;
+  --radius-control: 0.5rem;
+  --radius-inner: 0.25rem;
+  --shadow-card: 0 1px 2px 0 rgb(16 24 40 / 0.06), 0 1px 3px 0 rgb(16 24 40 / 0.1);
+  --shadow-card-hover: 0 4px 8px -2px rgb(16 24 40 / 0.1), 0 2px 4px -2px rgb(16 24 40 / 0.06);
+  --shadow-modal: 0 20px 24px -4px rgb(16 24 40 / 0.08), 0 8px 8px -4px rgb(16 24 40 / 0.03);
+  /* 0.10 overlay shadows */
+  --shadow-dropdown: 0 12px 16px -4px rgb(16 24 40 / 0.08), 0 4px 6px -2px rgb(16 24 40 / 0.03);
+  --shadow-popover: 0 12px 16px -4px rgb(16 24 40 / 0.1), 0 4px 6px -2px rgb(16 24 40 / 0.05);
+  --shadow-tooltip: 0 4px 8px -2px rgb(16 24 40 / 0.12);
+  --shadow-drawer: -8px 0 24px -4px rgb(16 24 40 / 0.12);
+  --font-inter: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  /* Spacing tokens used by vantara components (EmptyState, cards…) */
+  --spacing-component-xs: 0.25rem;
+  --spacing-component-sm: 0.5rem;
+  --spacing-component-md: 1rem;
+  --spacing-component-lg: 1.5rem;
+  --spacing-component-xl: 2.5rem;
+  --text-body-md: 0.875rem;
+  --text-body-md--line-height: 1.25rem;
+
+  /*
+   * Darker greys for text on white. vantara-ui hard-codes text-gray-400…700 in
+   * many components, so the grey scale is shifted one step darker in the admin.
+   * (Background greys 50–200 are unchanged.)
+   */
+  --color-gray-400: #6b7280;
+  --color-gray-500: #4b5563;
+  --color-gray-600: #374151;
+  --color-gray-700: #1f2937;
+}
+
+@utility z-modal {
+  z-index: 50;
+}
+@utility duration-fast {
+  transition-duration: 150ms;
+}
+@utility duration-normal {
+  transition-duration: 200ms;
+}
+@utility duration-slow {
+  transition-duration: 300ms;
+}
+@utility z-dropdown {
+  z-index: 40;
+}
+@utility z-popover {
+  z-index: 45;
+}
+@utility z-toast {
+  z-index: 60;
+}
+@utility z-tooltip {
+  z-index: 70;
+}
+
+/*
+ * Palette roles (vantara-ui 0.10 ThemeScope). Components use bg-surface, text-fg,
+ * border-line, bg-action … backed by --vt-* variables. ThemeScope (main.tsx) sets them
+ * at runtime from src/theme/palette.ts; these static defaults match it so the first
+ * paint is already on-brand. Regenerate if the palette changes.
+ */
+:root {
+  --vt-canvas: 245 245 245;
+  --vt-surface: 255 255 255;
+  --vt-surface-muted: 245 245 245;
+  --vt-surface-raised: 255 255 255;
+  --vt-line: 230 230 230;
+  --vt-line-strong: 203 200 204;
+  --vt-fg: 11 21 38;
+  --vt-fg-muted: 19 35 61;
+  --vt-fg-subtle: 27 47 79;
+  --vt-fg-inverse: 255 255 255;
+  --vt-action: 0 33 71;
+  --vt-action-hover: 0 27 59;
+  --vt-on-action: 255 255 255;
+  --vt-action-secondary: 255 255 255;
+  --vt-action-secondary-hover: 245 245 245;
+  --vt-on-action-secondary: 0 33 71;
+  --vt-action-secondary-line: 203 200 204;
+  --vt-accent: 50 119 174;
+  --vt-accent-surface: 238 244 250;
+  --vt-on-accent-surface: 0 33 71;
+  --vt-nav: 0 33 71;
+  --vt-nav-line: 26 58 99;
+  --vt-on-nav: 255 255 255;
+  --vt-on-nav-muted: 221 233 244;
+  --vt-nav-active: 50 119 174;
+  --vt-on-nav-active: 255 255 255;
+  --vt-focus: 50 119 174;
+  --vt-success-solid: 21 128 61;
+  --vt-success-solid-hover: 22 101 52;
+  --vt-on-success-solid: 255 255 255;
+  --vt-success-surface: 240 253 244;
+  --vt-on-success-surface: 21 128 61;
+  --vt-success-line: 187 247 208;
+  --vt-warning-solid: 180 83 9;
+  --vt-warning-solid-hover: 146 64 14;
+  --vt-on-warning-solid: 255 255 255;
+  --vt-warning-surface: 255 251 235;
+  --vt-on-warning-surface: 180 83 9;
+  --vt-warning-line: 253 230 138;
+  --vt-danger-solid: 220 38 38;
+  --vt-danger-solid-hover: 185 28 28;
+  --vt-on-danger-solid: 255 255 255;
+  --vt-danger-surface: 254 242 242;
+  --vt-on-danger-surface: 185 28 28;
+  --vt-danger-line: 254 202 202;
+  --vt-info-solid: 37 99 235;
+  --vt-info-solid-hover: 29 78 216;
+  --vt-on-info-solid: 255 255 255;
+  --vt-info-surface: 239 246 255;
+  --vt-on-info-surface: 29 78 216;
+  --vt-info-line: 191 219 254;
+  --vt-chart-1: 37 99 235;
+  --vt-chart-2: 13 148 136;
+  --vt-chart-3: 217 119 6;
+  --vt-chart-4: 219 39 119;
+  --vt-chart-5: 124 58 237;
+  --vt-chart-6: 100 116 139;
+}
+@theme {
+  --color-canvas: rgb(var(--vt-canvas));
+  --color-surface: rgb(var(--vt-surface));
+  --color-surface-muted: rgb(var(--vt-surface-muted));
+  --color-surface-raised: rgb(var(--vt-surface-raised));
+  --color-line: rgb(var(--vt-line));
+  --color-line-strong: rgb(var(--vt-line-strong));
+  --color-fg: rgb(var(--vt-fg));
+  --color-fg-muted: rgb(var(--vt-fg-muted));
+  --color-fg-subtle: rgb(var(--vt-fg-subtle));
+  --color-fg-inverse: rgb(var(--vt-fg-inverse));
+  --color-action: rgb(var(--vt-action));
+  --color-action-hover: rgb(var(--vt-action-hover));
+  --color-on-action: rgb(var(--vt-on-action));
+  --color-action-secondary: rgb(var(--vt-action-secondary));
+  --color-action-secondary-hover: rgb(var(--vt-action-secondary-hover));
+  --color-on-action-secondary: rgb(var(--vt-on-action-secondary));
+  --color-action-secondary-line: rgb(var(--vt-action-secondary-line));
+  --color-accent: rgb(var(--vt-accent));
+  --color-accent-surface: rgb(var(--vt-accent-surface));
+  --color-on-accent-surface: rgb(var(--vt-on-accent-surface));
+  --color-nav: rgb(var(--vt-nav));
+  --color-nav-line: rgb(var(--vt-nav-line));
+  --color-on-nav: rgb(var(--vt-on-nav));
+  --color-on-nav-muted: rgb(var(--vt-on-nav-muted));
+  --color-nav-active: rgb(var(--vt-nav-active));
+  --color-on-nav-active: rgb(var(--vt-on-nav-active));
+  --color-focus: rgb(var(--vt-focus));
+  --color-success-solid: rgb(var(--vt-success-solid));
+  --color-success-solid-hover: rgb(var(--vt-success-solid-hover));
+  --color-on-success-solid: rgb(var(--vt-on-success-solid));
+  --color-success-surface: rgb(var(--vt-success-surface));
+  --color-on-success-surface: rgb(var(--vt-on-success-surface));
+  --color-success-line: rgb(var(--vt-success-line));
+  --color-warning-solid: rgb(var(--vt-warning-solid));
+  --color-warning-solid-hover: rgb(var(--vt-warning-solid-hover));
+  --color-on-warning-solid: rgb(var(--vt-on-warning-solid));
+  --color-warning-surface: rgb(var(--vt-warning-surface));
+  --color-on-warning-surface: rgb(var(--vt-on-warning-surface));
+  --color-warning-line: rgb(var(--vt-warning-line));
+  --color-danger-solid: rgb(var(--vt-danger-solid));
+  --color-danger-solid-hover: rgb(var(--vt-danger-solid-hover));
+  --color-on-danger-solid: rgb(var(--vt-on-danger-solid));
+  --color-danger-surface: rgb(var(--vt-danger-surface));
+  --color-on-danger-surface: rgb(var(--vt-on-danger-surface));
+  --color-danger-line: rgb(var(--vt-danger-line));
+  --color-info-solid: rgb(var(--vt-info-solid));
+  --color-info-solid-hover: rgb(var(--vt-info-solid-hover));
+  --color-on-info-solid: rgb(var(--vt-on-info-solid));
+  --color-info-surface: rgb(var(--vt-info-surface));
+  --color-on-info-surface: rgb(var(--vt-on-info-surface));
+  --color-info-line: rgb(var(--vt-info-line));
+  --color-chart-1: rgb(var(--vt-chart-1));
+  --color-chart-2: rgb(var(--vt-chart-2));
+  --color-chart-3: rgb(var(--vt-chart-3));
+  --color-chart-4: rgb(var(--vt-chart-4));
+  --color-chart-5: rgb(var(--vt-chart-5));
+  --color-chart-6: rgb(var(--vt-chart-6));
+}

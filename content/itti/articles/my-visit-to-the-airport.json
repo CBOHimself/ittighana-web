@@ -1,0 +1,33 @@
+{
+  "wpId": 5359,
+  "title": "My Visit to the Airport by Owusua Priscilla",
+  "slug": "my-visit-to-the-airport",
+  "path": "/student-article/my-visit-to-the-airport",
+  "status": "published",
+  "author": {
+    "name": "Owusua Priscilla"
+  },
+  "excerpt": "My Name Is Owusua Priscilla, I Have A Strong Personal Interest In Aviation, Especially In The Area Of Customer Service. I Am Fascinated By How Airports Staff Interact With Passengers And Ensure That Their Travel Experience Is Smooth And Comfortable. I Admire The Professionalism, Patience, And Commmunication Skills Displayed By Check-In Agents And Other Airport Workers. My Interest In This Field Ha",
+  "fields": {
+    "author": "Owusua Priscilla",
+    "article_title": "My Visit to the Airport by Owusua Priscilla",
+    "introduction": "My Name Is Owusua Priscilla, I Have A Strong Personal Interest In Aviation, Especially In The Area Of Customer Service. I Am Fascinated By How Airports Staff Interact With Passengers And Ensure That Their Travel Experience Is Smooth And Comfortable. I Admire The Professionalism, Patience, And Commmunication Skills Displayed By Check-In Agents And Other Airport Workers. My Interest In This Field Has Grown Through My Observation After A Visit To The Airport, Where I Saw How Important Good Customer Service Is In Assisting Passengers And Solving Problems. \nBelow Is An Article To Share My Experience In \"My Visit At The Airport\" \n",
+    "article_pdf": {
+      "id": 5360,
+      "url": "/wp-content/uploads/2026/08/Priscilla-Article.pdf",
+      "alt": ""
+    },
+    "article_image": {
+      "id": 5239,
+      "url": "/wp-content/uploads/2026/05/IMG_6508-scaled.jpg",
+      "alt": ""
+    }
+  },
+  "cover": {
+    "id": 5239,
+    "url": "/wp-content/uploads/2026/05/IMG_6508-scaled.jpg",
+    "alt": ""
+  },
+  "publishedAt": "2026-08-06T11:56:58.000Z",
+  "layout": []
+}

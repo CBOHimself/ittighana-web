@@ -1,0 +1,162 @@
+{
+  "wpId": 5135,
+  "title": "listing banner",
+  "slug": "listing-banner-5135",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "228b955c",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "4164571e",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "2fb7b2b6",
+              "type": "heading",
+              "props": {
+                "title": "notes",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-primary-font-family)",
+                    "font-size": "var(--e-global-typography-primary-font-size)",
+                    "font-weight": "var(--e-global-typography-primary-font-weight)",
+                    "text-transform": "var(--e-global-typography-primary-text-transform)",
+                    "font-style": "var(--e-global-typography-primary-font-style)",
+                    "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                    "line-height": "var(--e-global-typography-primary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "21.027%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "5698aebd",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "60208d33",
+              "type": "icon-list",
+              "props": {
+                "icon_list": [
+                  {
+                    "text": "Single courses are intensive one-month programs; consolidated packages require three months.",
+                    "_id": "e9494cd"
+                  },
+                  {
+                    "text": "Lectures are <b>hybrid (blended)</b>, offering either virtual or in-person sessions.",
+                    "_id": "ebd9cd2"
+                  },
+                  {
+                    "text": "A <b>Certificate<b> is awarded upon the successful completion of each course.",
+                    "_id": "8f2b8f1"
+                  },
+                  {
+                    "_id": "864d09e",
+                    "text": "IATA Enrolment: IATA course registration is tied to fixed calendar months:<b> March, June, September, and December.</b>"
+                  }
+                ]
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "40px 40px 40px 40px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-item:not(:last-child)",
+                  "css": {
+                    "padding-bottom": "8px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-size": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon svg",
+                  "css": {
+                    "fill": "var(--e-global-color-secondary)",
+                    "width": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-text",
+                  "css": {
+                    "padding-inline-start": "3px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--min-height": "150px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "itti",
+  "private": true,
+  "description": "ITTI Ghana website, CMS and API (ittighana.com). Built by HostHaus.",
+  "packageManager": "pnpm@10.20.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "dev:web": "turbo run dev --filter=@itti/web",
+    "dev:api": "turbo run dev --filter=@itti/api",
+    "dev:admin": "turbo run dev --filter=@itti/admin",
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "format": "prettier --write .",
+    "db:indexes": "pnpm --filter @itti/db run indexes",
+    "db:seed": "pnpm --filter @itti/db run seed",
+    "migrate:wp": "pnpm --filter @itti/wp-migrate run start",
+    "visual-diff": "pnpm --filter @itti/visual-diff run start",
+    "db:seed-content": "pnpm --filter @itti/db run seed-content",
+    "content:import": "pnpm --filter @itti/wp-migrate run wxr",
+    "content:preview": "node tools/content-server/server.mjs --content content/itti --media storage/media --port 4100",
+    "db:migrate": "pnpm --filter @itti/db run migrate"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "prettier": "^3.6.0",
+    "turbo": "^2.5.0",
+    "typescript": "~6.0.3"
+  }
+}

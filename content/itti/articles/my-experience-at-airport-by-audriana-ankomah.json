@@ -1,0 +1,33 @@
+{
+  "wpId": 5366,
+  "title": "My Experience at Airport by Audriana Ankomah",
+  "slug": "my-experience-at-airport-by-audriana-ankomah",
+  "path": "/student-article/my-experience-at-airport-by-audriana-ankomah",
+  "status": "published",
+  "author": {
+    "name": "Audriana Ankomah"
+  },
+  "excerpt": "Traveling through the airport was one of the most exciting and educational experiences I have\never had. The trip gave me the opportunity to observe how airport operations are carried out\nand how passengers are handled professionally from arrival to departure.\n\nOn the day of the trip, we arrived at the airport early in the morning. The environment was very\nbusy, with passengers checking in, airport",
+  "fields": {
+    "author": "Audriana Ankomah",
+    "article_title": "My Experience at Airport by Audriana Ankomah",
+    "introduction": "Traveling through the airport was one of the most exciting and educational experiences I have\never had. The trip gave me the opportunity to observe how airport operations are carried out\nand how passengers are handled professionally from arrival to departure.\n\nOn the day of the trip, we arrived at the airport early in the morning. The environment was very\nbusy, with passengers checking in, airport staff assisting travelers, and aircraft moving on the\nrunway. The atmosphere was energetic and organized.",
+    "article_pdf": {
+      "id": 5367,
+      "url": "/wp-content/uploads/2026/08/Audriana-Article.pdf",
+      "alt": ""
+    },
+    "article_image": {
+      "id": 5308,
+      "url": "/wp-content/uploads/2026/08/IMG_6503-2-scaled.jpg",
+      "alt": ""
+    }
+  },
+  "cover": {
+    "id": 5308,
+    "url": "/wp-content/uploads/2026/08/IMG_6503-2-scaled.jpg",
+    "alt": ""
+  },
+  "publishedAt": "2026-08-06T19:36:45.000Z",
+  "layout": []
+}

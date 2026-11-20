@@ -1,0 +1,3521 @@
+{
+  "wpId": 3827,
+  "title": "Home",
+  "slug": "home",
+  "path": "/",
+  "template": "home",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {
+    "description": "International Travel & Tourism Institute (ITTI) is a professional aviation, travel, and tourism training institute delivering industry-aligned education through virtual and in-person learning. We provide structured programmes in Cabin Crew, Customer Service, Ground Operations, and professional development, supported by experienced industry practitioners. Our training combines practical instruction, global standards, and career-focused learning to prepare students for opportunities in the international travel and aviation sectors. With flexible study options, workshops, bootcamps, and industry excursions, ITTI is committed to developing skilled, confident, and job-ready professionals for the global market."
+  },
+  "layout": [
+    {
+      "id": "5e5f3385",
+      "type": "container",
+      "props": {
+        "boxed": true,
+        "overlay": true
+      },
+      "children": [
+        {
+          "id": "1f37e394",
+          "type": "container",
+          "props": {
+            "boxed": false,
+            "overlay": true
+          },
+          "children": [
+            {
+              "id": "41f8430f",
+              "type": "heading",
+              "props": {
+                "title": "International Travel and Tourism Institute",
+                "header_size": "h3",
+                "text_stroke_text_stroke_tablet": {
+                  "unit": "px",
+                  "size": 0.5,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "background-color": "transparent",
+                    "background-image": "linear-gradient(180deg, var(--e-global-color-b67616c) 0%, var(--e-global-color-b67616c) 100%)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-284b516)",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "400",
+                    "text-transform": "capitalize",
+                    "font-size": "24px",
+                    "line-height": "1em"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "546ba79",
+              "type": "heading",
+              "props": {
+                "title": "Launch Your Career in Aviation & Hospitality with ITTI",
+                "header_size": "h1",
+                "text_stroke_text_stroke_type": "yes"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "background-color": "var(--e-global-color-b67616c)"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-883ce6d-font-family)",
+                    "font-size": "var(--e-global-typography-883ce6d-font-size)",
+                    "font-weight": "var(--e-global-typography-883ce6d-font-weight)",
+                    "text-transform": "var(--e-global-typography-883ce6d-text-transform)",
+                    "font-style": "var(--e-global-typography-883ce6d-font-style)",
+                    "text-decoration": "var(--e-global-typography-883ce6d-text-decoration)",
+                    "line-height": "var(--e-global-typography-883ce6d-line-height)",
+                    "letter-spacing": "var(--e-global-typography-883ce6d-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-883ce6d-word-spacing)",
+                    "text-shadow": "0px 0px 10px rgba(0,0,0,0.3)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "230aa436",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p>Leading in customer service performance and professionalism</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 0px 10px 0px",
+                    "text-align": "left",
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-text-font-family)",
+                    "font-size": "var(--e-global-typography-text-font-size)",
+                    "font-weight": "var(--e-global-typography-text-font-weight)",
+                    "text-transform": "var(--e-global-typography-text-text-transform)",
+                    "font-style": "var(--e-global-typography-text-font-style)",
+                    "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                    "line-height": "var(--e-global-typography-text-line-height)",
+                    "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 0px 0px 0px",
+                    "text-align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "dbb0f8a",
+              "type": "button",
+              "props": {
+                "text": "Explore Our Programmes",
+                "link": {
+                  "url": "/courses",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-btn",
+                  "css": {
+                    "background-color": "var(--e-global-color-accent)",
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "var(--e-global-typography-accent-font-family)",
+                    "font-size": "var(--e-global-typography-accent-font-size)",
+                    "font-weight": "var(--e-global-typography-accent-font-weight)",
+                    "text-transform": "var(--e-global-typography-accent-text-transform)",
+                    "font-style": "var(--e-global-typography-accent-font-style)",
+                    "text-decoration": "var(--e-global-typography-accent-text-decoration)",
+                    "line-height": "var(--e-global-typography-accent-line-height)",
+                    "letter-spacing": "var(--e-global-typography-accent-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-accent-word-spacing)",
+                    "border-radius": "0px 0px 0px 0px",
+                    "padding": "15px 30px 15px 26px",
+                    "gap": "10px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-btn svg",
+                  "css": {
+                    "fill": "var(--e-global-color-primary)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-btn:hover",
+                  "css": {
+                    "background-color": "var(--e-global-color-primary)",
+                    "color": "var(--e-global-color-accent)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 55% 0% 0%",
+                "--justify-content": "center",
+                "--row-gap": "15px",
+                "--column-gap": "15px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 015% 0% 15%"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "40% 5% 5% 5%",
+                "--justify-content": "flex-start"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": "::before",
+              "css": {
+                "background-color": "var(--e-global-color-b67616c)",
+                "opacity": "0.5"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px",
+            "--padding": "0% 5% 0% 5%",
+            "--min-height": "750px"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0px 0px 0px 0px",
+            "--min-height": "780px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "94vh",
+            "background-color": "var(--e-global-color-b67616c)",
+            "background-image": "url(\"/wp-content/uploads/2025/11/airhostess.jpg\")",
+            "background-position": "center right",
+            "background-size": "contain",
+            "background-repeat": "no-repeat"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "::before",
+          "css": {
+            "background-color": "transparent",
+            "background-image": "linear-gradient(180deg, var(--e-global-color-primary) 0%, var(--e-global-color-text) 100%)",
+            "opacity": "0.5"
+          }
+        }
+      ],
+      "className": "anim anim-fadeIn"
+    },
+    {
+      "id": "4aaa42fa",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "1d003d48",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "3a447149",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "959f854",
+                  "type": "counter",
+                  "props": {
+                    "ending_number": 18,
+                    "title": "Years of Experience",
+                    "number_position": "center"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": " .w-counter-number",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-counter-title",
+                      "css": {
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "400",
+                        "text-transform": "capitalize",
+                        "font-size": "21px",
+                        "line-height": "1em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": " .w-counter-title",
+                      "css": {
+                        "font-size": "18px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 10% 0% 8%",
+                    "--flex-direction": "column",
+                    "--justify-content": "center"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 5% 0% 5%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "51598a01",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "a445abe",
+                  "type": "counter",
+                  "props": {
+                    "ending_number": 10000,
+                    "suffix": "+",
+                    "title": "Past Students",
+                    "counter-title": "Students trained"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": " .w-counter-number",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-counter-title",
+                      "css": {
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "400",
+                        "text-transform": "capitalize",
+                        "font-size": "21px",
+                        "line-height": "1em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": " .w-counter-title",
+                      "css": {
+                        "font-size": "18px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 10% 0% 5%",
+                    "--flex-direction": "column",
+                    "--justify-content": "center"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 5% 0% 5%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--justify-content": "flex-start"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "6a5c589",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "6ac68cf",
+                  "type": "counter",
+                  "props": {
+                    "ending_number": 15,
+                    "title": "Available Courses"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": " .w-counter-number",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-counter-title",
+                      "css": {
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "400",
+                        "text-transform": "capitalize",
+                        "font-size": "21px",
+                        "line-height": "1em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": " .w-counter-title",
+                      "css": {
+                        "font-size": "18px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 10% 0% 5%",
+                    "--flex-direction": "column",
+                    "--justify-content": "center"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 5% 0% 5%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--justify-content": "flex-start"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "0px 0px 0px 0px",
+                "--flex-direction": "row",
+                "--align-items": "stretch",
+                "--row-gap": "10px",
+                "--column-gap": "10px",
+                "--min-height": "200px",
+                "background-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--min-height": "380px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "-65px 0px 0px 0px",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ],
+      "className": "anim anim-fadeIn"
+    },
+    {
+      "id": "cf0eaf5",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "aa154ab",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "58d46e13",
+              "type": "heading",
+              "props": {
+                "title": "Your Flight Plan to Professional Success"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "400",
+                    "text-transform": "capitalize",
+                    "font-size": "24px",
+                    "line-height": "1em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "16px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "346c91f8",
+              "type": "heading",
+              "props": {
+                "title": "Why Choose ITTI?"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "500",
+                    "text-transform": "capitalize",
+                    "font-size": "52px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "34px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "d463497",
+              "type": "image",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.19-1-1536x1024.jpeg",
+                  "id": 4157,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 89,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "width": "100%",
+                    "max-width": "100%",
+                    "flex": "0 0 auto",
+                    "text-align": "left"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " img",
+                  "css": {
+                    "width": "89%",
+                    "box-shadow": "0px 0px 10px 0px rgba(0,0,0,0.5)"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": " img",
+                  "css": {
+                    "width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " img",
+                  "css": {
+                    "width": "100%"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 0%",
+                "--flex-direction": "column",
+                "--justify-content": "center",
+                "--width": "50%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 0% 0% 0%",
+                "--width": "100%"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "40% 0% 0% 0%",
+                "border-width": "0px 00px 0px 00px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "da52136",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "4443e02d",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p data-start=\"1000\" data-end=\"1272\">Established in 2007, ITTI is  Ghana’s most trusted aviation and service-training institution.</p><p data-start=\"1000\" data-end=\"1272\">We bridge the gap between learning and employment by combining internationally recognised certifications with modern training facilities and industry-relevant instruction.</p><p data-start=\"1274\" data-end=\"1478\">We develop confidence, professionalism, and real-world skills.<br />Giving you the wings to succeed with leading airlines and hospitality brands around the world.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "order": "-99999",
+                    "text-align": "center",
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "\"Montserrat\", sans-serif",
+                    "font-weight": "500",
+                    "font-size": "21px",
+                    "line-height": "1.8em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center",
+                    "font-size": "16px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "5840a29b",
+              "type": "button",
+              "props": {
+                "text": "About Us",
+                "icon_align": "right",
+                "link": {
+                  "url": "/about",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-btn",
+                  "css": {
+                    "background-color": "var(--e-global-color-b67616c)",
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Montserrat\", sans-serif",
+                    "font-weight": "400",
+                    "text-transform": "capitalize",
+                    "text-decoration": "underline",
+                    "font-size": "24px",
+                    "padding": "0px 0px 0px 0px",
+                    "gap": "10px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-btn svg",
+                  "css": {
+                    "fill": "var(--e-global-color-primary)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-btn:hover",
+                  "css": {
+                    "background-color": "var(--e-global-color-b67616c)",
+                    "color": "var(--e-global-color-primary)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 0%",
+                "--flex-direction": "column",
+                "--justify-content": "flex-end",
+                "--width": "46%",
+                "--min-height": "0px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 0% 0% 0%",
+                "--width": "100%"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "020% 010% 020% 010%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "5% 0% 0% 0%",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "0px",
+            "--column-gap": "0px",
+            "--min-height": "352px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px",
+            "--padding": "0% 5% 0% 5%",
+            "--flex-direction": "column",
+            "--row-gap": "0%",
+            "--column-gap": "5%"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4210f554",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "a3bf5d5",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "555031bf",
+              "type": "heading",
+              "props": {
+                "title": "EXPLORE OUR CORE COURSES"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 0px 0px 0px",
+                    "text-align": "right"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "align-self": "center",
+                    "text-align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "7a19d413",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p>Three integrated bundles for mastering aviation service essentials.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "right",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "400",
+                    "text-transform": "capitalize",
+                    "font-size": "24px",
+                    "line-height": "1em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center",
+                    "font-size": "18px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "7% 0% 0% 0%",
+                "--flex-direction": "column",
+                "--row-gap": "5px",
+                "--column-gap": "5px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "59a8f0a6",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "102593ab",
+              "type": "heading",
+              "props": {
+                "title": "Join our virtual or on-campus classes from anywhere and take the first step toward your aviation career today!",
+                "header_size": "h3"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "30px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "18px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "0px 0px 0px 0px",
+                "--padding": "25px 25px 25px 25px",
+                "background-color": "var(--e-global-color-text)",
+                "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                "transition": "all 0.5s"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "margin": "0px 0px 0px 0px",
+                "--padding": "5% 5% 5% 5%",
+                "--width": "100%"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "margin": "0px 0px 0px 0px",
+                "--padding": "10% 10% 10% 10%",
+                "--align-items": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": ":hover",
+              "css": {
+                "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7b26c1b",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "5d396c4",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "121ef86",
+                  "type": "heading",
+                  "props": {
+                    "title": "Package I",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "200",
+                        "text-transform": "none",
+                        "font-size": "52px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "ce027f0",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><strong>AIRPORT PASSENGER SERVICES &amp; OPERATIONS  </strong></p><p><span data-contrast=\"auto\">CUSTOMER CARE </span></p><p><span data-contrast=\"auto\">PERSONAL DEVELOPMENT </span></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "600",
+                        "font-size": "21px",
+                        "line-height": "1.8em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " a:hover",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " p",
+                      "css": {
+                        "margin-bottom": "29px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-primary)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "434bc7fc",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "37ab1ffc",
+                  "type": "heading",
+                  "props": {
+                    "title": "Package II",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "200",
+                        "text-transform": "none",
+                        "font-size": "52px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "33bcfd26",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><strong>INTERNATIONAL TRAVEL AND TOURISM FOUNDATION DIPLOMA</strong></p><p><span data-contrast=\"auto\">CUSTOMER CARE</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p><p><span data-contrast=\"auto\">PERSONAL DEVELOPMENT</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "600",
+                        "font-size": "21px",
+                        "line-height": "1.8em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " a:hover",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " p",
+                      "css": {
+                        "margin-bottom": "29px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-primary)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1fee50c9",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "da8da64",
+                  "type": "heading",
+                  "props": {
+                    "title": "Package III",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "200",
+                        "text-transform": "none",
+                        "font-size": "52px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "45bb7399",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><strong>IATA AIRLINE CABIN CREW TRAINING</strong></p><p><span data-contrast=\"auto\">CUSTOMER CARE</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p><p><span data-contrast=\"auto\">PERSONAL DEVELOPMENT</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "600",
+                        "font-size": "21px",
+                        "line-height": "1.8em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " a:hover",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " p",
+                      "css": {
+                        "margin-bottom": "29px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-primary)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "03% 0% 0% 0%",
+                "--flex-direction": "row",
+                "--row-gap": "40px",
+                "--column-gap": "40px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--padding": "0px 0px 050px 0px",
+            "z-index": "5",
+            "--flex-direction": "column",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9c6ecd",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "75ac9ee",
+          "type": "heading",
+          "props": {
+            "title": "TESTIMONIALS"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "padding": "0px 0px 0px 0px",
+                "text-align": "left"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "align-self": "center",
+                "text-align": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fc5001b",
+          "type": "testimonial-carousel",
+          "props": {
+            "slides_name": "Slides",
+            "slides": [
+              {
+                "content": "“From ITTI I have become more conscious of time and punctual too. My lecturers were able to impact knowledge because some were very passionate about their work as well creating a friendly atmosphere for learning. At ITTI, I gained a lot of experience especially because class competition was high due to the weekly Friday tests in addition to the city codes. The GATA and Airport trip gave me a lot of exposure and great experience. The Airport internship is a nice experience.”",
+                "name": "Mary Asamoabea Wuver",
+                "title": "ITTI Alumni",
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_id": "5935ccb"
+              },
+              {
+                "content": "Looking for the best Aviation school to study courses like Passenger handling, air cargo handling, and ramp operations then I recommend ITTI at Abofu junction, Achimota. It has a serene environment, air-conditioned lecture rooms, and many more.",
+                "name": "Ransford Aboagye Adorm",
+                "title": "Alumni",
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_id": "eda6869"
+              },
+              {
+                "content": "Took a travel and tourism course here in 2015 and came back three years later for a customer service agent course. Great school",
+                "name": "Pearl Semenyo",
+                "title": "ITTI Alumni",
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_id": "b2ead60"
+              }
+            ],
+            "skin": "bubble"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": " .w-tc-name",
+              "css": {
+                "font-family": "\"Poppins\", sans-serif",
+                "font-weight": "300",
+                "text-transform": "capitalize",
+                "font-size": "32px",
+                "line-height": "1.2em"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": " .w-tc-name",
+              "css": {
+                "font-size": "25px"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tc-title",
+              "css": {
+                "font-family": "\"Merriweather\", sans-serif",
+                "font-weight": "400",
+                "text-transform": "capitalize",
+                "font-size": "18px",
+                "line-height": "1em"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--padding": "20px 20px 20px 20px",
+            "--flex-direction": "column"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--padding": "10px 0px 0px 0px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1ff36b43",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "fac2a49",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "2cb14ce",
+              "type": "heading",
+              "props": {
+                "title": "WHAT WE HAVE TO OFFER"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 0px 0px 0px",
+                    "text-align": "right"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "52px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "7% 0% 0% 0%",
+                "--flex-direction": "column",
+                "--row-gap": "5px",
+                "--column-gap": "5px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "40269d75",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "43f58a62",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "db8667b",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "far fa-building",
+                      "library": "fa-regular"
+                    }
+                  }
+                },
+                {
+                  "id": "7816d18e",
+                  "type": "heading",
+                  "props": {
+                    "title": "World-Class Facilities",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "45d029ac",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><b>Ultramodern, air-conditioned lecture rooms</b> in a <b>strategic, convenient location</b> in Accra, Ghana, offering <b>high-speed internet</b> &amp; <b>web conferencing</b> setup.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "ccc517b",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "2cf11d1",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "fas fa-chalkboard-teacher",
+                      "library": "fa-solid"
+                    }
+                  }
+                },
+                {
+                  "id": "6ffd909",
+                  "type": "heading",
+                  "props": {
+                    "title": "Expert Instructors",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "c2fe2ac",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Learn from <b>dedicated, qualified instructors</b> who bring a <b>wide range of real-world aviation and travel industry skills</b> and experience directly to your classroom.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "24d30808",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "9a3bfdc",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "fas fa-medal",
+                      "library": "fa-solid"
+                    }
+                  }
+                },
+                {
+                  "id": "428e94d7",
+                  "type": "heading",
+                  "props": {
+                    "title": "Accredited Courses",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "14472c2d",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><b>Engaging, fulfilling courses</b> leading to <b>useful, globally recognized certifications</b> (IATA, etc.). We offer <b>flexible, customizable</b> learning paths.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 0%",
+                "--flex-direction": "row",
+                "--row-gap": "40px",
+                "--column-gap": "40px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "100px 0px 100px 0px",
+            "--padding": "0px 05px 0px 05px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 020% 5%"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "z-index": "20",
+            "--flex-direction": "column",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "05eb2a1",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "33af644",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "2f64ee3",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "a085eb7",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "fas fa-suitcase",
+                      "library": "fa-solid"
+                    }
+                  }
+                },
+                {
+                  "id": "2f0acf4",
+                  "type": "heading",
+                  "props": {
+                    "title": "Career Launchpad",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "7d12a5e",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Unparalleled <b>career prospects</b> backed by <b>strong industry partnerships</b> and access to direct <b>job opportunities</b> through our dedicated placement support.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "c777712",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "9786205",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "far fa-calendar-check",
+                      "library": "fa-regular"
+                    }
+                  }
+                },
+                {
+                  "id": "cedc2d3",
+                  "type": "heading",
+                  "props": {
+                    "title": "Proven Experience",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "92d1a79",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Over <b>18 years of experience</b> in specialized training. Join our <b>large, powerful alumni community</b> shaping the future of African aviation and tourism.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "7a7f254",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "e28240a",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "far fa-star",
+                      "library": "fa-regular"
+                    }
+                  }
+                },
+                {
+                  "id": "1d982d0",
+                  "type": "heading",
+                  "props": {
+                    "title": "Commitment to Quality",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "e94d402",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><b>ITTI is an accredited training center</b> that maintains the highest standards in education, regularly upgrading its curriculum, <b>technology</b>, and resources for a <b>premium student experience.</b></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "20% 0% 0% 0%",
+                "--flex-direction": "row",
+                "--row-gap": "40px",
+                "--column-gap": "40px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "-200px 0px 0px 0px",
+            "--padding": "0px 0px 200px 0px",
+            "z-index": "5",
+            "--flex-direction": "column",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0100px 0px 0100px 0px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 020% 5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "408e826a",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "6aea802a",
+          "type": "container",
+          "props": {
+            "boxed": false,
+            "background_image": {
+              "$dyn": "featured-image"
+            }
+          },
+          "children": [
+            {
+              "id": "ff73fb1",
+              "type": "image",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2025/11/airport-crew-e1764154982117.png",
+                  "id": 4029,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              }
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "--width": "58%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 1px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--width": "100%",
+                "--min-height": "600px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--min-height": "270px",
+                "background-position": "center center",
+                "background-size": "cover",
+                "background-repeat": "no-repeat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ce5d53c",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "45b5585a",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "2ce85415",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "494d687a",
+                      "type": "heading",
+                      "props": {
+                        "title": "Cleared for Takeoff! "
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "var(--e-global-color-primary)",
+                            "font-family": "var(--e-global-typography-primary-font-family)",
+                            "font-size": "var(--e-global-typography-primary-font-size)",
+                            "font-weight": "var(--e-global-typography-primary-font-weight)",
+                            "text-transform": "var(--e-global-typography-primary-text-transform)",
+                            "font-style": "var(--e-global-typography-primary-font-style)",
+                            "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                            "line-height": "var(--e-global-typography-primary-line-height)",
+                            "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "88d4d5e",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p>The aviation industry offers dynamic global careers. Our courses at <strong>ITTI</strong> give you the certifications and skills needed for a rewarding future in this exciting sector.</p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center",
+                            "color": "var(--e-global-color-text)",
+                            "font-family": "\"Montserrat\", sans-serif",
+                            "font-weight": "500",
+                            "font-size": "16px",
+                            "line-height": "1.8em"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "5594eef2",
+                      "type": "button",
+                      "props": {
+                        "text": "View Careers",
+                        "link": {
+                          "url": "/careers",
+                          "is_external": "on",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "margin": "40px 0px 0px 0px",
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-btn",
+                          "css": {
+                            "background-color": "var(--e-global-color-accent)",
+                            "color": "var(--e-global-color-primary)",
+                            "font-family": "\"Montserrat\", sans-serif",
+                            "font-weight": "400",
+                            "text-transform": "capitalize",
+                            "text-decoration": "none",
+                            "font-size": "16px",
+                            "line-height": "1em",
+                            "border-radius": "0px 0px 0px 0px",
+                            "padding": "15px 40px 15px 40px",
+                            "gap": "10px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-btn svg",
+                          "css": {
+                            "fill": "var(--e-global-color-primary)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-btn:hover",
+                          "css": {
+                            "background-color": "var(--e-global-color-primary)",
+                            "color": "var(--e-global-color-accent)"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "75px 75px 75px 75px",
+                        "--justify-content": "center",
+                        "--row-gap": "10px",
+                        "--column-gap": "10px"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "--padding": "10% 10% 10% 10%"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "--flex-direction": "row",
+                    "--justify-content": "flex-end",
+                    "--align-items": "center",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 15px 35px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "--row-gap": "0px",
+                "--column-gap": "0px",
+                "--width": "42%",
+                "border-style": "solid",
+                "border-width": "0px 1px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--width": "100%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "50px 0px 50px 0px",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "0px",
+            "--column-gap": "0px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "margin": "0100px 0px 0px 0px",
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0100px 0px 0100px 0px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "82b41ac",
+      "type": "container",
+      "props": {
+        "boxed": true,
+        "overlay": true
+      },
+      "children": [
+        {
+          "id": "14666664",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "5c72bb45",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "2981cfb4",
+                  "type": "heading",
+                  "props": {
+                    "title": "stay connected",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-secondary-font-family)",
+                        "font-size": "var(--e-global-typography-secondary-font-size)",
+                        "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                        "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                        "font-style": "var(--e-global-typography-secondary-font-style)",
+                        "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                        "line-height": "var(--e-global-typography-secondary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "46772a7",
+                  "type": "heading",
+                  "props": {
+                    "title": "News &amp; Updates",
+                    "text_stroke_text_stroke_type": "yes"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-primary-font-family)",
+                        "font-size": "var(--e-global-typography-primary-font-size)",
+                        "font-weight": "var(--e-global-typography-primary-font-weight)",
+                        "text-transform": "var(--e-global-typography-primary-text-transform)",
+                        "font-style": "var(--e-global-typography-primary-font-style)",
+                        "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                        "line-height": "var(--e-global-typography-primary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-primary-word-spacing)",
+                        "text-shadow": "0px 0px 35px rgba(255, 255, 255, 0.3)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5b7d8a03",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Stay up to date with aviation news, upcoming events, workshops, and industry sessions at ITTI.  Designed to connect you with real-world aviation and hospitality experience.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "20px 0px 50px 0px",
+                        "text-align": "left",
+                        "color": "#FFFFFF",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "margin": "5% 0% 5% 0%",
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5cc6f54b",
+                  "type": "button",
+                  "props": {
+                    "text": "More Articles",
+                    "icon_align": "right",
+                    "link": {
+                      "url": "/campus",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    }
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn",
+                      "css": {
+                        "background-color": "var(--e-global-color-b67616c)",
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-b43c0ff-font-family)",
+                        "font-size": "var(--e-global-typography-b43c0ff-font-size)",
+                        "font-weight": "var(--e-global-typography-b43c0ff-font-weight)",
+                        "text-transform": "var(--e-global-typography-b43c0ff-text-transform)",
+                        "font-style": "var(--e-global-typography-b43c0ff-font-style)",
+                        "text-decoration": "var(--e-global-typography-b43c0ff-text-decoration)",
+                        "line-height": "var(--e-global-typography-b43c0ff-line-height)",
+                        "letter-spacing": "var(--e-global-typography-b43c0ff-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-b43c0ff-word-spacing)",
+                        "padding": "0px 0px 0px 0px",
+                        "gap": "10px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn svg",
+                      "css": {
+                        "fill": "var(--e-global-color-primary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn:hover",
+                      "css": {
+                        "background-color": "var(--e-global-color-b67616c)",
+                        "color": "var(--e-global-color-primary)"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 10% 0% 0%",
+                    "--justify-content": "center",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px",
+                    "--width": "35%"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 20% 10% 20%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 10% 10% 10%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "a3341fa",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "5056ee14",
+                  "type": "posts",
+                  "props": {
+                    "classic_read_more_text": "Read More »",
+                    "cards_read_more_text": "Read More »",
+                    "full_content_meta_separator": "///",
+                    "posts_include": [
+                      "terms"
+                    ],
+                    "posts_include_term_ids": [
+                      54
+                    ],
+                    "pagination_page_limit": "5",
+                    "pagination_prev_label": "&laquo; Previous",
+                    "pagination_next_label": "Next &raquo;",
+                    "_skin": "cards",
+                    "classic_meta_data": [
+                      "date"
+                    ],
+                    "classic_show_read_more": "",
+                    "cards_columns": "2",
+                    "cards_posts_per_page": "2",
+                    "cards_thumbnail_size_size": "full",
+                    "cards_item_ratio": {
+                      "unit": "px",
+                      "size": "0.62",
+                      "sizes": []
+                    },
+                    "cards_meta_data": [
+                      "date"
+                    ],
+                    "cards_show_read_more": "",
+                    "cards_show_badge": "",
+                    "cards_show_avatar": "",
+                    "cards_hover_effect": "none",
+                    "text": "Load More",
+                    "load_more_no_posts_custom_message": "No more posts to show",
+                    "cards_excerpt_length": 10,
+                    "cards_apply_to_custom_excerpt": "yes",
+                    "cards_open_new_tab": "yes"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": " .w-posts",
+                      "css": {
+                        "column-gap": "50px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-post-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-post-meta",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-7ba1c84-font-family)",
+                        "font-size": "var(--e-global-typography-7ba1c84-font-size)",
+                        "font-weight": "var(--e-global-typography-7ba1c84-font-weight)",
+                        "text-transform": "var(--e-global-typography-7ba1c84-text-transform)",
+                        "font-style": "var(--e-global-typography-7ba1c84-font-style)",
+                        "text-decoration": "var(--e-global-typography-7ba1c84-text-decoration)",
+                        "line-height": "var(--e-global-typography-7ba1c84-line-height)",
+                        "letter-spacing": "var(--e-global-typography-7ba1c84-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-7ba1c84-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-post-excerpt",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 0% 0% 0%",
+                    "--width": "65%"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--width": "100%"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "300px 0px 200px 0px",
+                "--flex-direction": "row",
+                "--row-gap": "10px",
+                "--column-gap": "10px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "100px 0px 100px 0px",
+                "--flex-wrap": "wrap"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "background-color": "transparent",
+            "background-image": "radial-gradient(at top center, #FFFFFF 0%, var(--e-global-color-text) 70%)"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "::before",
+          "css": {
+            "background-image": "url(\"/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.02.jpeg\")",
+            "opacity": "0.5"
+          }
+        }
+      ]
+    }
+  ]
+}

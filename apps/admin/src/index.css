@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+@import './styles/vantara-theme.css';
+@import './styles/vantara-overrides.css';
+
+/*
+ * Light theme only. vantara-ui ships dark: variants, and Tailwind applies them
+ * whenever the computer is in dark mode, which turned the dashboard tiles and
+ * form fields dark with light text. Dark styles now only apply under a .dark
+ * class, which the admin never sets.
+ */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Generate the utility classes used inside vantara-ui's compiled components and our blocks preview. */
+@source '../node_modules/@vantara-ui/ui/dist';
+@source '../../../packages/blocks/src';
+
+@theme {
+  --color-brand: #002147;
+  --color-brand-dark: #001530;
+  --color-brand-ink: #001a38;
+  --color-brand-blue: #3277ae;
+  /* (ITTI light accent #F5F5F5 is the palette's surface-muted; "accent" is the palette's blue) */
+}
+
+html {
+  color-scheme: light; /* native inputs, selects and scrollbars stay light */
+}
+
+body {
+  font-family: var(--font-inter);
+  color: var(--color-text-primary);
+}

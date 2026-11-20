@@ -1,0 +1,215 @@
+{
+  "wpId": 4952,
+  "title": "CBO - Calendar Event Post",
+  "slug": "cbo-calendar-event-post-4952",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "56fe247d",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "190e6d50",
+          "type": "theme-post-featured-image",
+          "props": {
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "image": {
+              "$dyn": "featured-image"
+            }
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "text-align": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " img",
+              "css": {
+                "width": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "3114ea67",
+          "type": "heading",
+          "props": {
+            "title": {
+              "$dyn": "field",
+              "field": "event_name"
+            }
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "10px 10px 10px 10px"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-title",
+              "css": {
+                "font-family": "\"Poppins\", sans-serif",
+                "font-weight": "300",
+                "text-transform": "capitalize",
+                "font-size": "24px",
+                "line-height": "1.2em"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": " .w-title",
+              "css": {
+                "font-size": "25px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2d8f6c8b",
+          "type": "text-editor",
+          "props": {
+            "editor": {
+              "$dyn": "field",
+              "field": "event_description"
+            }
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "10px 10px 10px 10px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "301558c9",
+          "type": "icon-list",
+          "props": {
+            "icon_list": [
+              {
+                "text": {
+                  "$dyn": "field",
+                  "field": "event_location"
+                },
+                "selected_icon": {
+                  "value": "fas fa-map-pin",
+                  "library": "fa-solid"
+                },
+                "_id": "f334790"
+              },
+              {
+                "text": {
+                  "$dyn": "field",
+                  "field": "event_date"
+                },
+                "selected_icon": {
+                  "value": "far fa-calendar-alt",
+                  "library": "fa-regular"
+                },
+                "_id": "cdf9469"
+              },
+              {
+                "text": {
+                  "$dyn": "field",
+                  "field": "event_time"
+                },
+                "selected_icon": {
+                  "value": "far fa-clock",
+                  "library": "fa-regular"
+                },
+                "_id": "35d7521"
+              },
+              {
+                "_id": "d3c1e21",
+                "text": {
+                  "$dyn": "field",
+                  "field": ""
+                },
+                "selected_icon": {
+                  "value": "fas fa-link",
+                  "library": "fa-solid"
+                },
+                "link": {
+                  "url": "Link",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                }
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "10px 10px 10px 10px"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-il-text",
+              "css": {
+                "color": "var(--e-global-color-text)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1da4875c",
+          "type": "countdown",
+          "props": {
+            "show_seconds": "",
+            "label_days": "Days",
+            "label_hours": "Hours",
+            "label_minutes": "Minutes",
+            "label_seconds": "Seconds"
+          }
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--width": "30%",
+            "background-color": "var(--e-global-color-accent)",
+            "border-radius": "1px 1px 1px 1px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--width": "100%"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": ":hover",
+          "css": {
+            "box-shadow": "0px 0px 10px 0px rgba(0,0,0,0.5)"
+          }
+        }
+      ]
+    }
+  ]
+}

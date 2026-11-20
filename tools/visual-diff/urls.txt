@@ -1,0 +1,5 @@
+# One path per line. Compared on OLD_BASE (WordPress) vs NEW_BASE (staging).
+/
+/about
+/courses
+/contact

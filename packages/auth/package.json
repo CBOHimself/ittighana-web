@@ -1,0 +1,24 @@
+{
+  "name": "@itti/auth",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./client": "./src/client.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@itti/schemas": "workspace:*",
+    "better-auth": "^1.3.0",
+    "mongodb": "~7.7.0"
+  },
+  "devDependencies": {
+    "@itti/config": "workspace:*",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "typescript": "~6.0.3"
+  }
+}

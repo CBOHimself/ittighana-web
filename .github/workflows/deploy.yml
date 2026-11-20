@@ -1,0 +1,88 @@
+name: Deploy to cPanel
+
+# main → production, staging → staging subdomains.
+# Required secrets (per environment): CPANEL_HOST, CPANEL_USER, CPANEL_SSH_KEY, CPANEL_SSH_PORT
+# Required vars (per environment):    API_URL, SITE_URL, MEDIA_URL, TURNSTILE_SITE_KEY,
+#                                     WEB_DIR, API_DIR   (absolute paths on the server)
+# The staff portal is built into the web app's public/staff folder and served at <SITE_URL>/staff.
+on:
+  push:
+    branches: [main, staging]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: ${{ github.ref_name == 'main' && 'production' || 'staging' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Build
+        run: pnpm build
+        env:
+          NEXT_PUBLIC_API_URL: ${{ vars.API_URL }}
+          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL }}
+          NEXT_PUBLIC_MEDIA_URL: ${{ vars.MEDIA_URL }}
+          MEDIA_ORIGIN: ${{ vars.MEDIA_URL }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          NEXT_PUBLIC_TURNSTILE_SITE_KEY: ${{ vars.TURNSTILE_SITE_KEY }}
+          VITE_API_URL: ${{ vars.API_URL }}
+
+      - name: Assemble release
+        run: |
+          set -e
+          mkdir -p release
+          # Web: Next.js standalone server + static assets
+          cp -r apps/web/.next/standalone release/web
+          mkdir -p release/web/apps/web/.next
+          cp -r apps/web/.next/static release/web/apps/web/.next/static
+          cp -r apps/web/public release/web/apps/web/public
+          # API: bundled dist + production node_modules (linux-x64, matches cPanel)
+          pnpm --filter @itti/api deploy --prod --legacy release/api
+          cp -r apps/api/dist release/api/dist
+          cp apps/api/app.cjs release/api/app.cjs
+          # Staff portal: already inside release/web/apps/web/public/staff (admin build output)
+          test -f release/web/apps/web/public/staff/index.html
+
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.CPANEL_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p ${{ secrets.CPANEL_SSH_PORT }} ${{ secrets.CPANEL_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Upload
+        env:
+          SSH: ssh -p ${{ secrets.CPANEL_SSH_PORT }}
+          TARGET: ${{ secrets.CPANEL_USER }}@${{ secrets.CPANEL_HOST }}
+        run: |
+          set -e
+          # --exclude keeps server-only files (env, Passenger tmp, logs) in place
+          rsync -az --delete -e "$SSH" --exclude '.env' --exclude 'tmp/' --exclude 'stderr.log' release/web/   "$TARGET:${{ vars.WEB_DIR }}/"
+          rsync -az --delete -e "$SSH" --exclude '.env' --exclude 'tmp/' --exclude 'stderr.log' release/api/   "$TARGET:${{ vars.API_DIR }}/"
+
+      - name: Migrate indexes & restart apps
+        run: |
+          ssh -p ${{ secrets.CPANEL_SSH_PORT }} ${{ secrets.CPANEL_USER }}@${{ secrets.CPANEL_HOST }} '
+            set -e
+            cd ${{ vars.API_DIR }} && node --env-file=.env dist/sync-indexes.js
+            mkdir -p ${{ vars.API_DIR }}/tmp ${{ vars.WEB_DIR }}/tmp
+            touch ${{ vars.API_DIR }}/tmp/restart.txt ${{ vars.WEB_DIR }}/tmp/restart.txt
+          '
+
+      - name: Smoke test
+        run: |
+          sleep 10
+          curl -fsS ${{ vars.API_URL }}/health
+          curl -fsS -o /dev/null ${{ vars.SITE_URL }}

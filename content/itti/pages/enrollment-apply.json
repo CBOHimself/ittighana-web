@@ -1,0 +1,1339 @@
+{
+  "wpId": 4656,
+  "title": "Enrollment",
+  "slug": "enrollment-apply",
+  "path": "/enrollment-apply",
+  "template": "default",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {
+    "description": "Apply to ITTI and take the first step toward a professional career in aviation, travel and tourism with flexible online and on-campus options."
+  },
+  "layout": [
+    {
+      "id": "29bc76f0",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "338ad4b8",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "2fd53e3b",
+              "type": "theme-post-title",
+              "props": {
+                "title": {
+                  "$dyn": "title"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "width": "100%",
+                    "flex": "0 0 auto"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "var(--e-global-typography-947f909-font-family)",
+                    "font-size": "var(--e-global-typography-947f909-font-size)",
+                    "font-weight": "var(--e-global-typography-947f909-font-weight)",
+                    "text-transform": "var(--e-global-typography-947f909-text-transform)",
+                    "font-style": "var(--e-global-typography-947f909-font-style)",
+                    "text-decoration": "var(--e-global-typography-947f909-text-decoration)",
+                    "line-height": "var(--e-global-typography-947f909-line-height)",
+                    "letter-spacing": "var(--e-global-typography-947f909-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-947f909-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 0%",
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "100%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "5% 5% 0% 5%",
+                "--width": "100%",
+                "border-width": "0px 00px 0px 00px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "100px 0px 0px 0px",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "205px",
+            "background-color": "var(--e-global-color-secondary)"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0px 0px 0px 0px",
+            "--min-height": "40vh"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap",
+            "--min-height": "250px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "244ecce2",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "5bf73ca2",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "5ee16ac4",
+              "type": "heading",
+              "props": {
+                "title": "How can you enroll?"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 0px 0px 010px"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "align-self": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "400",
+                    "text-transform": "capitalize",
+                    "font-size": "24px",
+                    "line-height": "1em"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "16px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center",
+                "--width": "30%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "71288546",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "1151eb95",
+              "type": "heading",
+              "props": {
+                "title": " Follow these steps to submit your application and secure your place in our aviation and hospitality programs."
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 5px 0px 0px"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "align-self": "center",
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "400",
+                    "text-transform": "capitalize",
+                    "text-decoration": "none",
+                    "font-size": "24px",
+                    "line-height": "1em"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "16px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center",
+                "--width": "70%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--min-height": "150px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3ea42bd9",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "1b9789b4",
+          "type": "nested-tabs",
+          "children": [
+            {
+              "id": "7c3186eb",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "2a78abd7",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "54769390",
+                      "type": "heading",
+                      "props": {
+                        "title": {
+                          "$dyn": "field",
+                          "field": "course_overview"
+                        }
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "b0d19b9",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<h3 data-start=\"327\" data-end=\"374\"><strong data-start=\"331\" data-end=\"372\">Step 1: Complete the Application Form</strong></h3><p data-start=\"375\" data-end=\"512\">Download and fill out the ITTI application form completely. Ensure all personal and academic information is accurate before submission.</p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "b7bf63b",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<h3 data-start=\"579\" data-end=\"630\"><strong data-start=\"583\" data-end=\"628\">Step 2: Prepare Your Supporting Documents</strong></h3><p data-start=\"631\" data-end=\"701\">Along with your completed application form, you will need to submit:</p><ul data-start=\"702\" data-end=\"869\"><li data-start=\"702\" data-end=\"744\"><p data-start=\"704\" data-end=\"744\"><strong data-start=\"704\" data-end=\"742\">Two (2) passport-sized photographs</strong></p></li><li data-start=\"745\" data-end=\"869\"><p data-start=\"747\" data-end=\"869\"><strong data-start=\"747\" data-end=\"787\">Copies of your academic certificates</strong> (high school, previous qualifications, or relevant professional certifications)</p></li></ul><p data-start=\"871\" data-end=\"916\">Make sure all copies are clear and legible.</p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "5a38872",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<h3 data-start=\"836\" data-end=\"875\"><strong data-start=\"840\" data-end=\"873\">Step 3: Submit Your Documents</strong></h3><p data-start=\"876\" data-end=\"945\">Submit your completed application form and supporting documents to:</p><p data-start=\"947\" data-end=\"1136\"><strong data-start=\"947\" data-end=\"980\">The Administrative Department</strong><br data-start=\"980\" data-end=\"983\" /><strong data-start=\"983\" data-end=\"1027\">International Travel &amp; Tourism Institute</strong><br data-start=\"1027\" data-end=\"1030\" />Jupiter House – on the Motorway Extension towards Abeka Lapaz from the Tetteh Quarshie Roundabout, Accra</p><p data-start=\"1138\" data-end=\"1196\">You can also reach out for more information or guidance:</p><ul data-start=\"1197\" data-end=\"1374\"><li data-start=\"1260\" data-end=\"1315\"><p data-start=\"1262\" data-end=\"1315\"><strong data-start=\"1262\" data-end=\"1272\">Email:</strong> <strong>frontdesk@ittighana.com</strong></p></li><li data-start=\"1316\" data-end=\"1374\"><p data-start=\"1318\" data-end=\"1374\"><strong data-start=\"1318\" data-end=\"1332\">Telephone:</strong> <strong>+233 54 545 4022</strong></p></li></ul>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "flex": "0 0 auto",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--width": "240.344px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "369b3d0e",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "33367ddb",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "10f62652",
+                      "type": "heading",
+                      "props": {
+                        "title": {
+                          "$dyn": "field",
+                          "field": "course_overview"
+                        }
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "43a90661",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<h3 data-start=\"122\" data-end=\"164\">1. Foundation (Airfares and Ticketing)</h3><ul data-start=\"165\" data-end=\"279\"><li data-start=\"165\" data-end=\"202\"><p data-start=\"167\" data-end=\"202\">WASCE with aggregate 24 or better</p></li><li data-start=\"203\" data-end=\"248\"><p data-start=\"205\" data-end=\"248\">GCE O’Level, A’ Level, RSA, City &amp; Guilds</p></li><li data-start=\"249\" data-end=\"279\"><p data-start=\"251\" data-end=\"279\">3 years post Sec. (Teachers)</p></li></ul><h3 data-start=\"281\" data-end=\"323\">2. Any other programme offered by ITTI</h3><ul data-start=\"324\" data-end=\"455\"><li data-start=\"324\" data-end=\"394\"><p data-start=\"326\" data-end=\"394\">WASCE with two years work experience with a reputable organization</p></li><li data-start=\"395\" data-end=\"428\"><p data-start=\"397\" data-end=\"428\">Certificate in any discipline</p></li><li data-start=\"429\" data-end=\"455\"><p data-start=\"431\" data-end=\"455\">Diploma / HND / Degree</p></li><li data-start=\"429\" data-end=\"455\"><p data-start=\"431\" data-end=\"455\">25 years and above with at least 3 years work experience</p></li><li data-start=\"429\" data-end=\"455\"><p data-start=\"431\" data-end=\"455\">IPMC / NIIT Training Certificate</p></li><li data-start=\"429\" data-end=\"455\"><p data-start=\"431\" data-end=\"455\">Pre-university Courses</p></li><li data-start=\"429\" data-end=\"455\"><p data-start=\"431\" data-end=\"455\">Any equivalent course to/above WASCE</p></li></ul><h3 data-start=\"457\" data-end=\"514\">3. Ramp Certification (Turn Around Coordinator – Trc)</h3><ul data-start=\"515\" data-end=\"558\"><li data-start=\"515\" data-end=\"529\"><p data-start=\"517\" data-end=\"529\">1ST DEGREE</p></li><li data-start=\"530\" data-end=\"537\"><p data-start=\"532\" data-end=\"537\">HND</p></li><li data-start=\"538\" data-end=\"558\"><p data-start=\"540\" data-end=\"558\">Driver’s License</p></li></ul>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "props": {
+            "tabs": [
+              {
+                "tab_title": "Registration Process",
+                "_id": "c5a390a"
+              },
+              {
+                "tab_title": "Entry Requirements",
+                "_id": "50e99ae"
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "50px 0px 0px 0px",
+                "width": "70%",
+                "max-width": "100%"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab",
+              "css": {
+                "background-color": "var(--e-global-color-secondary)",
+                "color": "var(--e-global-color-primary)",
+                "font-family": "\"Merriweather\", sans-serif",
+                "font-weight": "400",
+                "text-transform": "capitalize",
+                "font-size": "16px",
+                "line-height": "1em"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab:hover",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 03px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab[aria-selected=\"true\"]",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 3px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tabs-heading",
+              "css": {
+                "margin-bottom": "50px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7df29614",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "39dee620",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "5c4e5813",
+                  "type": "heading",
+                  "props": {
+                    "title": "Application form"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "font-size": "36px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "3a450bb0",
+                  "type": "button",
+                  "props": {
+                    "text": "Download",
+                    "link": {
+                      "url": "/wp-content/uploads/2025/12/application-form-itti.pdf",
+                      "is_external": "on",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    }
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "width": "100%",
+                        "align-self": "center",
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "text-decoration": "none",
+                        "font-size": "24px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn svg",
+                      "css": {
+                        "fill": "var(--e-global-color-primary)"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-btn",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "50px 50px 50px 50px",
+                    "--padding": "25px 25px 25px 25px",
+                    "--width": "80%",
+                    "background-color": "var(--e-global-color-text)",
+                    "border-radius": "5px 5px 5px 5px"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "20px 20px 20px 20px",
+                    "align-self": "center",
+                    "--align-items": "center",
+                    "--width": "80%"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "align-self": "center",
+                "--align-items": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--flex-direction": "column",
+                "--width": "30%"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--width": "50%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--width": "100%"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column",
+            "--align-items": "center"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--width": "90%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0ae3693",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "e1a33fe",
+          "type": "spacer",
+          "props": {},
+          "styles": [
+            {
+              "bp": "base",
+              "sel": " .w-spacer",
+              "css": {
+                "height": "150px"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c68a592",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "58f64d79",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "32764d72",
+              "type": "heading",
+              "props": {
+                "title": "Application Form"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "20px 20px 20px 20px",
+                    "text-align": "center"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "63b1cb69",
+          "type": "form",
+          "props": {
+            "form_name": "Application Form",
+            "form_fields": [
+              {
+                "field_type": "step",
+                "_id": "1cd6c18",
+                "field_label": "Personal Info",
+                "selected_icon": {
+                  "value": "",
+                  "library": ""
+                },
+                "custom_id": "field_1cd6c18"
+              },
+              {
+                "custom_id": "surname",
+                "field_label": "Surname",
+                "placeholder": "Surname",
+                "width": "50",
+                "dynamic": {
+                  "active": true
+                },
+                "_id": "91e14d0",
+                "required": "true"
+              },
+              {
+                "custom_id": "other_names",
+                "field_label": "Other Name(s)",
+                "placeholder": "Other Name(s)",
+                "width": "50",
+                "_id": "4c34d64",
+                "required": "true"
+              },
+              {
+                "_id": "dfb7ce2",
+                "field_type": "date",
+                "field_label": "Date of Birth",
+                "placeholder": "dd/mm/yyyy",
+                "required": "true",
+                "width": "50",
+                "custom_id": "dob"
+              },
+              {
+                "custom_id": "nationality",
+                "field_type": "select",
+                "required": "true",
+                "field_label": "Nationality",
+                "placeholder": "Nationality",
+                "width": "50",
+                "_id": "fd778da",
+                "field_options": "Afghan\nAlbanian\nAlgerian\nAmerican\nAndorran\nAngolan\nAntiguan or Barbudan\nArgentine\nArmenian\nAustralian\nAustrian\nAzerbaijani\nBahamian\nBahraini\nBangladeshi\nBarbadian\nBelarusian\nBelgian\nBelizean\nBeninese\nBhutanese\nBolivian\nBosnian or Herzegovinian\nBotswanan\nBrazilian\nBritish\nBruneian\nBulgarian\nBurkinabé\nBurmese\nBurundian\n\nCambodian\nCameroonian\nCanadian\nCape Verdean\nCentral African\nChadian\nChilean\nChinese\nColombian\nComoran\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDjiboutian\nDominican\nDutch\nEcuadorean\nEgyptian\nEmirati\nEquatorial Guinean\nEritrean\nEstonian\nEthiopian\nFijian\nFinnish\nFrench\nGabonese\nGambian\nGeorgian\nGerman\nGhanaian\nGreek\nGrenadian\nGuatemalan\nGuinean\nGuyanese\nHaitian\nHonduran\nHungarian\nIcelandic\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nIsraeli\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakhstani\nKenyan\nKuwaiti\nKyrgyz\nLaotian\nLatvian\nLebanese\nLiberian\nLibyan\nLiechtensteiner\nLithuanian\nLuxembourger\nMalagasy\nMalawian\nMalaysian\nMaldivian\nMalian\nMaltese\nMarshallese\nMauritanian\nMauritian\nMexican\nMicronesian\nMoldovan\nMonégasque\nMongolian\nMontenegrin\nMoroccan\nMozambican\nNamibian\nNauruan\nNepalese\nNew Zealander\nNicaraguan\nNigerien\nNigerian\nNorth Korean\nNorwegian\nOmani\nPakistani\nPalauan\nPanamanian\nPapua New Guinean\nParaguayan\nPeruvian\nPhilippine\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSaint Lucian\nSalvadoran\nSamoan\nSaudi\nScottish\nSenegalese\nSerbian\nSeychellois\nSierra Leonean\nSingaporean\nSlovak\nSlovenian\nSomali\nSouth African\nSouth Korean\nSpanish\nSri Lankan\nSudanese\nSurinamese\nSwazi\nSwedish\nSwiss\nSyrian\nTaiwanese\nTajik\nTanzanian\nThai\nTogolese\nTongan\nTrinidadian or Tobagonian\nTunisian\nTurkish\nTurkmen\nUgandan\nUkrainian\nUruguayan\nUzbek\nVenezuelan\nVietnamese\nWelsh\nYemeni\nZambian\nZimbabwean"
+              },
+              {
+                "_id": "a481955",
+                "field_label": "House Number/ Name",
+                "placeholder": "House Number/ Name",
+                "required": "true",
+                "width": "30",
+                "custom_id": "house_name"
+              },
+              {
+                "_id": "11aa8b1",
+                "field_label": "Address",
+                "placeholder": "Address",
+                "required": "true",
+                "width": "70",
+                "custom_id": "address"
+              },
+              {
+                "custom_id": "country",
+                "field_type": "select",
+                "required": "true",
+                "field_label": "Country of Residence",
+                "placeholder": "Nationality",
+                "width": "30",
+                "field_options": "Sure — here’s the **same complete country list with no blank lines between entries**:\n\nAfghanistan\nAlbania\nAlgeria\nAndorra\nAngola\nAntigua and Barbuda\nArgentina\nArmenia\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBhutan\nBolivia\nBosnia and Herzegovina\nBotswana\nBrazil\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCentral African Republic\nChad\nChile\nChina\nColombia\nComoros\nCongo (Republic of the)\nCongo (Democratic Republic of the)\nCosta Rica\nCroatia\nCuba\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini (Swaziland)\nEthiopia\nFiji\nFinland\nFrance\nGabon\nGambia\nGeorgia\nGermany\nGhana\nGreece\nGrenada\nGuatemala\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHonduras\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsrael\nItaly\nJamaica\nJapan\nJordan\nKazakhstan\nKenya\nKiribati\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMadagascar\nMalawi\nMalaysia\nMaldives\nMali\nMalta\nMarshall Islands\nMauritania\nMauritius\nMexico\nMicronesia\nMoldova\nMonaco\nMongolia\nMontenegro\nMorocco\nMozambique\nMyanmar\nNamibia\nNauru\nNepal\nNetherlands\nNew Zealand\nNicaragua\nNiger\nNigeria\nNorth Korea\nNorth Macedonia\nNorway\nOman\nPakistan\nPalau\nPanama\nPapua New Guinea\nParaguay\nPeru\nPhilippines\nPoland\nPortugal\nQatar\nRomania\nRussia\nRwanda\nSaint Kitts and Nevis\nSaint Lucia\nSaint Vincent and the Grenadines\nSamoa\nSan Marino\nSão Tomé and Príncipe\nSaudi Arabia\nSenegal\nSerbia\nSeychelles\nSierra Leone\nSingapore\nSlovakia\nSlovenia\nSolomon Islands\nSomalia\nSouth Africa\nSouth Sudan\nSpain\nSri Lanka\nSudan\nSuriname\nSweden\nSwitzerland\nSyria\nTajikistan\nTanzania\nThailand\nTimor-Leste\nTogo\nTonga\nTrinidad and Tobago\nTunisia\nTurkey\nTurkmenistan\nTuvalu\nUganda\nUkraine\nUnited Arab Emirates\nUnited Kingdom\nUnited States\nUruguay\nUzbekistan\nVanuatu\nVatican City (Holy See)\nVenezuela\nVietnam\nYemen\nZambia\nZimbabwe\n",
+                "_id": "78a40f3",
+                "field_value": "Ghana"
+              },
+              {
+                "field_label": "Ghana Post Address",
+                "placeholder": "Ghana Post Address",
+                "width": "70",
+                "custom_id": "gh_post",
+                "_id": "85bdeae"
+              },
+              {
+                "_id": "cd3a3f7",
+                "field_type": "email",
+                "field_label": "Email",
+                "placeholder": "Email",
+                "required": "true",
+                "custom_id": "email"
+              },
+              {
+                "_id": "7fe7aff",
+                "field_type": "tel",
+                "field_label": "Phone Number (inc. country code e.g. +233)",
+                "placeholder": "+233 123 456 7890",
+                "required": "true",
+                "width": "50",
+                "custom_id": "phone_main"
+              },
+              {
+                "field_type": "tel",
+                "field_label": "Phone Number (Other)",
+                "placeholder": "+233 123 456 7890",
+                "width": "50",
+                "custom_id": "phone_other",
+                "_id": "5c61336"
+              },
+              {
+                "field_type": "step",
+                "field_label": "Parent/Guardian Info",
+                "placeholder": "+233 123 456 7890",
+                "required": "true",
+                "width": "50",
+                "custom_id": "field_f741fc6",
+                "_id": "f741fc6"
+              },
+              {
+                "_id": "410c782",
+                "field_label": "Name of Parent/Guardian",
+                "placeholder": "Name of Parent/Guardian",
+                "required": "true",
+                "custom_id": "parent_name"
+              },
+              {
+                "field_type": "tel",
+                "field_label": "Phone Number of Parent/Guardian",
+                "placeholder": "+233 123 456 7890",
+                "required": "true",
+                "width": "40",
+                "custom_id": "parent_number",
+                "_id": "03d258e"
+              },
+              {
+                "field_label": "Address of Parent/Guardian",
+                "placeholder": "Address of Parent/Guardian",
+                "required": "true",
+                "width": "60",
+                "custom_id": "parent_address",
+                "_id": "eb68287"
+              },
+              {
+                "field_type": "step",
+                "field_label": "Course Information",
+                "placeholder": "+233 123 456 7890",
+                "required": "true",
+                "width": "50",
+                "custom_id": "field_b820dc4",
+                "previous_button": "",
+                "_id": "b820dc4"
+              },
+              {
+                "_id": "ef9d76a",
+                "field_type": "select",
+                "field_label": "Courses Applied for",
+                "required": "true",
+                "field_options": "Package I - Airport Passenger Services & Operations + Customer Care and Personal Development.\nPackage II - International Travel & Tourism Foundation Diploma + Customer Care and Personal Development.\nPackage III - IATA Airline Cabin Crew Training + Customer Care and Personal Development.\nInternational Travel and Tourism Foundation Diploma\nIATA Airline Cabin Crew Training\nAirport Passenger Services & Operations\nHospitality and Customer Service Excellence\nAI Prompt Engineering\nHotel Hospitality Management\nCustomer Service Skills for Airline Travel and Tourism Professionals\nInterpersonal and Communication Skills\nProfessional Development Training",
+                "allow_multiple": "true",
+                "select_size": 5,
+                "custom_id": "courses_selected"
+              },
+              {
+                "_id": "2f0a761",
+                "field_type": "date",
+                "field_label": "Date of Commencement",
+                "placeholder": "dd/mm/yyyy",
+                "width": "50",
+                "custom_id": "start_date"
+              },
+              {
+                "_id": "76d7857",
+                "field_type": "select",
+                "field_label": "Duration of Courses",
+                "field_options": "1-3 months\n6-9 months\n9-12 months",
+                "width": "50",
+                "custom_id": "course_duration"
+              },
+              {
+                "field_type": "step",
+                "field_label": "Qualifications",
+                "placeholder": "+233 123 456 7890",
+                "required": "true",
+                "width": "50",
+                "custom_id": "field_4585a2e",
+                "previous_button": "",
+                "_id": "4585a2e"
+              },
+              {
+                "field_label": "Qualification 1",
+                "required": "true",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "qualification_1",
+                "_id": "e568fe5"
+              },
+              {
+                "field_label": "Institution",
+                "required": "true",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "institution_1",
+                "_id": "bdcaff5"
+              },
+              {
+                "field_label": "Location",
+                "required": "true",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_047525f",
+                "_id": "047525f"
+              },
+              {
+                "field_type": "date",
+                "field_label": "Start Date",
+                "placeholder": "dd/mm/yyyy",
+                "required": "true",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_14075c7",
+                "_id": "14075c7"
+              },
+              {
+                "field_type": "date",
+                "field_label": "End Date",
+                "placeholder": "dd/mm/yyyy",
+                "required": "true",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_a913b18",
+                "_id": "a913b18"
+              },
+              {
+                "_id": "dba82d9",
+                "field_label": "Qualification 2",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "qualification_2"
+              },
+              {
+                "field_label": "Institution",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "institution_2",
+                "_id": "df5cf64"
+              },
+              {
+                "field_label": "Location",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_7d1cb0b",
+                "_id": "7d1cb0b"
+              },
+              {
+                "field_type": "date",
+                "field_label": "Start Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_02e39fd",
+                "_id": "02e39fd"
+              },
+              {
+                "field_type": "date",
+                "field_label": "End Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_4f48a8f",
+                "_id": "4f48a8f"
+              },
+              {
+                "field_label": "Qualification 3",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "qualification_3",
+                "_id": "1bdcae8"
+              },
+              {
+                "field_label": "Institution",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "institution_3",
+                "_id": "46acbb5"
+              },
+              {
+                "field_label": "Location",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_736be07",
+                "_id": "736be07"
+              },
+              {
+                "field_type": "date",
+                "field_label": "Start Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_cf94ed7",
+                "_id": "cf94ed7"
+              },
+              {
+                "field_type": "date",
+                "field_label": "End Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_37def68",
+                "_id": "37def68"
+              },
+              {
+                "field_label": "Qualification 4",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "qualification_4",
+                "_id": "c1ad347"
+              },
+              {
+                "field_label": "Institution",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "institution_4",
+                "_id": "aa01ac4"
+              },
+              {
+                "field_label": "Location",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_38881d1",
+                "_id": "38881d1"
+              },
+              {
+                "field_type": "date",
+                "field_label": "Start Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_78490ba",
+                "_id": "78490ba"
+              },
+              {
+                "field_type": "date",
+                "field_label": "End Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_3168d3f",
+                "_id": "3168d3f"
+              },
+              {
+                "field_label": "Qualification 5",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "qualification_5",
+                "_id": "fe225a4"
+              },
+              {
+                "field_label": "Institution",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "institution_5",
+                "_id": "757bf52"
+              },
+              {
+                "field_label": "Location",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_7027c34",
+                "_id": "7027c34"
+              },
+              {
+                "field_type": "date",
+                "field_label": "Start Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_746cf17",
+                "_id": "746cf17"
+              },
+              {
+                "field_type": "date",
+                "field_label": "End Date",
+                "placeholder": "dd/mm/yyyy",
+                "width": "20",
+                "rows": 5,
+                "custom_id": "field_eefb013",
+                "_id": "eefb013"
+              },
+              {
+                "_id": "b904e94",
+                "field_type": "upload",
+                "field_label": "Copies of your academic certificates (high school, previous qualifications, or relevant professional certifications)",
+                "required": "true",
+                "attachment_type": "attach",
+                "file_sizes": 5,
+                "file_types": "",
+                "custom_id": "certificates",
+                "allow_multiple_upload": "yes",
+                "max_files": 5
+              },
+              {
+                "field_type": "step",
+                "field_label": "Additional Info",
+                "placeholder": "+233 123 456 7890",
+                "required": "true",
+                "width": "50",
+                "custom_id": "field_b85d8a4",
+                "previous_button": "",
+                "_id": "b85d8a4"
+              },
+              {
+                "field_label": "Emergency Contact Name",
+                "placeholder": "Emergency Contact Name",
+                "required": "true",
+                "custom_id": "emergency_name",
+                "width": "60",
+                "_id": "99d7561"
+              },
+              {
+                "field_type": "tel",
+                "field_label": "Emergency Contact Phone Number",
+                "placeholder": "+233 123 456 7890",
+                "required": "true",
+                "width": "40",
+                "custom_id": "emergency_number",
+                "_id": "c81889a"
+              },
+              {
+                "field_type": "upload",
+                "field_label": "Passport Photo",
+                "required": "true",
+                "attachment_type": "attach",
+                "file_sizes": 5,
+                "file_types": "png, jpg, pdf, docx",
+                "width": "50",
+                "custom_id": "passport_photo",
+                "_id": "0dfe2b7"
+              },
+              {
+                "_id": "c47720f",
+                "field_type": "acceptance",
+                "field_label": "Accept to proceed with your application",
+                "required": "true",
+                "acceptance_text": "Accept our privacy policy",
+                "custom_id": "privacy_policy"
+              }
+            ],
+            "mark_required": "yes",
+            "step_next_label": "Next",
+            "step_previous_label": "Previous",
+            "button_text": "Send",
+            "email_to": "manager@ittighana.com",
+            "email_subject": "New Applicant from \"International Travel and Tourism Institute\"",
+            "email_content": "[all-fields]",
+            "email_from": "email@ittighana.com",
+            "email_from_name": "ITTI Applicant",
+            "email_to_2": "frontdesk@ittighana.com",
+            "email_subject_2": "New Applicant from \"International Travel and Tourism Institute\"",
+            "email_content_2": "[all-fields]",
+            "email_from_2": "email@ittighana.com",
+            "email_from_name_2": "International Travel and Tourism Institute",
+            "success_message": "Your submission was successful.",
+            "error_message": "Your submission failed because of an error.",
+            "server_message": "Your submission failed because of a server error.",
+            "invalid_message": "Your submission failed because the form is invalid.",
+            "required_field_message": "This field is required.",
+            "submit_actions": [
+              "save-to-database",
+              "email",
+              "email2"
+            ],
+            "step_icon_shape": "square",
+            "form_id": "application_form",
+            "formSlug": "application-form-enrollment-apply"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "20px 0px 20px 0px",
+                "width": "80%",
+                "max-width": "100%",
+                "align-self": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-form-label",
+              "css": {
+                "font-family": "var(--e-global-typography-accent-font-family)",
+                "font-size": "var(--e-global-typography-accent-font-size)",
+                "font-weight": "var(--e-global-typography-accent-font-weight)",
+                "text-transform": "var(--e-global-typography-accent-text-transform)",
+                "font-style": "var(--e-global-typography-accent-font-style)",
+                "text-decoration": "var(--e-global-typography-accent-text-decoration)",
+                "line-height": "var(--e-global-typography-accent-line-height)",
+                "letter-spacing": "var(--e-global-typography-accent-letter-spacing)",
+                "word-spacing": "var(--e-global-typography-accent-word-spacing)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-form-field",
+              "css": {
+                "border-width": "0px 0px 0px 0px",
+                "border-radius": "5px 5px 5px 5px"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-form-submit",
+              "css": {
+                "background-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-form-submit:hover",
+              "css": {
+                "background-color": "var(--e-global-color-primary)",
+                "color": "var(--e-global-color-text)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column"
+          }
+        }
+      ]
+    }
+  ]
+}

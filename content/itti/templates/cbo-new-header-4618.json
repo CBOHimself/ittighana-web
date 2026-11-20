@@ -1,0 +1,220 @@
+{
+  "wpId": 4618,
+  "title": "CBO - new header",
+  "slug": "cbo-new-header-4618",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "423f6d44",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "634d95e1",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "331efde",
+              "type": "theme-post-title",
+              "props": {
+                "title": {
+                  "$dyn": "title"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "64px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 20% 0% 0%",
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "11.037%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 1px 0px 1px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7e4dce7d",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "20589d4e",
+              "type": "heading",
+              "props": {
+                "title": "Overview",
+                "header_size": "h3"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "30px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "5d0242ff",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p>Our comprehensive catalog offers focused training designed to build expertise in high-demand global sectors, including <b>International Travel &amp; Tourism, Airline Operations, Hotel Hospitality, and essential Professional Development Skills</b>. Whether you are launching a career, seeking specialized certification (like IATA), or looking to master modern tools like AI Prompt Engineering, our programs provide practical knowledge, hands-on experience, and industry-aligned methodologies to ensure your success.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "300",
+                    "font-size": "20px",
+                    "line-height": "1.8em"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 12%",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 10% 5% 10%",
+                "--width": "100%",
+                "border-width": "0px 1px 0px 1px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%",
+                "--justify-content": "flex-start"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "600px",
+            "background-color": "var(--e-global-color-secondary)"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--min-height": "100vh"
+          }
+        }
+      ]
+    }
+  ]
+}

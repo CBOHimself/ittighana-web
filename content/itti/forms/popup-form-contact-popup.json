@@ -1,0 +1,33 @@
+{
+  "slug": "popup-form-contact-popup",
+  "name": "Popup Form",
+  "source": "contact-popup",
+  "kind": "general",
+  "fields": [
+    {
+      "id": "f4461d3",
+      "name": "email",
+      "type": "text",
+      "label": "Full Name",
+      "placeholder": "Full Name",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "cf17f0c",
+      "name": "field_cf17f0c",
+      "type": "phone",
+      "label": "Phone",
+      "placeholder": "Phone",
+      "required": true,
+      "width": "half"
+    }
+  ],
+  "settings": {
+    "notifyEmails": [],
+    "confirmationMessage": "The form was sent successfully.",
+    "sendConfirmationEmail": true,
+    "submitLabel": "Send"
+  },
+  "status": "published"
+}

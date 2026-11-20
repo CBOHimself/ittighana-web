@@ -1,0 +1,558 @@
+{
+  "wpId": 923,
+  "title": "Events",
+  "slug": "events",
+  "path": "/events",
+  "template": "default",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {
+    "description": "Discover upcoming ITTI events including bootcamps, workshops, excursions and seminars designed to support your aviation career journey."
+  },
+  "layout": [
+    {
+      "id": "11c4f38d",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "39b9ade4",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "76bd157b",
+              "type": "theme-post-title",
+              "props": {
+                "title": {
+                  "$dyn": "title"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "64px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 20% 0% 0%",
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "11.037%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "55b11453",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "6fbd147e",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p>Experience learning in action at ITTI. Beyond the classroom, we offer immersive bootcamps and expert-led sessions designed to turn your ambition into a career. We don't just teach the industry; we connect you to it.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "300",
+                    "font-size": "20px",
+                    "line-height": "1.8em"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 12%",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 10% 5% 10%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%",
+                "--justify-content": "flex-start",
+                "border-width": "0px 0px 0px 0px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "600px",
+            "background-color": "var(--e-global-color-secondary)"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--min-height": "100vh"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7f3aa8b",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "7a21585",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "db4b8fb",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "8e946a7",
+                  "type": "heading",
+                  "props": {
+                    "title": "Event types"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "var(--e-global-typography-primary-font-family)",
+                        "font-size": "var(--e-global-typography-primary-font-size)",
+                        "font-weight": "var(--e-global-typography-primary-font-weight)",
+                        "text-transform": "var(--e-global-typography-primary-text-transform)",
+                        "font-style": "var(--e-global-typography-primary-font-style)",
+                        "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                        "line-height": "var(--e-global-typography-primary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 10% 0% 8%",
+                    "--flex-direction": "column",
+                    "--justify-content": "center",
+                    "--width": "26%"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "0% 5% 0% 5%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "a92889f",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "4028cf9",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "da5eac4",
+                      "type": "icon-list",
+                      "props": {
+                        "icon_list": [
+                          {
+                            "text": "Excursions & Educational Tours",
+                            "_id": "e9494cd",
+                            "selected_icon": {
+                              "value": "fas fa-shuttle-van",
+                              "library": "fa-solid"
+                            }
+                          },
+                          {
+                            "text": "Bootcamps",
+                            "_id": "ebd9cd2",
+                            "selected_icon": {
+                              "value": "fas fa-plane",
+                              "library": "fa-solid"
+                            }
+                          },
+                          {
+                            "text": "Workshops & Seminars",
+                            "_id": "8f2b8f1",
+                            "selected_icon": {
+                              "value": "fas fa-chalkboard-teacher",
+                              "library": "fa-solid"
+                            }
+                          }
+                        ]
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "40px 40px 40px 40px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-il-item:not(:last-child)",
+                          "css": {
+                            "padding-bottom": "8px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-il-icon",
+                          "css": {
+                            "color": "var(--e-global-color-secondary)",
+                            "font-size": "22px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-il-icon svg",
+                          "css": {
+                            "fill": "var(--e-global-color-secondary)",
+                            "width": "22px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-il-text",
+                          "css": {
+                            "padding-inline-start": "3px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--justify-content": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--justify-content": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "0px 0px 0px 0px",
+                "--flex-direction": "row",
+                "--align-items": "stretch",
+                "--row-gap": "10px",
+                "--column-gap": "10px",
+                "--min-height": "200px",
+                "background-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--min-height": "380px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "-115px 0px 0px 0px",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "margin": "0px 0px 0px 0px",
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "288ebd10",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "2d5daa4d",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "6200131f",
+              "type": "heading",
+              "props": {
+                "title": "EXPLORE OUR INSTITUTE CALENDAR"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 0px 0px 0px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "7% 0% 0% 0%",
+                "--flex-direction": "column",
+                "--row-gap": "5px",
+                "--column-gap": "5px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dddc94c",
+          "type": "html",
+          "props": {
+            "html": "<style>\n.itti-pdf-viewer{\n    width:100%;\n    max-width:1400px;\n    margin:auto;\n    border-radius:12px;\n    overflow:hidden;\n    border:1px solid #ddd;\n    box-shadow:0 8px 24px rgba(0,0,0,.08);\n}\n\n.itti-pdf-viewer iframe,\n.itti-pdf-viewer object{\n    width:100%;\n    height:85vh;\n    min-height:650px;\n    border:0;\n}\n\n@media (max-width:768px){\n    .itti-pdf-viewer iframe,\n    .itti-pdf-viewer object{\n        height:70vh;\n        min-height:500px;\n    }\n}\n</style>\n\n<div class=\"itti-pdf-viewer\">\n\n<object\n    data=\"data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22800%22%20viewBox%3D%220%200%201200%20800%22%3E%3Crect%20width%3D%221200%22%20height%3D%22800%22%20fill%3D%22%23e6e6e6%22%2F%3E%3Crect%20x%3D%2236%22%20y%3D%2232%22%20width%3D%221128%22%20height%3D%22736%22%20fill%3D%22none%22%20stroke%3D%22%23cbc8cc%22%20stroke-width%3D%224%22%20stroke-dasharray%3D%2216%2012%22%2F%3E%3Ctext%20x%3D%22600%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2240%22%20fill%3D%22%23002147%22%20text-anchor%3D%22middle%22%3EITTI%3C%2Ftext%3E%3Ctext%20x%3D%22600%22%20y%3D%22440%22%20font-family%3D%22Arial%22%20font-size%3D%2224%22%20fill%3D%22%233277ae%22%20text-anchor%3D%22middle%22%3EITTI%2026%2027%20Calender.pdf%23view%3DFitH%3C%2Ftext%3E%3C%2Fsvg%3E\"\n    type=\"application/pdf\">\n\n<iframe\n    src=\"data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22800%22%20viewBox%3D%220%200%201200%20800%22%3E%3Crect%20width%3D%221200%22%20height%3D%22800%22%20fill%3D%22%23e6e6e6%22%2F%3E%3Crect%20x%3D%2236%22%20y%3D%2232%22%20width%3D%221128%22%20height%3D%22736%22%20fill%3D%22none%22%20stroke%3D%22%23cbc8cc%22%20stroke-width%3D%224%22%20stroke-dasharray%3D%2216%2012%22%2F%3E%3Ctext%20x%3D%22600%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2240%22%20fill%3D%22%23002147%22%20text-anchor%3D%22middle%22%3EITTI%3C%2Ftext%3E%3Ctext%20x%3D%22600%22%20y%3D%22440%22%20font-family%3D%22Arial%22%20font-size%3D%2224%22%20fill%3D%22%233277ae%22%20text-anchor%3D%22middle%22%3EITTI%2026%2027%20Calender.pdf%23view%3DFitH%3C%2Ftext%3E%3C%2Fsvg%3E\">\n</iframe>\n\n</object>\n\n</div>"
+          }
+        },
+        {
+          "id": "7f3a079",
+          "type": "nested-accordion",
+          "children": [
+            {
+              "id": "266adbc",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "666919b",
+                  "type": "html",
+                  "props": {
+                    "html": "<style>\n    .calendar-table {\n        width: 100%;\n        border-collapse: collapse;\n        font-family: 'Merriweather', Georgia, serif;\n        color: #002147;\n    }\n    .calendar-table th, .calendar-table td {\n        border: 1px solid #002147;\n        padding: 10px;\n        text-align: left;\n        vertical-align: top;\n    }\n    .calendar-table th {\n        background-color: #002147;\n        color: #E6E6E6;\n    }\n    .calendar-table tr:nth-child(even) {\n        background-color: #E6E6E6;\n    }\n    .calendar-table tr:nth-child(odd) {\n        background-color: #ffffff;\n    }\n    .calendar-table tr:hover {\n        background-color: #3277AE;\n        color: #ffffff;\n    }\n</style>\n\n<table class=\"calendar-table\">\n    <thead>\n        <tr>\n            <th>Date</th>\n            <th>Event</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr><td>6 Jan 2026</td><td>Institute Reopening</td></tr>\n        <tr><td>7 Jan 2026</td><td>Public Holiday (Constitution Day)</td></tr>\n        <tr><td>9 Jan 2026</td><td>Holiday (Constitutional Day)</td></tr>\n        <tr><td>13–16 Jan 2026</td><td>Student Resumes B103</td></tr>\n        <tr><td>22 Jan 2026</td><td>Orientation: Airport Passenger Services & Operations B104, Tourism Diploma B53 & IATA Cabin Crew B03, Customer Care B02</td></tr>\n        <tr><td>5 Feb 2026</td><td>Orientation: AI Prompt Engineering, Interpersonal & Communication Skills, Professional Development, Ramp Services, Cargo Intro Training</td></tr>\n        <tr><td>9 Feb 2026</td><td>Lecture begins: AI Prompt Engineering, Interpersonal & Communication Skills, Professional Development, Ramp Services, Cargo Intro Training</td></tr>\n        <tr><td>10 Feb 2026</td><td>Lecture begins: Airport Passenger Services, International Travel & Tourism Diploma B53, IATA Cabin Crew B03, Customer Care B02</td></tr>\n        <tr><td>12 Feb 2026</td><td>Orientation: Airport Passenger Services & Operations B105, Tourism Diploma B54, IATA Cabin Crew B04, Customer Care B03</td></tr>\n        <tr><td>13 Feb 2026</td><td>New Class Registration Ongoing</td></tr>\n        <tr><td>16–20 Feb 2026</td><td>Lecture: Airport Passenger Services & Operations B105, Tourism Diploma B54, IATA Cabin Crew B04, Customer Care B03</td></tr>\n        <tr><td>25 Feb 2026</td><td>Final Exam: Airport Passenger Services & Operations B103</td></tr>\n        <tr><td>3 Mar 2026</td><td>Orientation: Airport Passenger Services & Operations B106, Tourism Diploma B55, IATA Cabin Crew B05, Customer Care B04</td></tr>\n        <tr><td>6 Mar 2026</td><td>Independence Holiday</td></tr>\n        <tr><td>9–13 Mar 2026</td><td>Personal Development Week B11</td></tr>\n        <tr><td>10 Mar 2026</td><td>Lecture: Airport Passenger Services & Operations B106, Tourism Diploma B55, IATA Cabin Crew B05, Customer Care B04</td></tr>\n        <tr><td>16 Mar 2026</td><td>New Class Registration Ongoing</td></tr>\n        <tr><td>18–19 Mar 2026</td><td>CCBC XXXIX</td></tr>\n        <tr><td>25 Mar 2026</td><td>Airport Trip</td></tr>\n        <tr><td>23–26 Mar 2026</td><td>Revision Week for All Batches</td></tr>\n        <tr><td>26 Mar 2026</td><td>Orientation: AI Prompt Engineering, Interpersonal & Communication Skills, Professional Development, Ramp Services, Cargo Intro Training</td></tr>\n        <tr><td>27 Mar 2026</td><td>Midsem Exam: All Batches APH B104–B106, FTT B53–B55, Cabin Crew B03–B05, HSP B02–B04</td></tr>\n        <tr><td>31 Mar 2026</td><td>Simulation: APH Pilot Class / Lecture: AI Prompt Engineering, Professional Development, Ramp Services, Cargo Intro Training</td></tr>\n        <tr><td>1–8 Apr 2026</td><td>Easter Break</td></tr>\n        <tr><td>2–7 Apr 2026</td><td>Admin Break (Easter)</td></tr>\n        <tr><td>8 Apr 2026</td><td>Admin Resumes</td></tr>\n        <tr><td>9 Apr 2026</td><td>Lecture: APH Pilot Class</td></tr>\n        <tr><td>14 Apr 2026</td><td>Pilot Class: Airport Passenger Services & Operations</td></tr>\n        <tr><td>15 Apr 2026</td><td>General Screening: APH B103</td></tr>\n        <tr><td>16 Apr 2026</td><td>Pilot Class: Airport Passenger Services & Operations</td></tr>\n        <tr><td>21 Apr 2026</td><td>Pilot Class: Airport Passenger Services & Operations</td></tr>\n        <tr><td>23 Apr 2026</td><td>First Orientation: Airport Passenger Services & Operations B105, Tourism Diploma B56, IATA Cabin Crew B06, Customer Care B05</td></tr>\n        <tr><td>30 Apr 2026</td><td>Second Orientation: Airport Passenger Services & Operations B105, Tourism Diploma B56, IATA Cabin Crew B06, Customer Care B05</td></tr>\n        <tr><td>1 May 2026</td><td>Holiday (Founders Day)</td></tr>\n        <tr><td>5 May 2026</td><td>Lecture: Airport Passenger Services & Operations B105, Tourism Diploma B56, IATA Cabin Crew B06, Customer Care B05</td></tr>\n        <tr><td>6–7 May 2026</td><td>Personal Development Week B11</td></tr>\n        <tr><td>May 2026</td><td>Orientation & Lecture: AI Prompt Engineering, Professional Development, Ramp Services, Cargo Intro Training</td></tr>\n        <tr><td>14 May 2026</td><td>New Class Registration in Progress</td></tr>\n        <tr><td>18,20,25,27 May 2026</td><td>Lecture: International Travel & Foundation Diploma B53</td></tr>\n        <tr><td>19,21,26,27 May 2026</td><td>Lecture: Airport Passenger Services & Operations B105</td></tr>\n        <tr><td>29 May 2026</td><td>Final Assessment: Airport Passenger Services & Operations B105, International Travel Diploma B54, IATA Cabin Crew B04, Customer Care B03</td></tr>\n        <tr><td>June 2026</td><td>Lecture: Pilot Hospitality & Customer Care / CCBC XXXIX / Personal Development Week B13</td></tr>\n        <tr><td>3 Jun 2026</td><td>Airport Trip</td></tr>\n        <tr><td>4 Jun 2026</td><td>First Orientation: Airport Passenger Services & Operations B106, Tourism Diploma B54, IATA Cabin Crew B07, Customer Care B06</td></tr>\n        <tr><td>9 Jun 2026</td><td>Lecture: Airport Passenger Services & Operations B106, Tourism Diploma B54, IATA Cabin Crew B07, Customer Care B06</td></tr>\n        <tr><td>25 Jun 2026</td><td>Orientation: AI Prompt Engineering, Professional Development, Ramp Services, Cargo Intro Training</td></tr>\n        <tr><td>30 Jun 2026</td><td>Lecture: AI Prompt Engineering, Professional Development, Ramp Services, Cargo Intro Training</td></tr>\n    </tbody>\n</table>"
+                  }
+                }
+              ]
+            }
+          ],
+          "props": {
+            "items": [
+              {
+                "item_title": "LIST VIEW FOR JANUARY 2026 – JUNE 2026  ACADEMIC YEAR",
+                "_id": "2971197"
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": " .w-acc-title",
+              "css": {
+                "color": "var(--e-global-color-primary)",
+                "font-family": "var(--e-global-typography-accent-font-family)",
+                "font-size": "var(--e-global-typography-accent-font-size)",
+                "font-weight": "var(--e-global-typography-accent-font-weight)",
+                "text-transform": "var(--e-global-typography-accent-text-transform)",
+                "font-style": "var(--e-global-typography-accent-font-style)",
+                "text-decoration": "var(--e-global-typography-accent-text-decoration)",
+                "line-height": "var(--e-global-typography-accent-line-height)",
+                "letter-spacing": "var(--e-global-typography-accent-letter-spacing)",
+                "word-spacing": "var(--e-global-typography-accent-word-spacing)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "z-index": "5",
+            "--flex-direction": "column",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        }
+      ]
+    }
+  ]
+}

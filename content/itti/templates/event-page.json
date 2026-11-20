@@ -1,0 +1,755 @@
+{
+  "title": "Event – Page",
+  "slug": "event-page",
+  "kind": "single",
+  "conditions": [],
+  "layout": [
+    {
+      "id": "eva0",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "eva1",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "eva2",
+              "type": "theme-post-title",
+              "props": {
+                "title": {
+                  "$dyn": "title"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "width": "100%",
+                    "flex": "0 0 auto"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "var(--e-global-typography-947f909-font-family)",
+                    "font-size": "var(--e-global-typography-947f909-font-size)",
+                    "font-weight": "var(--e-global-typography-947f909-font-weight)",
+                    "text-transform": "var(--e-global-typography-947f909-text-transform)",
+                    "font-style": "var(--e-global-typography-947f909-font-style)",
+                    "text-decoration": "var(--e-global-typography-947f909-text-decoration)",
+                    "line-height": "var(--e-global-typography-947f909-line-height)",
+                    "letter-spacing": "var(--e-global-typography-947f909-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-947f909-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 0%",
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "100%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 1px 0px 1px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "100px 0px 0px 0px",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "205px",
+            "background-color": "var(--e-global-color-secondary)"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--min-height": "100vh"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eva3",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "eva4",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "eva5",
+              "type": "heading",
+              "props": {
+                "title": "Event"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "48px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center",
+                "--width": "30%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "eva6",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "eva7",
+              "type": "heading",
+              "props": {
+                "title": {
+                  "$dyn": "field",
+                  "field": "event_date"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "400",
+                    "text-transform": "capitalize",
+                    "font-size": "24px",
+                    "line-height": "1em"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center",
+                "--width": "70%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--min-height": "150px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eva8",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "eva9",
+          "type": "nested-tabs",
+          "children": [
+            {
+              "id": "evaa",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "evab",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "evac",
+                      "type": "heading",
+                      "props": {
+                        "title": "About this event"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "evad",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": {
+                          "$dyn": "field",
+                          "field": "event_description"
+                        }
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "--width": "100%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "evae",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "evaf",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "evag",
+                      "type": "heading",
+                      "props": {
+                        "title": "Time"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "evah",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": {
+                          "$dyn": "field",
+                          "field": "event_time"
+                        }
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "evai",
+                      "type": "heading",
+                      "props": {
+                        "title": "Venue"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "evaj",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": {
+                          "$dyn": "field",
+                          "field": "event_location"
+                        }
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "--width": "100%"
+                  }
+                }
+              ]
+            }
+          ],
+          "props": {
+            "tabs": [
+              {
+                "tab_title": "About",
+                "_id": "t0"
+              },
+              {
+                "tab_title": "Time & Venue",
+                "_id": "t1"
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "50px 0px 0px 0px",
+                "width": "70%",
+                "max-width": "100%"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab",
+              "css": {
+                "background-color": "var(--e-global-color-secondary)",
+                "color": "var(--e-global-color-primary)",
+                "font-family": "\"Merriweather\", sans-serif",
+                "font-weight": "400",
+                "text-transform": "capitalize",
+                "font-size": "16px",
+                "line-height": "1em"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab:hover",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 03px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab[aria-selected=\"true\"]",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 3px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tabs-heading",
+              "css": {
+                "gap": "-5px",
+                "margin-bottom": "50px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "evak",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "eval",
+              "type": "image",
+              "props": {
+                "image": {
+                  "$dyn": "featured-image"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "25px 25px 25px 25px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "evam",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "evan",
+                  "type": "heading",
+                  "props": {
+                    "title": "Join Us"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "font-size": "36px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "evao",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Reserve your place today.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "evap",
+                  "type": "button",
+                  "props": {
+                    "text": "Register",
+                    "link": {
+                      "url": {
+                        "$dyn": "field",
+                        "field": "registration_link"
+                      }
+                    }
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "width": "100%",
+                        "align-self": "center",
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "text-decoration": "none",
+                        "font-size": "24px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn svg",
+                      "css": {
+                        "fill": "var(--e-global-color-primary)"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-btn",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "50px 50px 50px 50px",
+                    "--padding": "25px 25px 25px 25px",
+                    "--width": "80%",
+                    "background-color": "var(--e-global-color-text)",
+                    "border-radius": "5px 5px 5px 5px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "100px 0px 0px 0px",
+                "--flex-direction": "column",
+                "--justify-content": "flex-start",
+                "--width": "25%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--width": "100%"
+          }
+        }
+      ]
+    }
+  ],
+  "status": "published",
+  "contentType": "event",
+  "fields": [
+    {
+      "key": "event_name",
+      "label": "Event name (display)",
+      "type": "text",
+      "required": false,
+      "group": "Event",
+      "help": "Leave empty to use the title."
+    },
+    {
+      "key": "event_date",
+      "label": "Date (display text)",
+      "type": "text",
+      "required": false,
+      "group": "Event",
+      "help": "e.g. \"Saturday 6 December 2025\". The start/end dates drive the calendar."
+    },
+    {
+      "key": "event_time",
+      "label": "Time",
+      "type": "text",
+      "required": false,
+      "group": "Event",
+      "help": "e.g. \"9:00am – 1:00pm\""
+    },
+    {
+      "key": "event_location",
+      "label": "Location",
+      "type": "text",
+      "required": true,
+      "group": "Event"
+    },
+    {
+      "key": "event_description",
+      "label": "Description",
+      "type": "richtext",
+      "required": true,
+      "group": "Event"
+    },
+    {
+      "key": "registration_link",
+      "label": "Registration link",
+      "type": "link",
+      "required": false,
+      "group": "Event"
+    }
+  ],
+  "isDefault": true,
+  "description": "Date in the navy band, description and venue in tabs, register button in the sidebar."
+}

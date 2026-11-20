@@ -1,0 +1,467 @@
+{
+  "wpId": 5245,
+  "title": "ITTI Blog",
+  "slug": "itti-blog",
+  "path": "/itti-blog",
+  "template": "default",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {},
+  "layout": [
+    {
+      "id": "378c930f",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "4a6a55e3",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "ac8759e",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "7ab9e470",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "3ac6f9da",
+                      "type": "heading",
+                      "props": {
+                        "title": "ITTI Official Blog"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "var(--e-global-color-primary)",
+                            "font-family": "var(--e-global-typography-primary-font-family)",
+                            "font-size": "var(--e-global-typography-primary-font-size)",
+                            "font-weight": "var(--e-global-typography-primary-font-weight)",
+                            "text-transform": "var(--e-global-typography-primary-text-transform)",
+                            "font-style": "var(--e-global-typography-primary-font-style)",
+                            "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                            "line-height": "var(--e-global-typography-primary-line-height)",
+                            "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0px 0px 0px 0px",
+                        "--justify-content": "center",
+                        "--row-gap": "10px",
+                        "--column-gap": "10px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "--width": "100%"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "54b988b4",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 10% 0% 5%",
+                        "--justify-content": "center",
+                        "--row-gap": "0px",
+                        "--column-gap": "0px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "--width": "100%"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "margin": "25% 0% 0% 0%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--flex-direction": "row",
+                    "--align-items": "stretch",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--flex-wrap": "wrap"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "10% 0% 10% 0%",
+                "--row-gap": "80px",
+                "--column-gap": "0px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "0 0% 0 0%",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "11ab9267",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "19d65ddc",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "60a1a66c",
+              "type": "heading",
+              "props": {
+                "title": "Learning Outcomes",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "48px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "21.027%"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "align-self": "center",
+                "--align-items": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1a15a9d9",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "45b43e9b",
+              "type": "icon-list",
+              "props": {
+                "icon_list": [
+                  {
+                    "text": "By the end of this seminar, participants should be able to:",
+                    "_id": "e9494cd",
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "text": "Understand some basic principles of Personal Development required to improve their work schedule.",
+                    "_id": "ebd9cd2",
+                    "selected_icon": {
+                      "value": "far fa-check-circle",
+                      "library": "fa-regular"
+                    }
+                  },
+                  {
+                    "text": "Identify the knowledge and practical skills effective Life Skills required for improving their job roles.",
+                    "_id": "8f2b8f1",
+                    "selected_icon": {
+                      "value": "far fa-check-circle",
+                      "library": "fa-regular"
+                    }
+                  }
+                ]
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "40px 40px 40px 40px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-item:not(:last-child)",
+                  "css": {
+                    "padding-bottom": "8px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-size": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon svg",
+                  "css": {
+                    "fill": "var(--e-global-color-secondary)",
+                    "width": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-text",
+                  "css": {
+                    "padding-inline-start": "3px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--min-height": "150px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3b6d006",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "3fc5f76",
+          "type": "tpg-grid-layout",
+          "props": {
+            "no_posts_found_text": "No posts found.",
+            "load_more_button_text": "Load More",
+            "section_title_text": "Section Title",
+            "section_external_text": "See More",
+            "excerpt_more_text": "...",
+            "author_prefix": "By",
+            "comment_count_label_singular": "Comment",
+            "comment_count_label_plural": "Comments",
+            "meta_ordering": [
+              {
+                "meta_title": "Author",
+                "meta_name": "author",
+                "_id": "57757f9"
+              },
+              {
+                "meta_title": "Date",
+                "meta_name": "date",
+                "_id": "64144e8"
+              },
+              {
+                "meta_title": "Category",
+                "meta_name": "category",
+                "_id": "930e1f7"
+              },
+              {
+                "meta_title": "Tags",
+                "meta_name": "tags",
+                "_id": "53f5e24"
+              },
+              {
+                "meta_title": "Comment Count",
+                "meta_name": "comment_count",
+                "_id": "2a3e40a"
+              },
+              {
+                "meta_title": "Post Count",
+                "meta_name": "post_count",
+                "_id": "83ecba9"
+              },
+              {
+                "meta_title": "Post Like",
+                "meta_name": "post_like",
+                "_id": "9c2a097"
+              }
+            ],
+            "read_more_label": "Read More",
+            "event_title": "Event Information:",
+            "start_date_label": "Start Date:",
+            "end_date_label": "End Date:",
+            "grid_layout": "grid-layout3",
+            "grid_column": "3"
+          }
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@itti/wp-migrate",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx --env-file-if-exists=../../.env src/index.ts",
+    "inventory": "tsx --env-file-if-exists=../../.env src/index.ts --inventory",
+    "typecheck": "tsc -p tsconfig.json",
+    "wxr": "tsx src/wxr/index.ts"
+  },
+  "dependencies": {
+    "@itti/db": "workspace:*",
+    "@itti/schemas": "workspace:*",
+    "mysql2": "^3.14.0",
+    "fast-xml-parser": "^5.2.0",
+    "php-serialize": "^5.1.0"
+  },
+  "devDependencies": {
+    "@itti/config": "workspace:*",
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "~6.0.3"
+  }
+}

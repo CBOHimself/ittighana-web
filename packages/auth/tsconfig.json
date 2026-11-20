@@ -1,0 +1,1 @@
+{ "extends": "@itti/config/tsconfig.react.json", "compilerOptions": { "types": ["node"] }, "include": ["src"] }

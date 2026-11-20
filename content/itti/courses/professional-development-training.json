@@ -1,0 +1,27 @@
+{
+  "wpId": 4204,
+  "title": "Professional Development Training",
+  "slug": "professional-development-training",
+  "path": "/itti-course/professional-development-training",
+  "status": "published",
+  "publishedAt": "2025-11-20T22:59:49.000Z",
+  "cover": "",
+  "fields": {
+    "course_overview": "In today’s customer-driven environment, front-line employees serve as the face of the organization. This course is designed to equip Customer Service Associates and Receptionists with the essential professional skills needed to deliver outstanding customer experiences, manage challenging situations, and thrive in dynamic service environments.   Through practical exercises, real-life scenarios, and interactive workshops, participants will develop confidence, professionalism, and adaptability to perform effectively in any customer-facing role. ",
+    "learning_outcomes": "<p>By the end of this course, participants will be able to:</p>\n<ul>\n    <li>Demonstrate customer service excellence and create lasting positive impressions</li>\n    <li>Apply effective conflict resolution techniques to manage difficult customers</li>\n    <li>Organize tasks, manage time, and maintain productivity under pressure</li>\n    <li>Use emotional intelligence to communicate effectively and build strong relationships</li>\n    <li>Embrace change with confidence and cultivate a growth mindset in daily work</li>\n</ul>",
+    "training_methodology": "<p>This program utilizes an interactive, learner-centered approach, including:</p>\n<ul>\n    <li>Workshops and role plays</li>\n    <li>Real-life case studies and group discussions</li>\n    <li>Self-assessment and reflection tools for personal development</li>\n    <li>Practical exercises tailored to workplace scenarios</li>\n</ul>",
+    "course_content": "<p>In this interactive course, delegates will learn to master the key competencies required for exceptional professional performance, including:</p>\n\n<h4>Customer Service Excellence</h4>\n<ul>\n    <li>Fundamentals of professional customer service</li>\n    <li>Building rapport and trust with customers</li>\n    <li>Delivering consistent service standards across all interactions</li>\n</ul>\n\n<h4>Handling Difficult Customers & Conflict Resolution</h4>\n<ul>\n    <li>Understanding customer behavior and psychology</li>\n    <li>Applying de-escalation and assertive communication techniques</li>\n    <li>Turning negative experiences into opportunities for loyalty and retention</li>\n</ul>\n\n\n<h4>Time Management & Prioritization</h4>\n<ul>\n    <li>Organizing and prioritizing daily responsibilities effectively</li>\n    <li>Balancing front-desk duties with urgent client needs</li>\n    <li>Using productivity tools and frameworks for better efficiency</li>\n</ul>\n\n<h4>Emotional Intelligence in Customer-Facing Roles</h4>\n<ul>\n    <li>Recognizing and managing emotions in high-pressure environments</li>\n    <li>Developing empathy and active listening skills</li>\n    <li>Maintaining professionalism and composure during challenging moments</li>\n</ul>\n\n<h4>Change Management & Growth Mindset</h4>\n<ul>\n    <li>Adapting positively to organizational change</li>\n    <li>Cultivating resilience and a proactive attitude</li>\n    <li>Building a mindset of continuous improvement and lifelong learning</li>\n</ul>",
+    "who_needs_this_course": "<ul>\n    <li>Customer Service Associates</li>\n    <li>Receptionists and front-desk personnel</li>\n    <li>Administrative staff who regularly interact with clients or visitors</li>\n    <li>Individuals seeking to enhance their professionalism and service skills</li>\n</ul>",
+    "course_material": "Participants receive comprehensive notes, handouts, and recommended resources for further study and skill reinforcement. ",
+    "featured_image_1": "",
+    "featured_image_2": "",
+    "featured_image_3": "",
+    "course_benefits": "",
+    "certification": "A Course Completion Certificate will be awarded at the end of the training by ITTI.",
+    "exam_window": "",
+    "custom_subheading": "0"
+  },
+  "seo": {},
+  "layout": [],
+  "template": "itti-course-template-3-4271"
+}

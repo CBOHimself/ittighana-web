@@ -1,0 +1,307 @@
+{
+  "wpId": 4211,
+  "title": "List of stuff",
+  "slug": "list-of-stuff-4211",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "191b0b67",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "6e1566e1",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "fdc0f18",
+              "type": "heading",
+              "props": {
+                "title": "Exam WIndow",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "6ca6ed01",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "12410faf",
+              "type": "heading",
+              "props": {
+                "title": "Exam WIndow",
+                "header_size": "h3",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "21865011",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "7d458782",
+              "type": "heading",
+              "props": {
+                "title": "Exam WIndow",
+                "header_size": "h3",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7214f3d5",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "41d7786e",
+              "type": "heading",
+              "props": {
+                "title": "Exam WIndow",
+                "header_size": "h3",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "531d416f",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "629b3ec1",
+              "type": "heading",
+              "props": {
+                "title": "Exam WIndow",
+                "header_size": "h3",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--min-height": "150px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        }
+      ]
+    }
+  ]
+}

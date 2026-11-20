@@ -1,0 +1,1986 @@
+{
+  "slug": "application-form-cbo-application-form",
+  "name": "Application Form",
+  "source": "cbo-application-form",
+  "kind": "enrolment",
+  "fields": [
+    {
+      "id": "1cd6c18",
+      "name": "field_1cd6c18",
+      "type": "heading",
+      "label": "Personal Info",
+      "required": false,
+      "width": "full"
+    },
+    {
+      "id": "91e14d0",
+      "name": "surname",
+      "type": "text",
+      "label": "Surname",
+      "placeholder": "Surname",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "4c34d64",
+      "name": "other_names",
+      "type": "text",
+      "label": "Other Name(s)",
+      "placeholder": "Other Name(s)",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "dfb7ce2",
+      "name": "dob",
+      "type": "date",
+      "label": "Date of Birth",
+      "placeholder": "dd/mm/yyyy",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "fd778da",
+      "name": "nationality",
+      "type": "select",
+      "label": "Nationality",
+      "placeholder": "Nationality",
+      "required": true,
+      "width": "half",
+      "options": [
+        {
+          "label": "Afghan",
+          "value": "Afghan"
+        },
+        {
+          "label": "Albanian",
+          "value": "Albanian"
+        },
+        {
+          "label": "Algerian",
+          "value": "Algerian"
+        },
+        {
+          "label": "American",
+          "value": "American"
+        },
+        {
+          "label": "Andorran",
+          "value": "Andorran"
+        },
+        {
+          "label": "Angolan",
+          "value": "Angolan"
+        },
+        {
+          "label": "Antiguan or Barbudan",
+          "value": "Antiguan or Barbudan"
+        },
+        {
+          "label": "Argentine",
+          "value": "Argentine"
+        },
+        {
+          "label": "Armenian",
+          "value": "Armenian"
+        },
+        {
+          "label": "Australian",
+          "value": "Australian"
+        },
+        {
+          "label": "Austrian",
+          "value": "Austrian"
+        },
+        {
+          "label": "Azerbaijani",
+          "value": "Azerbaijani"
+        },
+        {
+          "label": "Bahamian",
+          "value": "Bahamian"
+        },
+        {
+          "label": "Bahraini",
+          "value": "Bahraini"
+        },
+        {
+          "label": "Bangladeshi",
+          "value": "Bangladeshi"
+        },
+        {
+          "label": "Barbadian",
+          "value": "Barbadian"
+        },
+        {
+          "label": "Belarusian",
+          "value": "Belarusian"
+        },
+        {
+          "label": "Belgian",
+          "value": "Belgian"
+        },
+        {
+          "label": "Belizean",
+          "value": "Belizean"
+        },
+        {
+          "label": "Beninese",
+          "value": "Beninese"
+        },
+        {
+          "label": "Bhutanese",
+          "value": "Bhutanese"
+        },
+        {
+          "label": "Bolivian",
+          "value": "Bolivian"
+        },
+        {
+          "label": "Bosnian or Herzegovinian",
+          "value": "Bosnian or Herzegovinian"
+        },
+        {
+          "label": "Botswanan",
+          "value": "Botswanan"
+        },
+        {
+          "label": "Brazilian",
+          "value": "Brazilian"
+        },
+        {
+          "label": "British",
+          "value": "British"
+        },
+        {
+          "label": "Bruneian",
+          "value": "Bruneian"
+        },
+        {
+          "label": "Bulgarian",
+          "value": "Bulgarian"
+        },
+        {
+          "label": "Burkinabé",
+          "value": "Burkinabé"
+        },
+        {
+          "label": "Burmese",
+          "value": "Burmese"
+        },
+        {
+          "label": "Burundian",
+          "value": "Burundian"
+        },
+        {
+          "label": "Cambodian",
+          "value": "Cambodian"
+        },
+        {
+          "label": "Cameroonian",
+          "value": "Cameroonian"
+        },
+        {
+          "label": "Canadian",
+          "value": "Canadian"
+        },
+        {
+          "label": "Cape Verdean",
+          "value": "Cape Verdean"
+        },
+        {
+          "label": "Central African",
+          "value": "Central African"
+        },
+        {
+          "label": "Chadian",
+          "value": "Chadian"
+        },
+        {
+          "label": "Chilean",
+          "value": "Chilean"
+        },
+        {
+          "label": "Chinese",
+          "value": "Chinese"
+        },
+        {
+          "label": "Colombian",
+          "value": "Colombian"
+        },
+        {
+          "label": "Comoran",
+          "value": "Comoran"
+        },
+        {
+          "label": "Congolese",
+          "value": "Congolese"
+        },
+        {
+          "label": "Costa Rican",
+          "value": "Costa Rican"
+        },
+        {
+          "label": "Croatian",
+          "value": "Croatian"
+        },
+        {
+          "label": "Cuban",
+          "value": "Cuban"
+        },
+        {
+          "label": "Cypriot",
+          "value": "Cypriot"
+        },
+        {
+          "label": "Czech",
+          "value": "Czech"
+        },
+        {
+          "label": "Danish",
+          "value": "Danish"
+        },
+        {
+          "label": "Djiboutian",
+          "value": "Djiboutian"
+        },
+        {
+          "label": "Dominican",
+          "value": "Dominican"
+        },
+        {
+          "label": "Dutch",
+          "value": "Dutch"
+        },
+        {
+          "label": "Ecuadorean",
+          "value": "Ecuadorean"
+        },
+        {
+          "label": "Egyptian",
+          "value": "Egyptian"
+        },
+        {
+          "label": "Emirati",
+          "value": "Emirati"
+        },
+        {
+          "label": "Equatorial Guinean",
+          "value": "Equatorial Guinean"
+        },
+        {
+          "label": "Eritrean",
+          "value": "Eritrean"
+        },
+        {
+          "label": "Estonian",
+          "value": "Estonian"
+        },
+        {
+          "label": "Ethiopian",
+          "value": "Ethiopian"
+        },
+        {
+          "label": "Fijian",
+          "value": "Fijian"
+        },
+        {
+          "label": "Finnish",
+          "value": "Finnish"
+        },
+        {
+          "label": "French",
+          "value": "French"
+        },
+        {
+          "label": "Gabonese",
+          "value": "Gabonese"
+        },
+        {
+          "label": "Gambian",
+          "value": "Gambian"
+        },
+        {
+          "label": "Georgian",
+          "value": "Georgian"
+        },
+        {
+          "label": "German",
+          "value": "German"
+        },
+        {
+          "label": "Ghanaian",
+          "value": "Ghanaian"
+        },
+        {
+          "label": "Greek",
+          "value": "Greek"
+        },
+        {
+          "label": "Grenadian",
+          "value": "Grenadian"
+        },
+        {
+          "label": "Guatemalan",
+          "value": "Guatemalan"
+        },
+        {
+          "label": "Guinean",
+          "value": "Guinean"
+        },
+        {
+          "label": "Guyanese",
+          "value": "Guyanese"
+        },
+        {
+          "label": "Haitian",
+          "value": "Haitian"
+        },
+        {
+          "label": "Honduran",
+          "value": "Honduran"
+        },
+        {
+          "label": "Hungarian",
+          "value": "Hungarian"
+        },
+        {
+          "label": "Icelandic",
+          "value": "Icelandic"
+        },
+        {
+          "label": "Indian",
+          "value": "Indian"
+        },
+        {
+          "label": "Indonesian",
+          "value": "Indonesian"
+        },
+        {
+          "label": "Iranian",
+          "value": "Iranian"
+        },
+        {
+          "label": "Iraqi",
+          "value": "Iraqi"
+        },
+        {
+          "label": "Irish",
+          "value": "Irish"
+        },
+        {
+          "label": "Israeli",
+          "value": "Israeli"
+        },
+        {
+          "label": "Italian",
+          "value": "Italian"
+        },
+        {
+          "label": "Ivorian",
+          "value": "Ivorian"
+        },
+        {
+          "label": "Jamaican",
+          "value": "Jamaican"
+        },
+        {
+          "label": "Japanese",
+          "value": "Japanese"
+        },
+        {
+          "label": "Jordanian",
+          "value": "Jordanian"
+        },
+        {
+          "label": "Kazakhstani",
+          "value": "Kazakhstani"
+        },
+        {
+          "label": "Kenyan",
+          "value": "Kenyan"
+        },
+        {
+          "label": "Kuwaiti",
+          "value": "Kuwaiti"
+        },
+        {
+          "label": "Kyrgyz",
+          "value": "Kyrgyz"
+        },
+        {
+          "label": "Laotian",
+          "value": "Laotian"
+        },
+        {
+          "label": "Latvian",
+          "value": "Latvian"
+        },
+        {
+          "label": "Lebanese",
+          "value": "Lebanese"
+        },
+        {
+          "label": "Liberian",
+          "value": "Liberian"
+        },
+        {
+          "label": "Libyan",
+          "value": "Libyan"
+        },
+        {
+          "label": "Liechtensteiner",
+          "value": "Liechtensteiner"
+        },
+        {
+          "label": "Lithuanian",
+          "value": "Lithuanian"
+        },
+        {
+          "label": "Luxembourger",
+          "value": "Luxembourger"
+        },
+        {
+          "label": "Malagasy",
+          "value": "Malagasy"
+        },
+        {
+          "label": "Malawian",
+          "value": "Malawian"
+        },
+        {
+          "label": "Malaysian",
+          "value": "Malaysian"
+        },
+        {
+          "label": "Maldivian",
+          "value": "Maldivian"
+        },
+        {
+          "label": "Malian",
+          "value": "Malian"
+        },
+        {
+          "label": "Maltese",
+          "value": "Maltese"
+        },
+        {
+          "label": "Marshallese",
+          "value": "Marshallese"
+        },
+        {
+          "label": "Mauritanian",
+          "value": "Mauritanian"
+        },
+        {
+          "label": "Mauritian",
+          "value": "Mauritian"
+        },
+        {
+          "label": "Mexican",
+          "value": "Mexican"
+        },
+        {
+          "label": "Micronesian",
+          "value": "Micronesian"
+        },
+        {
+          "label": "Moldovan",
+          "value": "Moldovan"
+        },
+        {
+          "label": "Monégasque",
+          "value": "Monégasque"
+        },
+        {
+          "label": "Mongolian",
+          "value": "Mongolian"
+        },
+        {
+          "label": "Montenegrin",
+          "value": "Montenegrin"
+        },
+        {
+          "label": "Moroccan",
+          "value": "Moroccan"
+        },
+        {
+          "label": "Mozambican",
+          "value": "Mozambican"
+        },
+        {
+          "label": "Namibian",
+          "value": "Namibian"
+        },
+        {
+          "label": "Nauruan",
+          "value": "Nauruan"
+        },
+        {
+          "label": "Nepalese",
+          "value": "Nepalese"
+        },
+        {
+          "label": "New Zealander",
+          "value": "New Zealander"
+        },
+        {
+          "label": "Nicaraguan",
+          "value": "Nicaraguan"
+        },
+        {
+          "label": "Nigerien",
+          "value": "Nigerien"
+        },
+        {
+          "label": "Nigerian",
+          "value": "Nigerian"
+        },
+        {
+          "label": "North Korean",
+          "value": "North Korean"
+        },
+        {
+          "label": "Norwegian",
+          "value": "Norwegian"
+        },
+        {
+          "label": "Omani",
+          "value": "Omani"
+        },
+        {
+          "label": "Pakistani",
+          "value": "Pakistani"
+        },
+        {
+          "label": "Palauan",
+          "value": "Palauan"
+        },
+        {
+          "label": "Panamanian",
+          "value": "Panamanian"
+        },
+        {
+          "label": "Papua New Guinean",
+          "value": "Papua New Guinean"
+        },
+        {
+          "label": "Paraguayan",
+          "value": "Paraguayan"
+        },
+        {
+          "label": "Peruvian",
+          "value": "Peruvian"
+        },
+        {
+          "label": "Philippine",
+          "value": "Philippine"
+        },
+        {
+          "label": "Polish",
+          "value": "Polish"
+        },
+        {
+          "label": "Portuguese",
+          "value": "Portuguese"
+        },
+        {
+          "label": "Qatari",
+          "value": "Qatari"
+        },
+        {
+          "label": "Romanian",
+          "value": "Romanian"
+        },
+        {
+          "label": "Russian",
+          "value": "Russian"
+        },
+        {
+          "label": "Rwandan",
+          "value": "Rwandan"
+        },
+        {
+          "label": "Saint Lucian",
+          "value": "Saint Lucian"
+        },
+        {
+          "label": "Salvadoran",
+          "value": "Salvadoran"
+        },
+        {
+          "label": "Samoan",
+          "value": "Samoan"
+        },
+        {
+          "label": "Saudi",
+          "value": "Saudi"
+        },
+        {
+          "label": "Scottish",
+          "value": "Scottish"
+        },
+        {
+          "label": "Senegalese",
+          "value": "Senegalese"
+        },
+        {
+          "label": "Serbian",
+          "value": "Serbian"
+        },
+        {
+          "label": "Seychellois",
+          "value": "Seychellois"
+        },
+        {
+          "label": "Sierra Leonean",
+          "value": "Sierra Leonean"
+        },
+        {
+          "label": "Singaporean",
+          "value": "Singaporean"
+        },
+        {
+          "label": "Slovak",
+          "value": "Slovak"
+        },
+        {
+          "label": "Slovenian",
+          "value": "Slovenian"
+        },
+        {
+          "label": "Somali",
+          "value": "Somali"
+        },
+        {
+          "label": "South African",
+          "value": "South African"
+        },
+        {
+          "label": "South Korean",
+          "value": "South Korean"
+        },
+        {
+          "label": "Spanish",
+          "value": "Spanish"
+        },
+        {
+          "label": "Sri Lankan",
+          "value": "Sri Lankan"
+        },
+        {
+          "label": "Sudanese",
+          "value": "Sudanese"
+        },
+        {
+          "label": "Surinamese",
+          "value": "Surinamese"
+        },
+        {
+          "label": "Swazi",
+          "value": "Swazi"
+        },
+        {
+          "label": "Swedish",
+          "value": "Swedish"
+        },
+        {
+          "label": "Swiss",
+          "value": "Swiss"
+        },
+        {
+          "label": "Syrian",
+          "value": "Syrian"
+        },
+        {
+          "label": "Taiwanese",
+          "value": "Taiwanese"
+        },
+        {
+          "label": "Tajik",
+          "value": "Tajik"
+        },
+        {
+          "label": "Tanzanian",
+          "value": "Tanzanian"
+        },
+        {
+          "label": "Thai",
+          "value": "Thai"
+        },
+        {
+          "label": "Togolese",
+          "value": "Togolese"
+        },
+        {
+          "label": "Tongan",
+          "value": "Tongan"
+        },
+        {
+          "label": "Trinidadian or Tobagonian",
+          "value": "Trinidadian or Tobagonian"
+        },
+        {
+          "label": "Tunisian",
+          "value": "Tunisian"
+        },
+        {
+          "label": "Turkish",
+          "value": "Turkish"
+        },
+        {
+          "label": "Turkmen",
+          "value": "Turkmen"
+        },
+        {
+          "label": "Ugandan",
+          "value": "Ugandan"
+        },
+        {
+          "label": "Ukrainian",
+          "value": "Ukrainian"
+        },
+        {
+          "label": "Uruguayan",
+          "value": "Uruguayan"
+        },
+        {
+          "label": "Uzbek",
+          "value": "Uzbek"
+        },
+        {
+          "label": "Venezuelan",
+          "value": "Venezuelan"
+        },
+        {
+          "label": "Vietnamese",
+          "value": "Vietnamese"
+        },
+        {
+          "label": "Welsh",
+          "value": "Welsh"
+        },
+        {
+          "label": "Yemeni",
+          "value": "Yemeni"
+        },
+        {
+          "label": "Zambian",
+          "value": "Zambian"
+        },
+        {
+          "label": "Zimbabwean",
+          "value": "Zimbabwean"
+        }
+      ]
+    },
+    {
+      "id": "a481955",
+      "name": "house_name",
+      "type": "text",
+      "label": "House Number/ Name",
+      "placeholder": "House Number/ Name",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "11aa8b1",
+      "name": "address",
+      "type": "text",
+      "label": "Address",
+      "placeholder": "Address",
+      "required": true,
+      "width": "full"
+    },
+    {
+      "id": "78a40f3",
+      "name": "county",
+      "type": "select",
+      "label": "Country of Residence",
+      "placeholder": "Nationality",
+      "required": true,
+      "width": "half",
+      "options": [
+        {
+          "label": "Afghan",
+          "value": "Afghan"
+        },
+        {
+          "label": "Albanian",
+          "value": "Albanian"
+        },
+        {
+          "label": "Algerian",
+          "value": "Algerian"
+        },
+        {
+          "label": "American",
+          "value": "American"
+        },
+        {
+          "label": "Andorran",
+          "value": "Andorran"
+        },
+        {
+          "label": "Angolan",
+          "value": "Angolan"
+        },
+        {
+          "label": "Antiguan or Barbudan",
+          "value": "Antiguan or Barbudan"
+        },
+        {
+          "label": "Argentine",
+          "value": "Argentine"
+        },
+        {
+          "label": "Armenian",
+          "value": "Armenian"
+        },
+        {
+          "label": "Australian",
+          "value": "Australian"
+        },
+        {
+          "label": "Austrian",
+          "value": "Austrian"
+        },
+        {
+          "label": "Azerbaijani",
+          "value": "Azerbaijani"
+        },
+        {
+          "label": "Bahamian",
+          "value": "Bahamian"
+        },
+        {
+          "label": "Bahraini",
+          "value": "Bahraini"
+        },
+        {
+          "label": "Bangladeshi",
+          "value": "Bangladeshi"
+        },
+        {
+          "label": "Barbadian",
+          "value": "Barbadian"
+        },
+        {
+          "label": "Belarusian",
+          "value": "Belarusian"
+        },
+        {
+          "label": "Belgian",
+          "value": "Belgian"
+        },
+        {
+          "label": "Belizean",
+          "value": "Belizean"
+        },
+        {
+          "label": "Beninese",
+          "value": "Beninese"
+        },
+        {
+          "label": "Bhutanese",
+          "value": "Bhutanese"
+        },
+        {
+          "label": "Bolivian",
+          "value": "Bolivian"
+        },
+        {
+          "label": "Bosnian or Herzegovinian",
+          "value": "Bosnian or Herzegovinian"
+        },
+        {
+          "label": "Botswanan",
+          "value": "Botswanan"
+        },
+        {
+          "label": "Brazilian",
+          "value": "Brazilian"
+        },
+        {
+          "label": "British",
+          "value": "British"
+        },
+        {
+          "label": "Bruneian",
+          "value": "Bruneian"
+        },
+        {
+          "label": "Bulgarian",
+          "value": "Bulgarian"
+        },
+        {
+          "label": "Burkinabé",
+          "value": "Burkinabé"
+        },
+        {
+          "label": "Burmese",
+          "value": "Burmese"
+        },
+        {
+          "label": "Burundian",
+          "value": "Burundian"
+        },
+        {
+          "label": "Cambodian",
+          "value": "Cambodian"
+        },
+        {
+          "label": "Cameroonian",
+          "value": "Cameroonian"
+        },
+        {
+          "label": "Canadian",
+          "value": "Canadian"
+        },
+        {
+          "label": "Cape Verdean",
+          "value": "Cape Verdean"
+        },
+        {
+          "label": "Central African",
+          "value": "Central African"
+        },
+        {
+          "label": "Chadian",
+          "value": "Chadian"
+        },
+        {
+          "label": "Chilean",
+          "value": "Chilean"
+        },
+        {
+          "label": "Chinese",
+          "value": "Chinese"
+        },
+        {
+          "label": "Colombian",
+          "value": "Colombian"
+        },
+        {
+          "label": "Comoran",
+          "value": "Comoran"
+        },
+        {
+          "label": "Congolese",
+          "value": "Congolese"
+        },
+        {
+          "label": "Costa Rican",
+          "value": "Costa Rican"
+        },
+        {
+          "label": "Croatian",
+          "value": "Croatian"
+        },
+        {
+          "label": "Cuban",
+          "value": "Cuban"
+        },
+        {
+          "label": "Cypriot",
+          "value": "Cypriot"
+        },
+        {
+          "label": "Czech",
+          "value": "Czech"
+        },
+        {
+          "label": "Danish",
+          "value": "Danish"
+        },
+        {
+          "label": "Djiboutian",
+          "value": "Djiboutian"
+        },
+        {
+          "label": "Dominican",
+          "value": "Dominican"
+        },
+        {
+          "label": "Dutch",
+          "value": "Dutch"
+        },
+        {
+          "label": "Ecuadorean",
+          "value": "Ecuadorean"
+        },
+        {
+          "label": "Egyptian",
+          "value": "Egyptian"
+        },
+        {
+          "label": "Emirati",
+          "value": "Emirati"
+        },
+        {
+          "label": "Equatorial Guinean",
+          "value": "Equatorial Guinean"
+        },
+        {
+          "label": "Eritrean",
+          "value": "Eritrean"
+        },
+        {
+          "label": "Estonian",
+          "value": "Estonian"
+        },
+        {
+          "label": "Ethiopian",
+          "value": "Ethiopian"
+        },
+        {
+          "label": "Fijian",
+          "value": "Fijian"
+        },
+        {
+          "label": "Finnish",
+          "value": "Finnish"
+        },
+        {
+          "label": "French",
+          "value": "French"
+        },
+        {
+          "label": "Gabonese",
+          "value": "Gabonese"
+        },
+        {
+          "label": "Gambian",
+          "value": "Gambian"
+        },
+        {
+          "label": "Georgian",
+          "value": "Georgian"
+        },
+        {
+          "label": "German",
+          "value": "German"
+        },
+        {
+          "label": "Ghanaian",
+          "value": "Ghanaian"
+        },
+        {
+          "label": "Greek",
+          "value": "Greek"
+        },
+        {
+          "label": "Grenadian",
+          "value": "Grenadian"
+        },
+        {
+          "label": "Guatemalan",
+          "value": "Guatemalan"
+        },
+        {
+          "label": "Guinean",
+          "value": "Guinean"
+        },
+        {
+          "label": "Guyanese",
+          "value": "Guyanese"
+        },
+        {
+          "label": "Haitian",
+          "value": "Haitian"
+        },
+        {
+          "label": "Honduran",
+          "value": "Honduran"
+        },
+        {
+          "label": "Hungarian",
+          "value": "Hungarian"
+        },
+        {
+          "label": "Icelandic",
+          "value": "Icelandic"
+        },
+        {
+          "label": "Indian",
+          "value": "Indian"
+        },
+        {
+          "label": "Indonesian",
+          "value": "Indonesian"
+        },
+        {
+          "label": "Iranian",
+          "value": "Iranian"
+        },
+        {
+          "label": "Iraqi",
+          "value": "Iraqi"
+        },
+        {
+          "label": "Irish",
+          "value": "Irish"
+        },
+        {
+          "label": "Israeli",
+          "value": "Israeli"
+        },
+        {
+          "label": "Italian",
+          "value": "Italian"
+        },
+        {
+          "label": "Ivorian",
+          "value": "Ivorian"
+        },
+        {
+          "label": "Jamaican",
+          "value": "Jamaican"
+        },
+        {
+          "label": "Japanese",
+          "value": "Japanese"
+        },
+        {
+          "label": "Jordanian",
+          "value": "Jordanian"
+        },
+        {
+          "label": "Kazakhstani",
+          "value": "Kazakhstani"
+        },
+        {
+          "label": "Kenyan",
+          "value": "Kenyan"
+        },
+        {
+          "label": "Kuwaiti",
+          "value": "Kuwaiti"
+        },
+        {
+          "label": "Kyrgyz",
+          "value": "Kyrgyz"
+        },
+        {
+          "label": "Laotian",
+          "value": "Laotian"
+        },
+        {
+          "label": "Latvian",
+          "value": "Latvian"
+        },
+        {
+          "label": "Lebanese",
+          "value": "Lebanese"
+        },
+        {
+          "label": "Liberian",
+          "value": "Liberian"
+        },
+        {
+          "label": "Libyan",
+          "value": "Libyan"
+        },
+        {
+          "label": "Liechtensteiner",
+          "value": "Liechtensteiner"
+        },
+        {
+          "label": "Lithuanian",
+          "value": "Lithuanian"
+        },
+        {
+          "label": "Luxembourger",
+          "value": "Luxembourger"
+        },
+        {
+          "label": "Malagasy",
+          "value": "Malagasy"
+        },
+        {
+          "label": "Malawian",
+          "value": "Malawian"
+        },
+        {
+          "label": "Malaysian",
+          "value": "Malaysian"
+        },
+        {
+          "label": "Maldivian",
+          "value": "Maldivian"
+        },
+        {
+          "label": "Malian",
+          "value": "Malian"
+        },
+        {
+          "label": "Maltese",
+          "value": "Maltese"
+        },
+        {
+          "label": "Marshallese",
+          "value": "Marshallese"
+        },
+        {
+          "label": "Mauritanian",
+          "value": "Mauritanian"
+        },
+        {
+          "label": "Mauritian",
+          "value": "Mauritian"
+        },
+        {
+          "label": "Mexican",
+          "value": "Mexican"
+        },
+        {
+          "label": "Micronesian",
+          "value": "Micronesian"
+        },
+        {
+          "label": "Moldovan",
+          "value": "Moldovan"
+        },
+        {
+          "label": "Monégasque",
+          "value": "Monégasque"
+        },
+        {
+          "label": "Mongolian",
+          "value": "Mongolian"
+        },
+        {
+          "label": "Montenegrin",
+          "value": "Montenegrin"
+        },
+        {
+          "label": "Moroccan",
+          "value": "Moroccan"
+        },
+        {
+          "label": "Mozambican",
+          "value": "Mozambican"
+        },
+        {
+          "label": "Namibian",
+          "value": "Namibian"
+        },
+        {
+          "label": "Nauruan",
+          "value": "Nauruan"
+        },
+        {
+          "label": "Nepalese",
+          "value": "Nepalese"
+        },
+        {
+          "label": "New Zealander",
+          "value": "New Zealander"
+        },
+        {
+          "label": "Nicaraguan",
+          "value": "Nicaraguan"
+        },
+        {
+          "label": "Nigerien",
+          "value": "Nigerien"
+        },
+        {
+          "label": "Nigerian",
+          "value": "Nigerian"
+        },
+        {
+          "label": "North Korean",
+          "value": "North Korean"
+        },
+        {
+          "label": "Norwegian",
+          "value": "Norwegian"
+        },
+        {
+          "label": "Omani",
+          "value": "Omani"
+        },
+        {
+          "label": "Pakistani",
+          "value": "Pakistani"
+        },
+        {
+          "label": "Palauan",
+          "value": "Palauan"
+        },
+        {
+          "label": "Panamanian",
+          "value": "Panamanian"
+        },
+        {
+          "label": "Papua New Guinean",
+          "value": "Papua New Guinean"
+        },
+        {
+          "label": "Paraguayan",
+          "value": "Paraguayan"
+        },
+        {
+          "label": "Peruvian",
+          "value": "Peruvian"
+        },
+        {
+          "label": "Philippine",
+          "value": "Philippine"
+        },
+        {
+          "label": "Polish",
+          "value": "Polish"
+        },
+        {
+          "label": "Portuguese",
+          "value": "Portuguese"
+        },
+        {
+          "label": "Qatari",
+          "value": "Qatari"
+        },
+        {
+          "label": "Romanian",
+          "value": "Romanian"
+        },
+        {
+          "label": "Russian",
+          "value": "Russian"
+        },
+        {
+          "label": "Rwandan",
+          "value": "Rwandan"
+        },
+        {
+          "label": "Saint Lucian",
+          "value": "Saint Lucian"
+        },
+        {
+          "label": "Salvadoran",
+          "value": "Salvadoran"
+        },
+        {
+          "label": "Samoan",
+          "value": "Samoan"
+        },
+        {
+          "label": "Saudi",
+          "value": "Saudi"
+        },
+        {
+          "label": "Scottish",
+          "value": "Scottish"
+        },
+        {
+          "label": "Senegalese",
+          "value": "Senegalese"
+        },
+        {
+          "label": "Serbian",
+          "value": "Serbian"
+        },
+        {
+          "label": "Seychellois",
+          "value": "Seychellois"
+        },
+        {
+          "label": "Sierra Leonean",
+          "value": "Sierra Leonean"
+        },
+        {
+          "label": "Singaporean",
+          "value": "Singaporean"
+        },
+        {
+          "label": "Slovak",
+          "value": "Slovak"
+        },
+        {
+          "label": "Slovenian",
+          "value": "Slovenian"
+        },
+        {
+          "label": "Somali",
+          "value": "Somali"
+        },
+        {
+          "label": "South African",
+          "value": "South African"
+        },
+        {
+          "label": "South Korean",
+          "value": "South Korean"
+        },
+        {
+          "label": "Spanish",
+          "value": "Spanish"
+        },
+        {
+          "label": "Sri Lankan",
+          "value": "Sri Lankan"
+        },
+        {
+          "label": "Sudanese",
+          "value": "Sudanese"
+        },
+        {
+          "label": "Surinamese",
+          "value": "Surinamese"
+        },
+        {
+          "label": "Swazi",
+          "value": "Swazi"
+        },
+        {
+          "label": "Swedish",
+          "value": "Swedish"
+        },
+        {
+          "label": "Swiss",
+          "value": "Swiss"
+        },
+        {
+          "label": "Syrian",
+          "value": "Syrian"
+        },
+        {
+          "label": "Taiwanese",
+          "value": "Taiwanese"
+        },
+        {
+          "label": "Tajik",
+          "value": "Tajik"
+        },
+        {
+          "label": "Tanzanian",
+          "value": "Tanzanian"
+        },
+        {
+          "label": "Thai",
+          "value": "Thai"
+        },
+        {
+          "label": "Togolese",
+          "value": "Togolese"
+        },
+        {
+          "label": "Tongan",
+          "value": "Tongan"
+        },
+        {
+          "label": "Trinidadian or Tobagonian",
+          "value": "Trinidadian or Tobagonian"
+        },
+        {
+          "label": "Tunisian",
+          "value": "Tunisian"
+        },
+        {
+          "label": "Turkish",
+          "value": "Turkish"
+        },
+        {
+          "label": "Turkmen",
+          "value": "Turkmen"
+        },
+        {
+          "label": "Ugandan",
+          "value": "Ugandan"
+        },
+        {
+          "label": "Ukrainian",
+          "value": "Ukrainian"
+        },
+        {
+          "label": "Uruguayan",
+          "value": "Uruguayan"
+        },
+        {
+          "label": "Uzbek",
+          "value": "Uzbek"
+        },
+        {
+          "label": "Venezuelan",
+          "value": "Venezuelan"
+        },
+        {
+          "label": "Vietnamese",
+          "value": "Vietnamese"
+        },
+        {
+          "label": "Welsh",
+          "value": "Welsh"
+        },
+        {
+          "label": "Yemeni",
+          "value": "Yemeni"
+        },
+        {
+          "label": "Zambian",
+          "value": "Zambian"
+        },
+        {
+          "label": "Zimbabwean",
+          "value": "Zimbabwean"
+        }
+      ]
+    },
+    {
+      "id": "85bdeae",
+      "name": "gh_post",
+      "type": "text",
+      "label": "Ghana Post Address",
+      "placeholder": "Ghana Post Address",
+      "required": false,
+      "width": "full"
+    },
+    {
+      "id": "cd3a3f7",
+      "name": "email",
+      "type": "email",
+      "label": "Email",
+      "placeholder": "Email",
+      "required": true,
+      "width": "full"
+    },
+    {
+      "id": "7fe7aff",
+      "name": "phone_main",
+      "type": "phone",
+      "label": "Phone Number (inc. country code e.g. +233)",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "5c61336",
+      "name": "phone_other",
+      "type": "phone",
+      "label": "Phone Number (Other)",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "f741fc6",
+      "name": "field_f741fc6",
+      "type": "heading",
+      "label": "Parent/Guardian Info",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "410c782",
+      "name": "parent_name",
+      "type": "text",
+      "label": "Name of Parent/Guardian",
+      "placeholder": "Name of Parent/Guardian",
+      "required": true,
+      "width": "full"
+    },
+    {
+      "id": "03d258e",
+      "name": "parent_number",
+      "type": "phone",
+      "label": "Phone Number of Parent/Guardian",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "eb68287",
+      "name": "parent_address",
+      "type": "text",
+      "label": "Address of Parent/Guardian",
+      "placeholder": "Address of Parent/Guardian",
+      "required": true,
+      "width": "full"
+    },
+    {
+      "id": "b820dc4",
+      "name": "field_b820dc4",
+      "type": "heading",
+      "label": "Course Information",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "ef9d76a",
+      "name": "courses_selected",
+      "type": "select",
+      "label": "Courses Applied for",
+      "required": true,
+      "width": "full",
+      "options": [
+        {
+          "label": "Package I - Airport Passenger Services & Operations + Customer Care and Personal Development.",
+          "value": "Package I - Airport Passenger Services & Operations + Customer Care and Personal Development."
+        },
+        {
+          "label": "Package II - International Travel & Tourism Foundation Diploma + Customer Care and Personal Development.",
+          "value": "Package II - International Travel & Tourism Foundation Diploma + Customer Care and Personal Development."
+        },
+        {
+          "label": "Package III - IATA Airline Cabin Crew Training + Customer Care and Personal Development.",
+          "value": "Package III - IATA Airline Cabin Crew Training + Customer Care and Personal Development."
+        },
+        {
+          "label": "International Travel and Tourism Foundation Diploma",
+          "value": "International Travel and Tourism Foundation Diploma"
+        },
+        {
+          "label": "IATA Airline Cabin Crew Training",
+          "value": "IATA Airline Cabin Crew Training"
+        },
+        {
+          "label": "Airport Passenger Services & Operations",
+          "value": "Airport Passenger Services & Operations"
+        },
+        {
+          "label": "Hospitality and Customer Service Excellence",
+          "value": "Hospitality and Customer Service Excellence"
+        },
+        {
+          "label": "AI Prompt Engineering",
+          "value": "AI Prompt Engineering"
+        },
+        {
+          "label": "Hotel Hospitality Management",
+          "value": "Hotel Hospitality Management"
+        },
+        {
+          "label": "Customer Service Skills for Airline Travel and Tourism Professionals",
+          "value": "Customer Service Skills for Airline Travel and Tourism Professionals"
+        },
+        {
+          "label": "Interpersonal and Communication Skills",
+          "value": "Interpersonal and Communication Skills"
+        },
+        {
+          "label": "Professional Development Training",
+          "value": "Professional Development Training"
+        }
+      ]
+    },
+    {
+      "id": "2f0a761",
+      "name": "start_date",
+      "type": "date",
+      "label": "Date of Commencement",
+      "placeholder": "dd/mm/yyyy",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "76d7857",
+      "name": "course_duration",
+      "type": "select",
+      "label": "Duration of Courses",
+      "required": false,
+      "width": "half",
+      "options": [
+        {
+          "label": "1-3 months",
+          "value": "1-3 months"
+        },
+        {
+          "label": "6-9 months",
+          "value": "6-9 months"
+        },
+        {
+          "label": "9-12 months",
+          "value": "9-12 months"
+        }
+      ]
+    },
+    {
+      "id": "4585a2e",
+      "name": "field_4585a2e",
+      "type": "heading",
+      "label": "Qualifications",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "e568fe5",
+      "name": "qualification_1",
+      "type": "text",
+      "label": "Qualification 1",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "bdcaff5",
+      "name": "institution_1",
+      "type": "text",
+      "label": "Institution",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "047525f",
+      "name": "field_047525f",
+      "type": "text",
+      "label": "Location",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "14075c7",
+      "name": "field_14075c7",
+      "type": "date",
+      "label": "Start Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "a913b18",
+      "name": "field_a913b18",
+      "type": "date",
+      "label": "End Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "dba82d9",
+      "name": "qualification_2",
+      "type": "text",
+      "label": "Qualification 2",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "df5cf64",
+      "name": "institution_2",
+      "type": "text",
+      "label": "Institution",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "7d1cb0b",
+      "name": "field_7d1cb0b",
+      "type": "text",
+      "label": "Location",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "02e39fd",
+      "name": "field_02e39fd",
+      "type": "date",
+      "label": "Start Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "4f48a8f",
+      "name": "field_4f48a8f",
+      "type": "date",
+      "label": "End Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "1bdcae8",
+      "name": "qualification_3",
+      "type": "text",
+      "label": "Qualification 3",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "46acbb5",
+      "name": "institution_3",
+      "type": "text",
+      "label": "Institution",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "736be07",
+      "name": "field_736be07",
+      "type": "text",
+      "label": "Location",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "cf94ed7",
+      "name": "field_cf94ed7",
+      "type": "date",
+      "label": "Start Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "37def68",
+      "name": "field_37def68",
+      "type": "date",
+      "label": "End Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "c1ad347",
+      "name": "qualification_4",
+      "type": "text",
+      "label": "Qualification 4",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "aa01ac4",
+      "name": "institution_4",
+      "type": "text",
+      "label": "Institution",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "38881d1",
+      "name": "field_38881d1",
+      "type": "text",
+      "label": "Location",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "78490ba",
+      "name": "field_78490ba",
+      "type": "date",
+      "label": "Start Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "3168d3f",
+      "name": "field_3168d3f",
+      "type": "date",
+      "label": "End Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "fe225a4",
+      "name": "qualification_5",
+      "type": "text",
+      "label": "Qualification 5",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "757bf52",
+      "name": "institution_5",
+      "type": "text",
+      "label": "Institution",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "7027c34",
+      "name": "field_7027c34",
+      "type": "text",
+      "label": "Location",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "746cf17",
+      "name": "field_746cf17",
+      "type": "date",
+      "label": "Start Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "eefb013",
+      "name": "field_eefb013",
+      "type": "date",
+      "label": "End Date",
+      "placeholder": "dd/mm/yyyy",
+      "required": false,
+      "width": "half"
+    },
+    {
+      "id": "b904e94",
+      "name": "certificates",
+      "type": "file",
+      "label": "Copies of your academic certificates (high school, previous qualifications, or relevant professional certifications)",
+      "required": true,
+      "width": "full",
+      "validation": {
+        "maxSizeMb": 5
+      }
+    },
+    {
+      "id": "b85d8a4",
+      "name": "field_b85d8a4",
+      "type": "heading",
+      "label": "Additional Info",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "99d7561",
+      "name": "emergency_name",
+      "type": "text",
+      "label": "Emergency Contact Name",
+      "placeholder": "Emergency Contact Name",
+      "required": true,
+      "width": "full"
+    },
+    {
+      "id": "c81889a",
+      "name": "emergency_number",
+      "type": "phone",
+      "label": "Emergency Contact Phone Number",
+      "placeholder": "+233 123 456 7890",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "0dfe2b7",
+      "name": "passport_photo",
+      "type": "file",
+      "label": "Passport Photo",
+      "required": true,
+      "width": "half",
+      "validation": {
+        "maxSizeMb": 5
+      }
+    },
+    {
+      "id": "c47720f",
+      "name": "privacy_policy",
+      "type": "checkbox",
+      "label": "Accept to proceed with your application",
+      "required": true,
+      "width": "full"
+    }
+  ],
+  "settings": {
+    "notifyEmails": [
+      "manager@ittighana.com"
+    ],
+    "confirmationMessage": "Your submission was successful.",
+    "sendConfirmationEmail": true,
+    "submitLabel": "Send"
+  },
+  "status": "published"
+}

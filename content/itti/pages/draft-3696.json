@@ -1,0 +1,20 @@
+{
+  "wpId": 3696,
+  "title": "Elementor #3696",
+  "slug": "draft-3696",
+  "path": null,
+  "template": "default",
+  "pageTemplate": "canvas",
+  "status": "draft",
+  "seo": {},
+  "layout": [
+    {
+      "id": "ca4c4ed",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": []
+    }
+  ]
+}

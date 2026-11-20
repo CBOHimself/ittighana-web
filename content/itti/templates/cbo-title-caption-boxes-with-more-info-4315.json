@@ -1,0 +1,498 @@
+{
+  "wpId": 4315,
+  "title": "CBO - Title + caption + boxes with more info",
+  "slug": "cbo-title-caption-boxes-with-more-info-4315",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "538ded25",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "c654e3",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "1b822302",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "e97a860",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "far fa-building",
+                      "library": "fa-regular"
+                    }
+                  }
+                },
+                {
+                  "id": "48721a4a",
+                  "type": "heading",
+                  "props": {
+                    "title": "World-Class Facilities",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "181235f2",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><b>Ultramodern, air-conditioned lecture rooms</b> in a <b>strategic, convenient location</b> in Accra, Ghana, offering <b>high-speed internet</b> &amp; <b>web conferencing</b> setup.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "36f09e99",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "331de662",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "fas fa-chalkboard-teacher",
+                      "library": "fa-solid"
+                    }
+                  }
+                },
+                {
+                  "id": "46b5e7e1",
+                  "type": "heading",
+                  "props": {
+                    "title": "Expert Instructors",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1003b9fb",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Learn from <b>dedicated, qualified instructors</b> who bring a <b>wide range of real-world aviation and travel industry skills</b> and experience directly to your classroom.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "3bc6e6ab",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "1a1ce997",
+                  "type": "icon",
+                  "props": {
+                    "selected_icon": {
+                      "value": "fas fa-medal",
+                      "library": "fa-solid"
+                    }
+                  }
+                },
+                {
+                  "id": "6c607ac6",
+                  "type": "heading",
+                  "props": {
+                    "title": "Accredited Courses",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1043200d",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><b>Engaging, fulfilling courses</b> leading to <b>useful, globally recognized certifications</b> (IATA, etc.). We offer <b>flexible, customizable</b> learning paths.</p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "7% 0% 0% 0%",
+                "--flex-direction": "row",
+                "--row-gap": "40px",
+                "--column-gap": "40px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "z-index": "5",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        }
+      ]
+    }
+  ]
+}

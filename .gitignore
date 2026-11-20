@@ -1,0 +1,28 @@
+node_modules/
+dist/
+.next/
+out/
+.turbo/
+next-env.d.ts
+*.tsbuildinfo
+coverage/
+*.log
+.DS_Store
+
+# env
+.env
+.env.*
+!.env.example
+
+# local data
+/backups/
+/tools/wp-migrate/input/
+/tools/visual-diff/output/
+/storage/
+
+# local build previews
+.preview/
+.sync/
+
+# Admin portal build output (served by the web app at /staff)
+apps/web/public/staff/

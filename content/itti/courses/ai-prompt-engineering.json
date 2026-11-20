@@ -1,0 +1,27 @@
+{
+  "wpId": 4201,
+  "title": "AI Prompt Engineering",
+  "slug": "ai-prompt-engineering",
+  "path": "/itti-course/ai-prompt-engineering",
+  "status": "published",
+  "publishedAt": "2025-11-20T22:54:05.000Z",
+  "cover": "",
+  "fields": {
+    "course_overview": "ITTI’s AI Prompt Engineering course is a practical, hands-on program designed for professionals who want to master prompt design and interaction with AI tools like ChatGPT, Claude, Gemini, and Midjourney. Whether you're in business, content creation, or education, this course helps you unlock the full potential of AI in your daily work. ",
+    "learning_outcomes": "    <p>Participants will learn how to:</p>\n    <ul>\n        <li>Design clear, structured prompts to improve AI-generated results</li>\n        <li>Use prompt engineering techniques across different platforms</li>\n        <li>Apply prompting in real-world scenarios like content creation, business reporting, and automation</li>\n        <li>Explore advanced concepts like role prompting and prompt chaining</li>\n        <li>Navigate limitations and ethical concerns when using generative AI</li>\n    </ul>\n    ",
+    "training_methodology": "",
+    "course_content": "    \n    <h4>Module 1: Understanding Generative AI</h4>\n    <ul>\n        <li>Introduction to Large Language Models (LLMs) and generative systems</li>\n        <li>Overview of ChatGPT, Claude, Midjourney, and Gemini</li>\n        <li>Practical use cases in content creation, business, and data analysis</li>\n    </ul>\n    \n    <h4>Module 2: Prompting Fundamentals</h4>\n    <ul>\n        <li>Types of prompts: zero-shot, few-shot, and chain-of-thought</li>\n        <li>Writing structured and effective prompts</li>\n        <li>Identifying common issues and refining AI outputs</li>\n    </ul>\n    \n    <h4>Module 3: Advanced Prompt Design</h4>\n    <ul>\n        <li>Role-based and persona-driven prompting</li>\n        <li>Chaining prompts for complex multi-step tasks</li>\n        <li>Using format control, templates, and reusable prompt structures</li>\n    </ul>\n    \n    <h4>Module 4: Platform-Specific Prompting</h4>\n    <ul>\n        <li>Customizing prompts for ChatGPT</li>\n        <li>Creating visual prompts for Midjourney and DALL·E</li>\n        <li>Understanding model behavior: Claude vs. Gemini</li>\n        <li>Overview of prompt design tools and platforms</li>\n    </ul>\n    \n    <h4>Module 5: Use Cases & Applications</h4>\n    <ul>\n        <li>Generating blogs, scripts, and advertisements</li>\n        <li>Business reporting and presentation assistance</li>\n        <li>Applications in education, HR, and customer service</li>\n        <li>Prompting for marketing, legal, and financial tasks</li>\n    </ul>\n    \n    <h4>Module 6: Ethics & Future Skills</h4>\n    <ul>\n        <li>Recognizing and addressing bias in AI models</li>\n        <li>Ensuring safe and responsible AI usage</li>\n        <li>Exploring future trends and career opportunities in prompt engineering</li>\n    </ul>",
+    "who_needs_this_course": "    <ul>\n        <li>Business professionals and managers</li>\n        <li>Marketers, content creators, and designers</li>\n        <li>HR and administrative staff</li>\n        <li>Teachers, trainers, and researchers</li>\n        <li>Corporate teams exploring AI adoption</li>\n    </ul>\n    ",
+    "course_material": "",
+    "featured_image_1": "",
+    "featured_image_2": "",
+    "featured_image_3": "",
+    "course_benefits": "",
+    "certification": "A Course Completion Certificate will be awarded at the end of the training by ITTI.",
+    "exam_window": "",
+    "custom_subheading": "0"
+  },
+  "seo": {},
+  "layout": [],
+  "template": "itti-course-template-3-4271"
+}

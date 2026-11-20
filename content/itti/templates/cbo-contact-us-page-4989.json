@@ -1,0 +1,24 @@
+{
+  "wpId": 4989,
+  "title": "CBO - Contact us page",
+  "slug": "cbo-contact-us-page-4989",
+  "kind": "page",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "7bdc9db4",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "492ee5f9",
+          "type": "template",
+          "props": {}
+        }
+      ]
+    }
+  ]
+}

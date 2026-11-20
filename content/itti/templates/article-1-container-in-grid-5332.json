@@ -1,0 +1,127 @@
+{
+  "wpId": 5332,
+  "title": "article (1 container in grid)",
+  "slug": "article-1-container-in-grid-5332",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "7ace98a5",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "7799df2d",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "555b9090",
+              "type": "image",
+              "props": {}
+            }
+          ]
+        },
+        {
+          "id": "4cb27151",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "57670f96",
+              "type": "heading",
+              "props": {
+                "title": "Add Your Heading Text Here"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "121c0fcf",
+              "type": "text-editor",
+              "props": {}
+            },
+            {
+              "id": "22376369",
+              "type": "button",
+              "props": {
+                "text": "Read Full Article (PDF)"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-btn",
+                  "css": {
+                    "background-color": "var(--e-global-color-primary)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "15px 15px 15px 15px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--padding": "0px 0px 0px 0px",
+            "--flex-direction": "column",
+            "border-style": "solid",
+            "border-width": "2px 2px 2px 2px",
+            "border-color": "var(--e-global-color-text)",
+            "border-radius": "5px 5px 5px 5px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": ":hover",
+          "css": {
+            "border-style": "solid",
+            "border-width": "1px 1px 1px 1px",
+            "border-radius": "5px 5px 5px 5px",
+            "box-shadow": "0px 0px 10px 0px rgba(0,0,0,0.5)"
+          }
+        }
+      ]
+    }
+  ]
+}

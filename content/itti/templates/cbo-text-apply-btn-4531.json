@@ -1,0 +1,122 @@
+{
+  "wpId": 4531,
+  "title": "CBO - text + apply btn",
+  "slug": "cbo-text-apply-btn-4531",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "761e6685",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "3481be37",
+          "type": "heading",
+          "props": {
+            "title": "Who should attend?"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "text-align": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-title",
+              "css": {
+                "color": "var(--e-global-color-secondary)",
+                "font-family": "\"Poppins\", sans-serif",
+                "font-weight": "300",
+                "text-transform": "capitalize",
+                "font-size": "36px",
+                "line-height": "1.2em"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": " .w-title",
+              "css": {
+                "font-size": "25px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "87f9a3e",
+          "type": "text-editor",
+          "props": {
+            "editor": {
+              "$dyn": "field",
+              "field": "who_needs_this_course"
+            }
+          }
+        },
+        {
+          "id": "79136748",
+          "type": "button",
+          "props": {
+            "text": "Apply Now"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "width": "100%",
+                "align-self": "center",
+                "text-align": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-btn",
+              "css": {
+                "color": "var(--e-global-color-primary)",
+                "font-family": "\"Poppins\", sans-serif",
+                "font-weight": "300",
+                "text-transform": "capitalize",
+                "text-decoration": "none",
+                "font-size": "24px",
+                "line-height": "1.2em"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-btn svg",
+              "css": {
+                "fill": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": " .w-btn",
+              "css": {
+                "font-size": "25px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "50px 50px 50px 50px",
+            "--padding": "25px 25px 25px 25px",
+            "--width": "80%",
+            "background-color": "var(--e-global-color-text)",
+            "border-radius": "5px 5px 5px 5px"
+          }
+        }
+      ]
+    }
+  ]
+}

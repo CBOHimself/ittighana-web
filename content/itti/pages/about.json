@@ -1,0 +1,3237 @@
+{
+  "wpId": 3816,
+  "title": "About",
+  "slug": "about",
+  "path": "/about",
+  "template": "default",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {},
+  "layout": [
+    {
+      "id": "562f3a3d",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "3a200d04",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "523c98cb",
+              "type": "heading",
+              "props": {
+                "title": "Learn About ITTI Ghana",
+                "header_size": "h3"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "556fe089",
+              "type": "heading",
+              "props": {
+                "title": "Building the Future of Aviation, Tourism & Hospitality",
+                "header_size": "h1"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Montserrat\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "40px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "237162bd",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "eba6691",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p data-start=\"1081\" data-end=\"1317\">For almost two decades, ITTI Ghana has trained thousands of professionals through internationally aligned programmes in aviation, tourism, hospitality, and customer service. We prepare students to excel—locally and globally.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "var(--e-global-typography-text-font-family)",
+                    "font-size": "var(--e-global-typography-text-font-size)",
+                    "font-weight": "var(--e-global-typography-text-font-weight)",
+                    "text-transform": "var(--e-global-typography-text-text-transform)",
+                    "font-style": "var(--e-global-typography-text-font-style)",
+                    "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                    "line-height": "var(--e-global-typography-text-line-height)",
+                    "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 12%",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 10% 5% 10%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%",
+                "--justify-content": "flex-start"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px",
+            "--min-height": "100vh"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 4% 0% 4%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "600px",
+            "background-color": "#E6E6E6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c4f45a8",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "56a511de",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "6923195d",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "2d641ca4",
+                  "type": "heading",
+                  "props": {
+                    "title": "Know the Institute",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "#E6E6E6",
+                        "font-family": "\"Montserrat\", sans-serif",
+                        "font-weight": "400",
+                        "text-transform": "capitalize",
+                        "font-size": "15px",
+                        "line-height": "1em"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "db6985f",
+                  "type": "heading",
+                  "props": {
+                    "title": "Over 18 Years of Excellence in Aviation, Tourism & Hospitality Training"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "#E6E6E6",
+                        "font-family": "var(--e-global-typography-primary-font-family)",
+                        "font-size": "var(--e-global-typography-primary-font-size)",
+                        "font-weight": "var(--e-global-typography-primary-font-weight)",
+                        "text-transform": "var(--e-global-typography-primary-text-transform)",
+                        "font-style": "var(--e-global-typography-primary-font-style)",
+                        "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                        "line-height": "var(--e-global-typography-primary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "margin": "30% 0% 0% 0%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--flex-direction": "column",
+                    "--align-items": "stretch",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px",
+                    "--width": "450px",
+                    "--content-width": "450px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "6b8b3500",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "9338c14",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "653d048d",
+                      "type": "call-to-action",
+                      "props": {
+                        "bg_image": {
+                          "id": 3817,
+                          "url": "placeholder:38 Years"
+                        },
+                        "bg_image_size": "full",
+                        "title": "“Education is the runway to opportunity. At ITTI, we prepare you to take off.”",
+                        "description": "Executive Director, ITTI Ghana\n"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "box-shadow": "0px 15px 35px 0px rgba(0, 0, 0, 0.1)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-cta",
+                          "css": {
+                            "min-height": "250px"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": " .w-cta",
+                          "css": {
+                            "min-height": "220px"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": " .w-cta",
+                          "css": {
+                            "min-height": "220px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-cta-content",
+                          "css": {
+                            "padding": "0px 100px 0px 100px",
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": " .w-cta-content",
+                          "css": {
+                            "padding": "0px 55px 0px 55px"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": " .w-cta-content",
+                          "css": {
+                            "padding": "0px 20px 0px 20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-cta-title",
+                          "css": {
+                            "color": "var(--e-global-color-primary)",
+                            "font-family": "var(--e-global-typography-dc8af67-font-family)",
+                            "font-size": "var(--e-global-typography-dc8af67-font-size)",
+                            "font-weight": "var(--e-global-typography-dc8af67-font-weight)",
+                            "text-transform": "var(--e-global-typography-dc8af67-text-transform)",
+                            "font-style": "var(--e-global-typography-dc8af67-font-style)",
+                            "text-decoration": "var(--e-global-typography-dc8af67-text-decoration)",
+                            "line-height": "var(--e-global-typography-dc8af67-line-height)",
+                            "letter-spacing": "var(--e-global-typography-dc8af67-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-dc8af67-word-spacing)",
+                            "margin-bottom": "25px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-cta-desc",
+                          "css": {
+                            "color": "var(--e-global-color-text)",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-cta-image",
+                          "css": {
+                            "min-height": "400px"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": " .w-cta-image",
+                          "css": {
+                            "min-height": "260px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "129c63e4",
+                      "type": "heading",
+                      "props": {
+                        "title": "What We Stand For",
+                        "header_size": "h3"
+                      },
+                      "styles": [
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-4863f62-font-family)",
+                            "font-size": "var(--e-global-typography-4863f62-font-size)",
+                            "font-weight": "var(--e-global-typography-4863f62-font-weight)",
+                            "text-transform": "var(--e-global-typography-4863f62-text-transform)",
+                            "font-style": "var(--e-global-typography-4863f62-font-style)",
+                            "text-decoration": "var(--e-global-typography-4863f62-text-decoration)",
+                            "line-height": "var(--e-global-typography-4863f62-line-height)",
+                            "letter-spacing": "var(--e-global-typography-4863f62-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-4863f62-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "60556a40",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p data-start=\"568\" data-end=\"972\">For over 18 years, ITTI Ghana has delivered industry-aligned training designed to prepare students for real careers in <strong data-start=\"687\" data-end=\"743\">aviation, tourism, hospitality, and customer service</strong>. Our programmes focus on practical skill development, global service standards, and strong professional values—ensuring every learner graduates confident, competent, and ready to thrive in today’s competitive service industries.</p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "0px 0px 025px 0px",
+                            "text-align": "left",
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "margin": "50px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "order": "99999",
+                        "--width": "100%"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5ce60f6a",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "56abbfc2",
+                      "type": "heading",
+                      "props": {
+                        "title": "Our Mission ",
+                        "header_size": "h3"
+                      },
+                      "styles": [
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-4863f62-font-family)",
+                            "font-size": "var(--e-global-typography-4863f62-font-size)",
+                            "font-weight": "var(--e-global-typography-4863f62-font-weight)",
+                            "text-transform": "var(--e-global-typography-4863f62-text-transform)",
+                            "font-style": "var(--e-global-typography-4863f62-font-style)",
+                            "text-decoration": "var(--e-global-typography-4863f62-text-decoration)",
+                            "line-height": "var(--e-global-typography-4863f62-line-height)",
+                            "letter-spacing": "var(--e-global-typography-4863f62-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-4863f62-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "3988f95e",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><span class=\"TextRun SCXW120431864 BCX0\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW120431864 BCX0\">ITTI aims to promote the highest standards in the delivery of customer service</span><span class=\"NormalTextRun SCXW120431864 BCX0\">.</span></span><span class=\"EOP SCXW120431864 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559740&quot;:360}\"> </span></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "0px 0px 025px 0px",
+                            "text-align": "left",
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "6b46ed4e",
+                      "type": "heading",
+                      "props": {
+                        "title": "Our Vision",
+                        "header_size": "h3"
+                      },
+                      "styles": [
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-4863f62-font-family)",
+                            "font-size": "var(--e-global-typography-4863f62-font-size)",
+                            "font-weight": "var(--e-global-typography-4863f62-font-weight)",
+                            "text-transform": "var(--e-global-typography-4863f62-text-transform)",
+                            "font-style": "var(--e-global-typography-4863f62-font-style)",
+                            "text-decoration": "var(--e-global-typography-4863f62-text-decoration)",
+                            "line-height": "var(--e-global-typography-4863f62-line-height)",
+                            "letter-spacing": "var(--e-global-typography-4863f62-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-4863f62-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "310074d5",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><span data-contrast=\"auto\">To be a world class training center projecting the values of professionalism in the aviation, tourism and hospitality industry.</span><span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:360}\"> </span></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "0px 0px 025px 0px",
+                            "text-align": "left",
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "c06f08d",
+                      "type": "heading",
+                      "props": {
+                        "title": "Our Values",
+                        "header_size": "h3"
+                      },
+                      "styles": [
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-4863f62-font-family)",
+                            "font-size": "var(--e-global-typography-4863f62-font-size)",
+                            "font-weight": "var(--e-global-typography-4863f62-font-weight)",
+                            "text-transform": "var(--e-global-typography-4863f62-text-transform)",
+                            "font-style": "var(--e-global-typography-4863f62-font-style)",
+                            "text-decoration": "var(--e-global-typography-4863f62-text-decoration)",
+                            "line-height": "var(--e-global-typography-4863f62-line-height)",
+                            "letter-spacing": "var(--e-global-typography-4863f62-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-4863f62-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1018e49",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b><span data-contrast=\"auto\">Passion:</span></b><span data-contrast=\"auto\"> The institute has passion as one of its core values and inspires students to love what they do. </span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559740&quot;:360}\"> </span></p><p> </p><p><b><span data-contrast=\"auto\">Performance:</span></b><span data-contrast=\"auto\"> The ability to display Excellence in performance.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559740&quot;:360}\"> </span></p><p> </p><p><b><span data-contrast=\"auto\">Professionalism:</span></b><span data-contrast=\"auto\"> bound by our codes of ethics, we exhibit and instil professionalism in our students and staff members.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559740&quot;:360}\"> </span></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left",
+                            "color": "#E6E6E6",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 0% 0% 10%",
+                        "--justify-content": "center",
+                        "--row-gap": "10px",
+                        "--column-gap": "10px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 5% 10% 5%",
+                        "--width": "100%"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--flex-direction": "row",
+                    "--align-items": "stretch",
+                    "--row-gap": "0px",
+                    "--column-gap": "0px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--flex-wrap": "wrap"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "10% 0% 0% 0%",
+                "--flex-direction": "column",
+                "--row-gap": "80px",
+                "--column-gap": "0px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--row-gap": "50px",
+                "--column-gap": "0px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--padding": "50px 50px 100px 50px",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "background-color": "#002147"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0c06bbb",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "ca0b1f3",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "e5ee0e4",
+              "type": "heading",
+              "props": {
+                "title": "National Recognition & Industry Accolades",
+                "header_size": "h3"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "3345983",
+              "type": "heading",
+              "props": {
+                "title": "Aviation Institution of the Year 2016 &amp; 2017",
+                "header_size": "h1"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Montserrat\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "40px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "7275791",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p data-path-to-node=\"5\">ITTI made history at the <b data-path-to-node=\"5\" data-index-in-node=\"25\">maiden National Aviation Awards in 2016</b>, held under the theme: <i data-path-to-node=\"5\" data-index-in-node=\"88\">“Recognising the cream of Ghana’s Aviation Industry.”</i> Endorsed by the Ministry of Transport, this prestigious event brought together local and international industry leaders to honour those setting global benchmarks.</p><p data-path-to-node=\"6\">We were pleased to be named the <b data-path-to-node=\"6\" data-index-in-node=\"32\">Aviation Institution of the Year</b>, a title we successfully defended in <b data-path-to-node=\"6\" data-index-in-node=\"102\">2017</b>, solidifying our position as West Africa’s premier training hub.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "var(--e-global-typography-text-font-family)",
+                    "font-size": "var(--e-global-typography-text-font-size)",
+                    "font-weight": "var(--e-global-typography-text-font-weight)",
+                    "text-transform": "var(--e-global-typography-text-text-transform)",
+                    "font-style": "var(--e-global-typography-text-font-style)",
+                    "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                    "line-height": "var(--e-global-typography-text-line-height)",
+                    "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "bccf339",
+              "type": "blockquote",
+              "props": {
+                "blockquote_content": "\"This award is a major endorsement of what we have been doing—training over 6,000 professionals across every department of airport operations. We ensure our graduates have the professional wings to soar in any organisation.\"\n",
+                "author_name": "— Kate Adoma Addo, Executive Director",
+                "tweet_button_view": "text"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-bq-author",
+                  "css": {
+                    "color": "var(--e-global-color-primary)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-bq",
+                  "css": {
+                    "border-color": "var(--e-global-color-primary)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aa6f213",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p><a href=\"https://www.ghanaweb.com/GhanaHomePage/business/33-companies-and-individuals-honoured-at-Aviation-Awards-459477\">GhanaWeb. <em data-start=\"77\" data-end=\"136\">33 companies and individuals honoured at Aviation Awards.</em> GhanaWeb. August 5, 2016.</a></p><p><a href=\"https://www.graphic.com.gh/news/general-news/33-companies-individuals-honoured-at-aviation-awards.html\">Daily Graphic / Graphic Online. 33 companies, individuals honoured at Aviation Awards. Graphic Online, August 5, 2016.</a></p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "\"Montserrat\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "15px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center",
+                    "font-size": "14px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " a",
+                  "css": {
+                    "color": "#3277AE"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "8f5f10b",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "a4784c5",
+              "type": "image",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2026/01/award.jpg",
+                  "id": 4775,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 70,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " img",
+                  "css": {
+                    "width": "70%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "23013c4",
+              "type": "image",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2026/01/newspaper-1.jpeg",
+                  "id": 4782,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 75,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " img",
+                  "css": {
+                    "width": "75%"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "10% 0% 010% 12%",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 10% 5% 10%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%",
+                "--justify-content": "flex-start"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px",
+            "--min-height": "100vh"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 4% 0% 4%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "600px",
+            "background-color": "#E6E6E6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "983398d",
+      "type": "container",
+      "props": {
+        "boxed": true,
+        "overlay": true
+      },
+      "children": [
+        {
+          "id": "135526a",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "508312c",
+              "type": "image-box",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2026/01/2016-naa.png",
+                  "id": 4935,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "title_text": "2016 aviation Institute of the Year",
+                "description_text": "National Aviation Awards 2016",
+                "image_size": {
+                  "unit": "%",
+                  "size": 70,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-ib-img img",
+                  "css": {
+                    "width": "70%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-ib-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "30px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-ib-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-ib-desc",
+                  "css": {
+                    "color": "var(--e-global-color-text)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--flex-direction": "column",
+                "--width": "50%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "98abc00",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "2909782",
+              "type": "image-box",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2026/01/2017-naa.png",
+                  "id": 4934,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "title_text": "2017 aviation Institute of the Year",
+                "description_text": "National Aviation Awards 2017",
+                "image_size": {
+                  "unit": "%",
+                  "size": 60,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-ib-img img",
+                  "css": {
+                    "width": "60%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-ib-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "30px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-ib-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--flex-direction": "column",
+                "--width": "50%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "0px 0px 0px 0px",
+            "--padding": "50px 0px 50px 0px",
+            "--flex-direction": "row",
+            "--row-gap": "0px",
+            "--column-gap": "0px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "::before",
+          "css": {
+            "background-color": "var(--e-global-color-primary)",
+            "opacity": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "70179307",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "61a896dd",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "55a2777f",
+              "type": "heading",
+              "props": {
+                "title": "Our Impact & Achievements"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "50px 50px 50px 50px",
+                    "align-self": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-accent)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "5f4e8784",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "792f423d",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "579b9ae4",
+                      "type": "icon-box",
+                      "props": {
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "title_text": "Established industry collaborations including the Ghana Tourism Authority, with landmark workshops such as:",
+                        "description_text": "<b>Hospitality Workshop</b> – April 2013\n<br>\n<b>Customer Service Experience Unveiled</b> – July 2014, held at the Golden Tulip Hotel, Kumasi"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-size": "50px",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon svg",
+                          "css": {
+                            "fill": "var(--e-global-color-284b516)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-title",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-42300ad-font-family)",
+                            "font-size": "var(--e-global-typography-42300ad-font-size)",
+                            "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                            "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                            "font-style": "var(--e-global-typography-42300ad-font-style)",
+                            "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                            "line-height": "var(--e-global-typography-42300ad-line-height)",
+                            "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-42300ad-word-spacing)",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-desc",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "58d00c76",
+                      "type": "icon-box",
+                      "props": {
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "title_text": "A Creative and Innovative Agency",
+                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incid idunt ut labore ellt dolore magna the alora the tolda on  tolda voubal fouter."
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-size": "50px",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon svg",
+                          "css": {
+                            "fill": "var(--e-global-color-284b516)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-title",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-42300ad-font-family)",
+                            "font-size": "var(--e-global-typography-42300ad-font-size)",
+                            "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                            "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                            "font-style": "var(--e-global-typography-42300ad-font-style)",
+                            "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                            "line-height": "var(--e-global-typography-42300ad-line-height)",
+                            "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-42300ad-word-spacing)",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-desc",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 20% 0% 0%",
+                        "--row-gap": "100px",
+                        "--column-gap": "100px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 10% 0% 0%"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "--padding": "5% 10% 5% 10%",
+                        "--row-gap": "50px",
+                        "--column-gap": "50px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1a0314c3",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "be766fc",
+                      "type": "icon-box",
+                      "props": {
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "title_text": "Proven track record when connecting students to roles",
+                        "description_text": "Approximately <b>80%</b> of Aviation students secure roles with airport handling companies after completing their training\n<br>\nHospitality and Tourism graduates placed in major hotels and customer-focused organisations"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-size": "50px",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon svg",
+                          "css": {
+                            "fill": "var(--e-global-color-284b516)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-title",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-42300ad-font-family)",
+                            "font-size": "var(--e-global-typography-42300ad-font-size)",
+                            "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                            "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                            "font-style": "var(--e-global-typography-42300ad-font-style)",
+                            "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                            "line-height": "var(--e-global-typography-42300ad-line-height)",
+                            "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-42300ad-word-spacing)",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-desc",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "2ff3c830",
+                      "type": "icon-box",
+                      "props": {
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "title_text": "Trust Us - You're in Good Hands",
+                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incid idunt ut labore ellt dolore magna the alora the tolda on  tolda voubal fouter."
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-size": "50px",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-icon svg",
+                          "css": {
+                            "fill": "var(--e-global-color-284b516)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-title",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-42300ad-font-family)",
+                            "font-size": "var(--e-global-typography-42300ad-font-size)",
+                            "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                            "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                            "font-style": "var(--e-global-typography-42300ad-font-style)",
+                            "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                            "line-height": "var(--e-global-typography-42300ad-line-height)",
+                            "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-42300ad-word-spacing)",
+                            "margin-bottom": "20px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-ib-desc",
+                          "css": {
+                            "color": "var(--e-global-color-284b516)",
+                            "font-family": "var(--e-global-typography-text-font-family)",
+                            "font-size": "var(--e-global-typography-text-font-size)",
+                            "font-weight": "var(--e-global-typography-text-font-weight)",
+                            "text-transform": "var(--e-global-typography-text-text-transform)",
+                            "font-style": "var(--e-global-typography-text-font-style)",
+                            "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                            "line-height": "var(--e-global-typography-text-line-height)",
+                            "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "margin": "50px 0px 0px 0px",
+                        "--padding": "0% 10% 5% 10%",
+                        "--row-gap": "50px",
+                        "--column-gap": "50px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 20% 0% 0%",
+                        "--row-gap": "100px",
+                        "--column-gap": "100px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 10% 0% 0%"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "--padding": "0px 0px 400px 0px",
+                    "--flex-direction": "row",
+                    "--align-items": "stretch",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "margin": "40% 0% 0% 0%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "margin": "650px 0px 0px 0px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "border-style": "solid",
+                "border-width": "0px 1px 0px 1px",
+                "border-color": "var(--e-global-color-7d0b5e3)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "0px 0px 20px 0px",
+            "--padding": "0px 0px 0px 0px",
+            "overflow": "hidden",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "margin": "-75% 0% 0% 0%",
+            "--padding": "50% 5% 0% 5%"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "-220% 0% 0% 0%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8936a3c",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "2431657",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "c0013ad",
+              "type": "heading",
+              "props": {
+                "title": "Celebrating a Decade of Excellence",
+                "header_size": "h3"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "4becbd5",
+              "type": "heading",
+              "props": {
+                "title": "ITTI 10th Anniversary",
+                "header_size": "h1"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Montserrat\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "40px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "41c4779",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p data-start=\"212\" data-end=\"635\">In 2017, the <strong data-start=\"225\" data-end=\"276\">International Travel &amp; Tourism Institute (ITTI)</strong> marked a significant milestone — <strong data-start=\"310\" data-end=\"401\">10 years of excellence in aviation, hospitality, tourism, and customer service training</strong>. Since its launch in July 2007, ITTI has grown into a recognised centre for professional development, equipping individuals with the skills and confidence to succeed in global service industries.</p><p data-pm-slice=\"0 0 []\">The anniversary celebration brought together alumni, current students, industry partners, consultants, and staff for an open day filled with networking, career guidance, and shared reflections on our journey. Over the past decade, ITTI’s award-winning programmes have produced industry professionals flourishing in airline, hotel, and customer-service roles both in Ghana and internationally.</p><p data-start=\"637\" data-end=\"1100\"> </p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "var(--e-global-typography-text-font-family)",
+                    "font-size": "var(--e-global-typography-text-font-size)",
+                    "font-weight": "var(--e-global-typography-text-font-weight)",
+                    "text-transform": "var(--e-global-typography-text-text-transform)",
+                    "font-style": "var(--e-global-typography-text-font-style)",
+                    "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                    "line-height": "var(--e-global-typography-text-line-height)",
+                    "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "fd2b57e",
+              "type": "blockquote",
+              "props": {
+                "blockquote_content": "“Students are trained to understand that their level of success is determined by their level of perseverance and discipline in their course modules. Our students are trained to achieve excellence in service delivery through practical case studies from around the world.”",
+                "author_name": "— Kate Adoma Addo, Executive Director",
+                "tweet_button_view": "text"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-bq-author",
+                  "css": {
+                    "color": "var(--e-global-color-primary)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-bq",
+                  "css": {
+                    "border-color": "var(--e-global-color-primary)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2678096",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p data-start=\"212\" data-end=\"635\">She also shared a powerful insight into the transformation she has seen in ITTI graduates:</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "var(--e-global-typography-text-font-family)",
+                    "font-size": "var(--e-global-typography-text-font-size)",
+                    "font-weight": "var(--e-global-typography-text-font-weight)",
+                    "text-transform": "var(--e-global-typography-text-text-transform)",
+                    "font-style": "var(--e-global-typography-text-font-style)",
+                    "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                    "line-height": "var(--e-global-typography-text-line-height)",
+                    "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "5823684",
+              "type": "blockquote",
+              "props": {
+                "blockquote_content": "“I remember when every session starts; most students are either shy or reserved. But at the end of the session, they come out best, showing eloquence and confidence. This is one achievement we are proud of.”",
+                "author_name": "— Kate Adoma Addo, Executive Director",
+                "tweet_button_view": "text"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " .w-bq-author",
+                  "css": {
+                    "color": "var(--e-global-color-primary)"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-bq",
+                  "css": {
+                    "border-color": "var(--e-global-color-primary)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "656e75b",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p><a href=\"https://www.ghanaweb.com/GhanaHomePage/business/33-companies-and-individuals-honoured-at-Aviation-Awards-459477\">JoyOnline. <em data-start=\"77\" data-end=\"136\">International Travel and Tourism Institute marks 10th anniversary</em>. 25 July, 2017.</a></p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "color": "var(--e-global-color-text)",
+                    "font-family": "\"Montserrat\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "15px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center",
+                    "font-size": "14px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " a",
+                  "css": {
+                    "color": "#3277AE"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "--justify-content": "flex-start",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fd1caac",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "ea1b96e",
+              "type": "image",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2026/01/10-year-1.jpg",
+                  "id": 4904,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " img",
+                  "css": {
+                    "width": "50%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "8f73b13",
+              "type": "image",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2026/01/students-10-anniversary-1.jpg",
+                  "id": 4902,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 70,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " img",
+                  "css": {
+                    "width": "70%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "64db8d3",
+              "type": "image",
+              "props": {
+                "image": {
+                  "url": "/wp-content/uploads/2026/01/itti-event-2017-1.jpg",
+                  "id": 4920,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 70,
+                  "sizes": []
+                }
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": " img",
+                  "css": {
+                    "width": "70%"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "10% 0% 010% 12%",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 10% 5% 10%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%",
+                "--justify-content": "flex-start"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px",
+            "--min-height": "100vh"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--padding": "50px 50px 50px 50px",
+            "--flex-direction": "row-reverse",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "600px",
+            "background-color": "#E6E6E6"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 4% 0% 4%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0e6a822",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "fb4c37a",
+          "type": "heading",
+          "props": {
+            "title": "ITTI Over the years"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": " .w-title",
+              "css": {
+                "color": "var(--e-global-color-secondary)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "4d265e3",
+          "type": "nested-accordion",
+          "children": [
+            {
+              "id": "d060472",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "68e95ce",
+                  "type": "image-carousel",
+                  "props": {
+                    "carousel_name": "Image Carousel",
+                    "carousel": [
+                      {
+                        "id": 5005,
+                        "url": "/wp-content/uploads/2026/01/545745618_31284009031245827_9093638858090576065_n.jpg"
+                      },
+                      {
+                        "id": 5006,
+                        "url": "/wp-content/uploads/2026/01/545888555_31284011731245557_2262473739883432635_n.jpg"
+                      },
+                      {
+                        "id": 5007,
+                        "url": "/wp-content/uploads/2026/01/546378557_31284009261245804_7079124144074960068_n.jpg"
+                      },
+                      {
+                        "id": 5008,
+                        "url": "/wp-content/uploads/2026/01/547189550_31284009064579157_149069226661779814_n.jpg"
+                      }
+                    ],
+                    "thumbnail_size": "medium",
+                    "image_stretch": "yes"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "padding": "20px 20px 20px 20px"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "b72146d",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "b04f6c8",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "41f8372",
+                      "type": "image-carousel",
+                      "props": {
+                        "carousel_name": "Image Carousel",
+                        "carousel": [
+                          {
+                            "id": 5009,
+                            "url": "/wp-content/uploads/2026/01/546388217_31282454924734571_3142186719560351228_n.jpg"
+                          },
+                          {
+                            "id": 5010,
+                            "url": "/wp-content/uploads/2026/01/546411413_31282457321400998_3384271848751031705_n.jpg"
+                          },
+                          {
+                            "id": 5011,
+                            "url": "/wp-content/uploads/2026/01/546509149_31279495028363894_1953721003012901671_n.jpg"
+                          },
+                          {
+                            "id": 5012,
+                            "url": "/wp-content/uploads/2026/01/546541684_31282262378087159_5574903089029586203_n.jpg"
+                          },
+                          {
+                            "id": 5013,
+                            "url": "/wp-content/uploads/2026/01/546614802_31284525071194223_1324955934477555120_n.jpg"
+                          },
+                          {
+                            "id": 5014,
+                            "url": "/wp-content/uploads/2026/01/546616955_31284522281194502_3957183069660348569_n.jpg"
+                          },
+                          {
+                            "id": 5015,
+                            "url": "/wp-content/uploads/2026/01/546622364_31282821608031236_6712759161604461048_n.jpg"
+                          },
+                          {
+                            "id": 5016,
+                            "url": "/wp-content/uploads/2026/01/546623810_31284522424527821_3440819633679005910_n.jpg"
+                          },
+                          {
+                            "id": 5017,
+                            "url": "/wp-content/uploads/2026/01/546701645_31284524817860915_25159041268134237_n.jpg"
+                          },
+                          {
+                            "id": 5018,
+                            "url": "/wp-content/uploads/2026/01/546868006_31278018855178178_3946570312478069625_n.jpg"
+                          },
+                          {
+                            "id": 5019,
+                            "url": "/wp-content/uploads/2026/01/546986510_31279311615048902_1855098767302867871_n.jpg"
+                          },
+                          {
+                            "id": 5020,
+                            "url": "/wp-content/uploads/2026/01/547009005_31284232977890099_2970816226767129244_n.jpg"
+                          },
+                          {
+                            "id": 5021,
+                            "url": "/wp-content/uploads/2026/01/547105132_31277482148565182_6678975436218480866_n.jpg"
+                          },
+                          {
+                            "id": 5022,
+                            "url": "/wp-content/uploads/2026/01/547182751_31279311505048913_6574585117346745220_n.jpg"
+                          },
+                          {
+                            "id": 5023,
+                            "url": "/wp-content/uploads/2026/01/547273440_31279311421715588_7706615162857733691_n.jpg"
+                          },
+                          {
+                            "id": 5024,
+                            "url": "/wp-content/uploads/2026/01/545065102_31278019241844806_6007456316507703507_n.jpg"
+                          },
+                          {
+                            "id": 5025,
+                            "url": "/wp-content/uploads/2026/01/545145247_31279494851697245_7563658421077465348_n.jpg"
+                          },
+                          {
+                            "id": 5026,
+                            "url": "/wp-content/uploads/2026/01/545279983_31278019208511476_2243874419964645830_n.jpg"
+                          },
+                          {
+                            "id": 5027,
+                            "url": "/wp-content/uploads/2026/01/545367763_31279494941697236_8488732225770034010_n.jpg"
+                          },
+                          {
+                            "id": 5028,
+                            "url": "/wp-content/uploads/2026/01/545381293_31278016328511764_3477531509297172178_n.jpg"
+                          },
+                          {
+                            "id": 5029,
+                            "url": "/wp-content/uploads/2026/01/545481409_31282821868031210_1702562063010502778_n.jpg"
+                          },
+                          {
+                            "id": 5030,
+                            "url": "/wp-content/uploads/2026/01/545515212_31282262431420487_3259286268618874956_n.jpg"
+                          },
+                          {
+                            "id": 5031,
+                            "url": "/wp-content/uploads/2026/01/545521949_31279495055030558_9167695088553320432_n.jpg"
+                          },
+                          {
+                            "id": 5032,
+                            "url": "/wp-content/uploads/2026/01/545524436_31279492688364128_4204786662466496454_n.jpg"
+                          },
+                          {
+                            "id": 5033,
+                            "url": "/wp-content/uploads/2026/01/545546578_31284522334527830_2929555252897849824_n.jpg"
+                          },
+                          {
+                            "id": 5034,
+                            "url": "/wp-content/uploads/2026/01/545577684_31278019048511492_7082604751463446347_n.jpg"
+                          },
+                          {
+                            "id": 5035,
+                            "url": "/wp-content/uploads/2026/01/545580210_31277482101898520_6583199887362934690_n.jpg"
+                          },
+                          {
+                            "id": 5036,
+                            "url": "/wp-content/uploads/2026/01/545592473_31278018938511503_5156162911385532844_n.jpg"
+                          },
+                          {
+                            "id": 5037,
+                            "url": "/wp-content/uploads/2026/01/545605994_31279494831697247_6776295332812539424_n.jpg"
+                          },
+                          {
+                            "id": 5038,
+                            "url": "/wp-content/uploads/2026/01/545614851_31279492901697440_4843340765345997032_n.jpg"
+                          },
+                          {
+                            "id": 5039,
+                            "url": "/wp-content/uploads/2026/01/545628239_31279491505030913_5339837198778469146_n.jpg"
+                          },
+                          {
+                            "id": 5040,
+                            "url": "/wp-content/uploads/2026/01/545660202_31282259811420749_1208523189971114238_n.jpg"
+                          },
+                          {
+                            "id": 5041,
+                            "url": "/wp-content/uploads/2026/01/545661594_31279491468364250_4316483941122926406_n.jpg"
+                          },
+                          {
+                            "id": 5042,
+                            "url": "/wp-content/uploads/2026/01/545673143_31279492668364130_8479028807972068409_n.jpg"
+                          },
+                          {
+                            "id": 5043,
+                            "url": "/wp-content/uploads/2026/01/545679276_31279495031697227_8777575901298772642_n.jpg"
+                          },
+                          {
+                            "id": 5044,
+                            "url": "/wp-content/uploads/2026/01/545698846_31278019238511473_5817037857620773914_n.jpg"
+                          },
+                          {
+                            "id": 5045,
+                            "url": "/wp-content/uploads/2026/01/545780462_31278016095178454_7481333089803649353_n.jpg"
+                          },
+                          {
+                            "id": 5046,
+                            "url": "/wp-content/uploads/2026/01/545817345_31284522074527856_4451354575266482364_n.jpg"
+                          },
+                          {
+                            "id": 5047,
+                            "url": "/wp-content/uploads/2026/01/545818661_31279494935030570_3099108712035242419_n.jpg"
+                          },
+                          {
+                            "id": 5048,
+                            "url": "/wp-content/uploads/2026/01/545833089_31284522324527831_8814160956535879082_n.jpg"
+                          },
+                          {
+                            "id": 5049,
+                            "url": "/wp-content/uploads/2026/01/545852513_31284522291194501_4033993124489988366_n.jpg"
+                          },
+                          {
+                            "id": 5050,
+                            "url": "/wp-content/uploads/2026/01/545923409_31284522124527851_3630290679783040495_n.jpg"
+                          },
+                          {
+                            "id": 5051,
+                            "url": "/wp-content/uploads/2026/01/545949372_31284279714552092_138845211744466533_n.jpg"
+                          },
+                          {
+                            "id": 5052,
+                            "url": "/wp-content/uploads/2026/01/546081872_31282457381400992_2650439238756955770_n.jpg"
+                          },
+                          {
+                            "id": 5053,
+                            "url": "/wp-content/uploads/2026/01/546105828_31279311465048917_2496373921159707129_n.jpg"
+                          },
+                          {
+                            "id": 5054,
+                            "url": "/wp-content/uploads/2026/01/546224266_31279495048363892_3010340972498423543_n.jpg"
+                          },
+                          {
+                            "id": 5055,
+                            "url": "/wp-content/uploads/2026/01/546242342_31279491325030931_4389398402560545189_n.jpg"
+                          },
+                          {
+                            "id": 5056,
+                            "url": "/wp-content/uploads/2026/01/546271374_31279495085030555_858493321688657540_n.jpg"
+                          }
+                        ],
+                        "thumbnail_size": "medium",
+                        "slides_to_show": "4",
+                        "image_stretch": "yes"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": " .w-carousel-track",
+                          "css": {
+                            "gap": "0px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--flex-direction": "column"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7b9c24d",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "b9572e5",
+                  "type": "image-carousel",
+                  "props": {
+                    "carousel_name": "Image Carousel",
+                    "carousel": [
+                      {
+                        "id": 5057,
+                        "url": "/wp-content/uploads/2026/01/546785972_31284304401216290_4738524351823532629_n.jpg"
+                      },
+                      {
+                        "id": 5058,
+                        "url": "/wp-content/uploads/2026/01/546851158_31284304267882970_1088105672970077079_n.jpg"
+                      },
+                      {
+                        "id": 5059,
+                        "url": "/wp-content/uploads/2026/01/546879478_31284309847882412_8763787340869902966_n.jpg"
+                      },
+                      {
+                        "id": 5060,
+                        "url": "/wp-content/uploads/2026/01/547009033_31284309794549084_198482514345391928_n.jpg"
+                      },
+                      {
+                        "id": 5061,
+                        "url": "/wp-content/uploads/2026/01/547414598_31284301154549948_6615826566765434538_n.jpg"
+                      },
+                      {
+                        "id": 5062,
+                        "url": "/wp-content/uploads/2026/01/547512625_31284283097885087_4589422526761223186_n.jpg"
+                      },
+                      {
+                        "id": 5063,
+                        "url": "/wp-content/uploads/2026/01/545584685_31284304181216312_458793840451689513_n.jpg"
+                      },
+                      {
+                        "id": 5064,
+                        "url": "/wp-content/uploads/2026/01/545597289_31284304421216288_6790699117529322185_n.jpg"
+                      },
+                      {
+                        "id": 5065,
+                        "url": "/wp-content/uploads/2026/01/545818672_31284304497882947_7817065122414869539_n.jpg"
+                      },
+                      {
+                        "id": 5066,
+                        "url": "/wp-content/uploads/2026/01/545953918_31284309854549078_6459037791267736887_n.jpg"
+                      },
+                      {
+                        "id": 5067,
+                        "url": "/wp-content/uploads/2026/01/546098546_31284309791215751_2312073713493129692_n.jpg"
+                      },
+                      {
+                        "id": 5068,
+                        "url": "/wp-content/uploads/2026/01/546165902_31284309857882411_8222092488956666697_n.jpg"
+                      },
+                      {
+                        "id": 5069,
+                        "url": "/wp-content/uploads/2026/01/546232107_31284301097883287_423619817237357477_n.jpg"
+                      },
+                      {
+                        "id": 5070,
+                        "url": "/wp-content/uploads/2026/01/546368447_31284304487882948_9111836098333044117_n.jpg"
+                      },
+                      {
+                        "id": 5071,
+                        "url": "/wp-content/uploads/2026/01/546590725_31284304231216307_1167066670567878645_n.jpg"
+                      },
+                      {
+                        "id": 5072,
+                        "url": "/wp-content/uploads/2026/01/546592427_31284310094549054_4137521081156655817_n.jpg"
+                      }
+                    ],
+                    "thumbnail_size": "medium",
+                    "image_stretch": "yes"
+                  }
+                }
+              ]
+            }
+          ],
+          "props": {
+            "items": [
+              {
+                "item_title": "International Aviation and Maritime Association Conference 2013",
+                "_id": "d33d728"
+              },
+              {
+                "item_title": "Kotoka International Airport Excursions 2012-2013",
+                "_id": "43e17f6"
+              },
+              {
+                "_id": "67dd246",
+                "item_title": "ITTI Hospitality Workshop April 2013"
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": " .w-acc-title",
+              "css": {
+                "color": "var(--e-global-color-secondary)",
+                "font-family": "var(--e-global-typography-secondary-font-family)",
+                "font-size": "var(--e-global-typography-secondary-font-size)",
+                "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                "font-style": "var(--e-global-typography-secondary-font-style)",
+                "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                "line-height": "var(--e-global-typography-secondary-line-height)",
+                "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-acc-item[open] .w-acc-title",
+              "css": {
+                "color": "var(--e-global-color-text)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--padding": "20px 0px 20px 0px",
+            "--flex-direction": "column",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3b8fbc14",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "6b47f96",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "1ef2b451",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "1d400365",
+                  "type": "heading",
+                  "props": {
+                    "title": "Location",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-secondary-font-family)",
+                        "font-size": "var(--e-global-typography-secondary-font-size)",
+                        "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                        "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                        "font-style": "var(--e-global-typography-secondary-font-style)",
+                        "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                        "line-height": "var(--e-global-typography-secondary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "4fc1186b",
+                  "type": "heading",
+                  "props": {
+                    "title": "Visit Our Campus"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "var(--e-global-typography-primary-font-family)",
+                        "font-size": "var(--e-global-typography-primary-font-size)",
+                        "font-weight": "var(--e-global-typography-primary-font-weight)",
+                        "text-transform": "var(--e-global-typography-primary-text-transform)",
+                        "font-style": "var(--e-global-typography-primary-font-style)",
+                        "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                        "line-height": "var(--e-global-typography-primary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "7494042a",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Jupiter House, Okuja Avenue<br />Abofu, Achimota<br />P.O. Box 13384, GA-163-4482</p><p><strong>Accra, Ghana</strong></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "4e9e112",
+                  "type": "google_maps",
+                  "props": {
+                    "address": "International Travel And Tourism Institute, Accra, Ghana"
+                  }
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 80px 0px",
+                    "--flex-direction": "column",
+                    "--align-items": "stretch",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px",
+                    "--width": "600px",
+                    "--content-width": "600px"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "margin": "20% 0% 0% 0%"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "10% 0% 10% 0%",
+                "--row-gap": "0px",
+                "--column-gap": "0px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "0% 0% 0% 0%",
+            "z-index": "1",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "background-color": "transparent",
+            "background-image": "linear-gradient(180deg, transparent 50%, #002147 50%)"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "75bd921a",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "4363c03a",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "8e9ca94",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "79c473b3",
+                  "type": "heading",
+                  "props": {
+                    "title": "FAQ",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "#E6E6E6",
+                        "font-family": "var(--e-global-typography-secondary-font-family)",
+                        "font-size": "var(--e-global-typography-secondary-font-size)",
+                        "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                        "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                        "font-style": "var(--e-global-typography-secondary-font-style)",
+                        "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                        "line-height": "var(--e-global-typography-secondary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "4b6ab112",
+                  "type": "heading",
+                  "props": {
+                    "title": "We Are Here To Help You With Any Questions You May Have"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "#E6E6E6",
+                        "font-family": "var(--e-global-typography-primary-font-family)",
+                        "font-size": "var(--e-global-typography-primary-font-size)",
+                        "font-weight": "var(--e-global-typography-primary-font-weight)",
+                        "text-transform": "var(--e-global-typography-primary-text-transform)",
+                        "font-style": "var(--e-global-typography-primary-font-style)",
+                        "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                        "line-height": "var(--e-global-typography-primary-line-height)",
+                        "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "margin": "20% 0% 0% 0%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--flex-direction": "column",
+                    "--align-items": "stretch",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px",
+                    "--width": "600px",
+                    "--content-width": "600px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "663e184e",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "57cb7791",
+                  "type": "toggle",
+                  "props": {
+                    "tabs": [
+                      {
+                        "tab_title": "What programmes does ITTI Ghana offer?",
+                        "tab_content": "<p>ITTI offers industry-focused training in <strong data-start=\"384\" data-end=\"462\">aviation, travel and tourism, hospitality management, and customer service</strong>. Each programme is designed to equip students with practical skills, global service standards, and job-ready knowledge needed to excel in the service industry.</p>",
+                        "_id": "f31e020"
+                      },
+                      {
+                        "tab_title": "Is ITTI Ghana accredited or affiliated with any organizations?",
+                        "tab_content": "<p data-start=\"705\" data-end=\"949\">Yes. ITTI is affiliated with reputable international bodies and partners within the aviation, tourism, and hospitality sectors. These affiliations help align our curricula with global standards and enhance the credibility of our certifications.</p>",
+                        "_id": "3d6a4db"
+                      },
+                      {
+                        "tab_title": "Who can enroll in ITTI’s programmes?",
+                        "tab_content": "<p>Our programmes are open to <strong data-start=\"1033\" data-end=\"1109\">senior high school graduates, university students, working professionals</strong>, and anyone looking to build a career in aviation, tourism, hospitality, or customer service. No prior industry experience is required.</p>",
+                        "_id": "0226d3d"
+                      }
+                    ],
+                    "selected_icon": {
+                      "value": "fas fa-angle-down",
+                      "library": "fa-solid"
+                    },
+                    "selected_active_icon": {
+                      "value": "fas fa-angle-up",
+                      "library": "fa-solid"
+                    },
+                    "icon_align": "right"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "width": "100%"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-acc-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "background-color": "var(--e-global-color-fc5ff30)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-acc-body",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "53c05e8e",
+                  "type": "toggle",
+                  "props": {
+                    "tabs": [
+                      {
+                        "tab_title": "How long do ITTI programmes take to complete?",
+                        "tab_content": "<p>Programme durations vary depending on the certification type. Most courses run from <strong data-start=\"1718\" data-end=\"1741\">6 weeks to 6 months</strong>, with flexible schedules designed to accommodate both students and working professionals.</p>",
+                        "_id": "f31e020"
+                      },
+                      {
+                        "tab_title": "Why choose ITTI Ghana for aviation, tourism, or hospitality training?",
+                        "tab_content": "<p>ITTI combines <strong data-start=\"1935\" data-end=\"2029\">practical training, global standards, experienced faculty, and strong industry connections</strong>. We focus on professional development, customer service excellence, and hands-on learning — making ITTI one of Ghana’s trusted pathways into aviation, hospitality, and tourism careers.</p>",
+                        "_id": "3d6a4db"
+                      },
+                      {
+                        "tab_title": "Do ITTI graduates get job placement or career support?",
+                        "tab_content": "<p>ITTI provides structured <strong data-start=\"1345\" data-end=\"1408\">career guidance, internship pathways, and industry exposure</strong> through its partnerships. While job placement is not guaranteed, our strong reputation and alumni network significantly improve students’ employment prospects.</p>",
+                        "_id": "0226d3d"
+                      }
+                    ],
+                    "selected_icon": {
+                      "value": "fas fa-angle-down",
+                      "library": "fa-solid"
+                    },
+                    "selected_active_icon": {
+                      "value": "fas fa-angle-up",
+                      "library": "fa-solid"
+                    },
+                    "icon_align": "right"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "width": "100%"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-acc-title",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "background-color": "var(--e-global-color-fc5ff30)",
+                        "font-family": "var(--e-global-typography-42300ad-font-family)",
+                        "font-size": "var(--e-global-typography-42300ad-font-size)",
+                        "font-weight": "var(--e-global-typography-42300ad-font-weight)",
+                        "text-transform": "var(--e-global-typography-42300ad-text-transform)",
+                        "font-style": "var(--e-global-typography-42300ad-font-style)",
+                        "text-decoration": "var(--e-global-typography-42300ad-text-decoration)",
+                        "line-height": "var(--e-global-typography-42300ad-line-height)",
+                        "letter-spacing": "var(--e-global-typography-42300ad-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-42300ad-word-spacing)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-acc-body",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "var(--e-global-typography-text-font-family)",
+                        "font-size": "var(--e-global-typography-text-font-size)",
+                        "font-weight": "var(--e-global-typography-text-font-weight)",
+                        "text-transform": "var(--e-global-typography-text-text-transform)",
+                        "font-style": "var(--e-global-typography-text-font-style)",
+                        "text-decoration": "var(--e-global-typography-text-text-decoration)",
+                        "line-height": "var(--e-global-typography-text-line-height)",
+                        "letter-spacing": "var(--e-global-typography-text-letter-spacing)",
+                        "word-spacing": "var(--e-global-typography-text-word-spacing)"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--flex-direction": "row",
+                    "--align-items": "stretch",
+                    "--row-gap": "50px",
+                    "--column-gap": "50px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--flex-wrap": "wrap",
+                    "--row-gap": "35px",
+                    "--column-gap": "35px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "100px 0px 200px 0px",
+                "--row-gap": "80px",
+                "--column-gap": "0px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "0 0% 0 0%",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "background-color": "#002147"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ]
+    }
+  ]
+}

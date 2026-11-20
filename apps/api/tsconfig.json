@@ -1,0 +1,1 @@
+{ "extends": "@itti/config/tsconfig.node.json", "include": ["src", "tsup.config.ts"] }

@@ -1,0 +1,33 @@
+{
+  "wpId": 5364,
+  "title": "My Experience at Accra International Airport by Dorothy Adu Gyan",
+  "slug": "my-experience-at-accra-international-airport-by-dorothy-adu-gyan",
+  "path": "/student-article/my-experience-at-accra-international-airport-by-dorothy-adu-gyan",
+  "status": "published",
+  "author": {
+    "name": "Adu Gyan Dorothy"
+  },
+  "excerpt": "As a student studying Airport Passenger Handling and Operations at ITTI, visiting Kotoka\nInternational Airport was one of the most exciting and educational experiences I have had. The\nvisit helped me gain practical knowledge about airport operations and gave me a better\nunderstanding of the aviation industry. It also allowed me to connect the theories I learn in class\nwith real-life airport activi",
+  "fields": {
+    "author": "Adu Gyan Dorothy",
+    "article_title": "My Experience at Accra International Airport",
+    "introduction": "As a student studying Airport Passenger Handling and Operations at ITTI, visiting Kotoka\nInternational Airport was one of the most exciting and educational experiences I have had. The\nvisit helped me gain practical knowledge about airport operations and gave me a better\nunderstanding of the aviation industry. It also allowed me to connect the theories I learn in class\nwith real-life airport activities.\nWhen I arrived at the airport, I immediately noticed the busy environment. Many passengers were\nmoving around with their luggage while airport staff worked hard to ensure that everything was\noperating smoothly. Although there were many people at the airport, the environment was well\norganized. This showed me how important planning, discipline, and teamwork are in airport\noperations.",
+    "article_pdf": {
+      "id": 5365,
+      "url": "/wp-content/uploads/2026/08/Dorothy-Article.pdf",
+      "alt": ""
+    },
+    "article_image": {
+      "id": 5240,
+      "url": "/wp-content/uploads/2026/05/IMG_6509-scaled.jpg",
+      "alt": ""
+    }
+  },
+  "cover": {
+    "id": 5240,
+    "url": "/wp-content/uploads/2026/05/IMG_6509-scaled.jpg",
+    "alt": ""
+  },
+  "publishedAt": "2026-08-06T19:33:45.000Z",
+  "layout": []
+}

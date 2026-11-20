@@ -1,0 +1,174 @@
+{
+  "wpId": 4740,
+  "title": "event-container",
+  "slug": "event-container-4740",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "2ae68b4b",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "71018ec3",
+          "type": "theme-post-featured-image",
+          "props": {
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "image": {
+              "$dyn": "featured-image"
+            }
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "text-align": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " img",
+              "css": {
+                "width": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "75d6d8e",
+          "type": "heading",
+          "props": {
+            "title": "Event Title"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "10px 10px 10px 10px"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-title",
+              "css": {
+                "font-family": "\"Poppins\", sans-serif",
+                "font-weight": "300",
+                "text-transform": "capitalize",
+                "font-size": "24px",
+                "line-height": "1.2em"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": " .w-title",
+              "css": {
+                "font-size": "25px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1a08742c",
+          "type": "text-editor",
+          "props": {},
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "10px 10px 10px 10px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "170322b4",
+          "type": "icon-list",
+          "props": {
+            "icon_list": [
+              {
+                "text": "Accra, Ghana",
+                "selected_icon": {
+                  "value": "fas fa-map-pin",
+                  "library": "fa-solid"
+                },
+                "_id": "f334790"
+              },
+              {
+                "text": "Wednesday, 7th April 2026",
+                "selected_icon": {
+                  "value": "far fa-calendar-alt",
+                  "library": "fa-regular"
+                },
+                "_id": "cdf9469"
+              },
+              {
+                "text": "8.00AM - 10.00AM",
+                "selected_icon": {
+                  "value": "far fa-clock",
+                  "library": "fa-regular"
+                },
+                "_id": "35d7521"
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "10px 10px 10px 10px"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-il-text",
+              "css": {
+                "color": "var(--e-global-color-text)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "50093821",
+          "type": "countdown",
+          "props": {
+            "show_seconds": "",
+            "label_days": "Days",
+            "label_hours": "Hours",
+            "label_minutes": "Minutes",
+            "label_seconds": "Seconds"
+          }
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--width": "30%",
+            "background-color": "var(--e-global-color-accent)",
+            "border-radius": "1px 1px 1px 1px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": ":hover",
+          "css": {
+            "box-shadow": "0px 0px 10px 0px rgba(0,0,0,0.5)"
+          }
+        }
+      ]
+    }
+  ]
+}

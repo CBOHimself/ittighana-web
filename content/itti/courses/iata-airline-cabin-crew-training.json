@@ -1,0 +1,14 @@
+{
+  "wpId": 4199,
+  "title": "IATA Airline Cabin Crew Training",
+  "slug": "iata-airline-cabin-crew-training",
+  "path": "/itti-course/iata-airline-cabin-crew-training",
+  "status": "published",
+  "publishedAt": "2025-11-20T22:52:07.000Z",
+  "fields": {
+    "certification": "A Course Completion Certificate will be awarded at the end of the training by ITTI."
+  },
+  "seo": {},
+  "layout": [],
+  "template": "itti-course-template-2-4265"
+}

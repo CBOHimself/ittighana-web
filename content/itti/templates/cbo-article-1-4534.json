@@ -1,0 +1,81 @@
+{
+  "wpId": 4534,
+  "title": "CBO - article - 1",
+  "slug": "cbo-article-1-4534",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "64ec8b17",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "4724b13c",
+          "type": "heading",
+          "props": {
+            "title": "Course Overview"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "padding": "25px 10px 10px 10px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "211d44b7",
+          "type": "text-editor",
+          "props": {
+            "editor": {
+              "$dyn": "field",
+              "field": "course_overview"
+            }
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "padding": "19px 19px 19px 19px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "0px 0px 0px 0px",
+            "z-index": "8",
+            "align-self": "flex-start",
+            "position": "fixed",
+            "top": "175px",
+            "--width": "100%",
+            "background-color": "var(--e-global-color-284b516)",
+            "border-style": "solid",
+            "border-width": "015px 0px 0px 0px",
+            "border-color": "var(--e-global-color-text)",
+            "border-radius": "0px 0px 0px 0px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": ":hover",
+          "css": {
+            "border-style": "solid",
+            "border-width": "0px 0px 0px 0px"
+          }
+        }
+      ]
+    }
+  ]
+}

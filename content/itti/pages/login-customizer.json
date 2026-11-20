@@ -1,0 +1,12 @@
+{
+  "wpId": 3607,
+  "title": "Login Customizer",
+  "slug": "login-customizer",
+  "path": "/login-customizer",
+  "template": "default",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {},
+  "layout": [],
+  "html": "This page is used for Login Customizer plugin. It will not be visible to your readers. Do not delete it."
+}

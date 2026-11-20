@@ -1,0 +1,148 @@
+{
+  "wpId": 4241,
+  "title": "CBO - Article",
+  "slug": "cbo-article-4241",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "109d71bb",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "4f7500d8",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "5810c089",
+              "type": "theme-post-featured-image",
+              "props": {
+                "image_size": "custom",
+                "image_custom_dimension": {
+                  "width": "700",
+                  "height": "200"
+                },
+                "image": {
+                  "$dyn": "featured-image",
+                  "fallback": {
+                    "url": "/wp-content/uploads/2025/11/airport-crew.png",
+                    "alt": ""
+                  }
+                }
+              }
+            },
+            {
+              "id": "1e4e233c",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "57f24622",
+                  "type": "heading",
+                  "props": {
+                    "title": "Add Your Heading Text Here"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "padding": "25px 10px 10px 10px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "27485ddc",
+                  "type": "text-editor",
+                  "props": {},
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "padding": "19px 19px 19px 19px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "z-index": "8",
+                    "position": "absolute",
+                    "top": "175px",
+                    "background-color": "var(--e-global-color-284b516)",
+                    "border-style": "solid",
+                    "border-width": "015px 0px 0px 0px",
+                    "border-color": "var(--e-global-color-text)",
+                    "border-radius": "0px 0px 0px 0px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "border-style": "solid",
+                    "border-width": "0px 0px 0px 0px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--flex-direction": "column",
+                "--width": "50%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fd5c396",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--flex-direction": "column",
+                "--width": "50%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--row-gap": "0px",
+            "--column-gap": "0px"
+          }
+        }
+      ]
+    }
+  ]
+}

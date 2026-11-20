@@ -1,0 +1,1479 @@
+{
+  "wpId": 4344,
+  "title": "Courses",
+  "slug": "courses",
+  "path": "/courses",
+  "template": "default",
+  "pageTemplate": "default",
+  "status": "published",
+  "seo": {
+    "description": "Browse ITTI’s aviation, cabin crew, customer service and travel courses designed to build practical skills for global career opportunities."
+  },
+  "layout": [
+    {
+      "id": "1c2289b6",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "58e0820",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "7112ed74",
+              "type": "theme-post-title",
+              "props": {
+                "title": {
+                  "$dyn": "title"
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-primary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "64px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 20% 0% 0%",
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "11.037%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "15% 15% 0% 15%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "60% 5% 5% 5%",
+                "--min-height": "40px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "6c041a10",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "6ab1f68f",
+              "type": "heading",
+              "props": {
+                "title": "Overview",
+                "header_size": "h3"
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "30px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2417b6a2",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p>Our comprehensive catalog offers focused training designed to build expertise in high-demand global sectors, including <b>International Travel &amp; Tourism, Airline Operations, Hotel Hospitality, and essential Professional Development Skills</b>. Whether you are launching a career, seeking specialized certification (like IATA), or looking to master modern tools like AI Prompt Engineering, our programs provide practical knowledge, hands-on experience, and industry-aligned methodologies to ensure your success.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "text-align": "left",
+                    "font-family": "\"Merriweather\", sans-serif",
+                    "font-weight": "300",
+                    "font-size": "20px",
+                    "line-height": "1.8em"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0% 0% 0% 12%",
+                "--justify-content": "center",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-fe075fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--padding": "0% 10% 5% 10%",
+                "--width": "100%",
+                "border-width": "0px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--padding": "0% 5% 5% 5%",
+                "--justify-content": "flex-start"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap",
+            "--min-height": "500px"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px",
+            "--min-height": "600px",
+            "background-color": "var(--e-global-color-secondary)"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--min-height": "100vh"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7f915c1f",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "eecf767",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "79c161c",
+              "type": "heading",
+              "props": {
+                "title": "notes",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "align-self": "center",
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "var(--e-global-typography-primary-font-family)",
+                    "font-size": "var(--e-global-typography-primary-font-size)",
+                    "font-weight": "var(--e-global-typography-primary-font-weight)",
+                    "text-transform": "var(--e-global-typography-primary-text-transform)",
+                    "font-style": "var(--e-global-typography-primary-font-style)",
+                    "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                    "line-height": "var(--e-global-typography-primary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "21.027%"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2d034fab",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "90ef8ee",
+              "type": "icon-list",
+              "props": {
+                "icon_list": [
+                  {
+                    "text": "Single courses are intensive one-month programs; consolidated packages require three months.",
+                    "_id": "e9494cd"
+                  },
+                  {
+                    "text": "Lectures are <b>hybrid (blended)</b>, offering either virtual or in-person sessions.",
+                    "_id": "ebd9cd2"
+                  },
+                  {
+                    "text": "A <b>Certificate<b> is awarded upon the successful completion of each course.",
+                    "_id": "8f2b8f1"
+                  },
+                  {
+                    "_id": "864d09e",
+                    "text": "IATA Enrolment: IATA course registration is tied to fixed calendar months:<b> March, June, September, and December.</b>"
+                  }
+                ]
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "40px 40px 40px 40px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-item:not(:last-child)",
+                  "css": {
+                    "padding-bottom": "8px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-size": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon svg",
+                  "css": {
+                    "fill": "var(--e-global-color-secondary)",
+                    "width": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-text",
+                  "css": {
+                    "padding-inline-start": "3px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "10px 10px 10px 10px",
+            "--flex-direction": "column"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--min-height": "150px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2d25da17",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "c6597df",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "f1136d4",
+              "type": "heading",
+              "props": {
+                "title": "EXPLORE OUR CORE COURSES"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "0px 0px 0px 0px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "acf52f1",
+              "type": "text-editor",
+              "props": {
+                "editor": "<p>Three integrated bundles for mastering aviation service essentials.</p>"
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "font-family": "var(--e-global-typography-secondary-font-family)",
+                    "font-size": "var(--e-global-typography-secondary-font-size)",
+                    "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                    "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                    "font-style": "var(--e-global-typography-secondary-font-style)",
+                    "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                    "line-height": "var(--e-global-typography-secondary-line-height)",
+                    "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                    "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "7% 0% 0% 0%",
+                "--flex-direction": "column",
+                "--row-gap": "5px",
+                "--column-gap": "5px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "152a3b9e",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "20ce1a70",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "2842de78",
+                  "type": "heading",
+                  "props": {
+                    "title": "Package I",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "200",
+                        "text-transform": "none",
+                        "font-size": "52px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "9936b6e",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><strong>AIRPORT PASSENGER SERVICES &amp; OPERATIONS  </strong></p><p><span data-contrast=\"auto\">CUSTOMER CARE </span></p><p><span data-contrast=\"auto\">PERSONAL DEVELOPMENT </span></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "600",
+                        "font-size": "21px",
+                        "line-height": "1.8em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " a:hover",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " p",
+                      "css": {
+                        "margin-bottom": "29px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-primary)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2f1e099",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "973c830",
+                  "type": "heading",
+                  "props": {
+                    "title": "Package II",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "200",
+                        "text-transform": "none",
+                        "font-size": "52px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "b9bcd40",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><strong>INTERNATIONAL TRAVEL AND TOURISM FOUNDATION DIPLOMA</strong></p><p><span data-contrast=\"auto\">CUSTOMER CARE</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p><p><span data-contrast=\"auto\">PERSONAL DEVELOPMENT</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "600",
+                        "font-size": "21px",
+                        "line-height": "1.8em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " a:hover",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " p",
+                      "css": {
+                        "margin-bottom": "29px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-primary)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "5d8146b",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "90e9ff5",
+                  "type": "heading",
+                  "props": {
+                    "title": "Package III",
+                    "header_size": "h3"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-text)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "200",
+                        "text-transform": "none",
+                        "font-size": "52px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "ea11684",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p><strong>IATA AIRLINE CABIN CREW TRAINING</strong></p><p><span data-contrast=\"auto\">CUSTOMER CARE</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p><p><span data-contrast=\"auto\">PERSONAL DEVELOPMENT</span><span data-ccp-props=\"{&quot;335559685&quot;:720}\"> </span></p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Merriweather\", sans-serif",
+                        "font-weight": "600",
+                        "font-size": "21px",
+                        "line-height": "1.8em"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "text-align": "left"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " a:hover",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " p",
+                      "css": {
+                        "margin-bottom": "29px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--padding": "100px 50px 100px 50px",
+                    "background-color": "var(--e-global-color-primary)",
+                    "box-shadow": "0px 0px 10px 0px rgba(0, 0, 0, 0.05)",
+                    "transition": "all 0.5s"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--padding": "5% 5% 5% 5%",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "--padding": "10% 10% 10% 10%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": ":hover",
+                  "css": {
+                    "box-shadow": "0px 0px 50px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "03% 0% 0% 0%",
+                "--flex-direction": "row",
+                "--row-gap": "40px",
+                "--column-gap": "40px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--flex-wrap": "wrap"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--row-gap": "20px",
+                "--column-gap": "20px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        },
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "z-index": "5",
+            "--flex-direction": "column",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "458a074",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "cbf4163",
+          "type": "heading",
+          "props": {
+            "title": "SINGLE COURSES"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "050px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "padding": "10px 10px 10px 10px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "padding": "10px 10px 10px 10px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "361973a",
+          "type": "zigzag",
+          "props": {
+            "image_zigzag_items": [
+              {
+                "image_title": "International Travel and Tourism Foundation Diploma",
+                "image_description": "A foundational program to equip professionals with essential knowledge in the travel industry, focusing on geography, travel formalities, airfare calculation, and GDS (Global Distribution System) booking tools for creating and managing reservations.",
+                "_id": "876d360",
+                "image_graphic_image": {
+                  "url": "/wp-content/uploads/2025/11/hospitality.jpg",
+                  "id": 4369,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_button_text": "Learn More"
+              },
+              {
+                "image_title": "IATA Airline Cabin Crew Training",
+                "image_description": "An introductory course for aspiring young professionals focused on the safety, customer service, and operational responsibilities required by international airlines, including emergency procedures and passenger management.",
+                "_id": "b5f4400",
+                "image_graphic_image": {
+                  "url": "/wp-content/uploads/2025/11/licensed-image-scaled.jpeg",
+                  "id": 4370,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_button_text": "Learn More"
+              },
+              {
+                "image_title": "Hospitality and Customer Service Excellence",
+                "image_description": "A customized training program designed to elevate the professional behavior, serving skills, and hospitality mindset of support staff (e.g., office helpers) through practical role-play and etiquette demonstrations.",
+                "_id": "4644fce",
+                "image_graphic_image": {
+                  "url": "/wp-content/uploads/2025/11/phone.jpg",
+                  "id": 4371,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_button_text": "Learn More"
+              },
+              {
+                "image_title": "AI Prompt Engineering",
+                "image_description": "A practical, hands-on program for professionals to master prompt design and interaction with advanced Generative AI tools (like ChatGPT and Midjourney), focusing on structured prompting, platform-specific uses, and ethical application.",
+                "_id": "da039e5",
+                "image_graphic_image": {
+                  "url": "/wp-content/uploads/2019/09/slider1d.jpg",
+                  "id": 2477,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_button_text": "Learn More"
+              },
+              {
+                "_id": "e6bc257",
+                "image_graphic_image": {
+                  "url": "/wp-content/uploads/2019/09/hotel.jpg",
+                  "id": 2487,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_title": "Hotel Hospitality Management",
+                "image_description": "A program to prepare individuals for management and supervisory roles in the lodging and food service sectors. It covers leadership, operations management, service quality, and fundamental business principles of the hospitality industry.",
+                "image_button_text": "Learn More"
+              },
+              {
+                "_id": "1a80769",
+                "image_graphic_image": {
+                  "url": "/wp-content/uploads/2019/09/airport.jpg",
+                  "id": 2488,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_title": "Customer Service Skills for Airline Travel and Tourism Professionals",
+                "image_description": "A focused course on developing principles of outstanding customer service, featuring extensive role-plays and scenarios to manage customer demands, handle complaints, apply emotional intelligence, and master professional communication techniques.",
+                "image_button_text": "Learn More"
+              }
+            ],
+            "icon_zigzag_items": [
+              {
+                "icon_title": "Social media done right",
+                "icon_description": "Unlock the full potential of social media with our expert strategies and proven techniques. Let us guide you towards success in the online world and make your brand shine on every platform.",
+                "_id": "a8207c6",
+                "icon_button_text": "Learn More"
+              },
+              {
+                "icon_title": "Social media done right",
+                "icon_description": "Unlock the full potential of social media with our expert strategies and proven techniques. Let us guide you towards success in the online world and make your brand shine on every platform.",
+                "icon_button_text": "Learn More",
+                "_id": "9e72bfb"
+              },
+              {
+                "icon_title": "Award-winning  studio",
+                "icon_description": "Experience the unparalleled creativity and excellence of our award-winning studio. Our team of talented artists and industry professionals are dedicated to delivering innovative and impactful designs.",
+                "_id": "e3ad5f2",
+                "icon_button_text": "Learn More"
+              },
+              {
+                "icon_title": "Join Our Community",
+                "icon_description": "Join our vibrant community and connect with like-minded individuals who share your passions and interests. Together, we can inspire, support, and empower each other to reach our goals.",
+                "_id": "263f14d",
+                "icon_button_text": "Learn More"
+              },
+              {
+                "icon_title": "Your Perfect Match",
+                "icon_description": "Discover a personalized shopping journey. Our recommendation engine curates items tailored to your tastes. Each suggestion feels hand-picked.",
+                "_id": "2edc53d",
+                "icon_button_text": "Learn More"
+              }
+            ],
+            "primary_button_type": "button",
+            "primary_button_shape": "sharp"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "20px 0px 0px 0px"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "padding": "10px 10px 10px 10px"
+              }
+            }
+          ],
+          "hide": [
+            "desktop",
+            "tablet",
+            "mobile"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7632c73b",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "53722ab7",
+          "type": "spacer",
+          "props": {},
+          "styles": [
+            {
+              "bp": "base",
+              "sel": " .w-spacer",
+              "css": {
+                "height": "350px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9561c13",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "67a8c6fe",
+          "type": "container",
+          "props": {
+            "boxed": false,
+            "background_image": {
+              "$dyn": "featured-image"
+            }
+          },
+          "children": [
+            {
+              "id": "4ca70f91",
+              "type": "theme-post-featured-image",
+              "props": {
+                "image": {
+                  "$dyn": "featured-image",
+                  "fallback": {
+                    "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.19-1.jpeg",
+                    "alt": ""
+                  }
+                }
+              }
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "--width": "58%",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 1px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--width": "100%",
+                "--min-height": "600px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "--min-height": "270px",
+                "background-position": "center center",
+                "background-size": "cover",
+                "background-repeat": "no-repeat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7117dd35",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "5bfc9c36",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "21e81842",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "65ed5620",
+                      "type": "heading",
+                      "props": {
+                        "title": "apply now!"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "var(--e-global-color-text)",
+                            "font-family": "var(--e-global-typography-456247d-font-family)",
+                            "font-size": "var(--e-global-typography-456247d-font-size)",
+                            "font-weight": "var(--e-global-typography-456247d-font-weight)",
+                            "text-transform": "var(--e-global-typography-456247d-text-transform)",
+                            "font-style": "var(--e-global-typography-456247d-font-style)",
+                            "text-decoration": "var(--e-global-typography-456247d-text-decoration)",
+                            "line-height": "var(--e-global-typography-456247d-line-height)",
+                            "letter-spacing": "var(--e-global-typography-456247d-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-456247d-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "53eb18a6",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p style=\"text-align: center;\">Click here to download an application form</p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "color": "var(--e-global-color-primary)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " a",
+                          "css": {
+                            "color": "var(--e-global-color-text)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "2075b6a7",
+                      "type": "button",
+                      "props": {
+                        "text": "Apply",
+                        "link": {
+                          "url": "https://library.elementor.com/real-estate-flexbox/contact-us/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "margin": "40px 0px 0px 0px",
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-btn",
+                          "css": {
+                            "background-color": "var(--e-global-color-accent)",
+                            "color": "var(--e-global-color-primary)",
+                            "font-family": "\"Merriweather\", sans-serif",
+                            "font-weight": "400",
+                            "text-transform": "capitalize",
+                            "text-decoration": "none",
+                            "font-size": "16px",
+                            "line-height": "1em",
+                            "border-radius": "0px 0px 0px 0px",
+                            "padding": "15px 40px 15px 40px",
+                            "gap": "10px"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-btn svg",
+                          "css": {
+                            "fill": "var(--e-global-color-primary)"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-btn:hover",
+                          "css": {
+                            "background-color": "var(--e-global-color-primary)",
+                            "color": "var(--e-global-color-accent)"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "75px 75px 75px 75px",
+                        "--justify-content": "center",
+                        "--row-gap": "10px",
+                        "--column-gap": "10px"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": "",
+                      "css": {
+                        "--padding": "10% 10% 10% 10%"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "--flex-direction": "row",
+                    "--align-items": "stretch",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px",
+                    "background-color": "var(--e-global-color-fc5ff30)",
+                    "box-shadow": "0px 15px 35px 0px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "0px 0px 0px 0px",
+                "--row-gap": "0px",
+                "--column-gap": "0px",
+                "--width": "42%",
+                "border-style": "solid",
+                "border-width": "0px 1px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--width": "100%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "-200px 0px 0px 0px",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "0px",
+            "--column-gap": "0px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "margin": "-100px 0px 0px 0px",
+            "--padding": "0% 5% 0% 5%",
+            "--flex-wrap": "wrap"
+          }
+        }
+      ]
+    }
+  ]
+}

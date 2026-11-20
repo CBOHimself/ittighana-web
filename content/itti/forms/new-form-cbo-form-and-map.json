@@ -1,0 +1,79 @@
+{
+  "slug": "new-form-cbo-form-and-map",
+  "name": "New Form",
+  "source": "cbo-form-and-map",
+  "kind": "general",
+  "fields": [
+    {
+      "id": "f4461d3",
+      "name": "email",
+      "type": "text",
+      "label": "FIrst Name",
+      "placeholder": "First Name",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "a074beb",
+      "name": "field_a074beb",
+      "type": "text",
+      "label": "Last Name",
+      "placeholder": "Last Name",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "6f7b0a2",
+      "name": "field_6f7b0a2",
+      "type": "phone",
+      "label": "Phone Number",
+      "placeholder": "Phone",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "ded525d",
+      "name": "field_ded525d",
+      "type": "email",
+      "label": "Email",
+      "placeholder": "Email",
+      "required": true,
+      "width": "half"
+    },
+    {
+      "id": "cd51dc0",
+      "name": "field_cd51dc0",
+      "type": "text",
+      "label": "Subject",
+      "placeholder": "Subject",
+      "required": true,
+      "width": "full"
+    },
+    {
+      "id": "e389c4e",
+      "name": "field_e389c4e",
+      "type": "textarea",
+      "label": "Your message",
+      "placeholder": "Your Message",
+      "required": true,
+      "width": "full"
+    },
+    {
+      "id": "dba3071",
+      "name": "field_dba3071",
+      "type": "text",
+      "label": "reCAPTCHA",
+      "required": false,
+      "width": "full"
+    }
+  ],
+  "settings": {
+    "notifyEmails": [
+      "manager@ittighana.com"
+    ],
+    "confirmationMessage": "The form was sent successfully.",
+    "sendConfirmationEmail": true,
+    "submitLabel": "Send"
+  },
+  "status": "published"
+}

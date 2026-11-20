@@ -1,0 +1,581 @@
+{
+  "name": "International Travel and Tourism Institute",
+  "description": "Leading Aviation School in Accra, Ghana. Established 2007",
+  "url": "https://www.ittighana.com",
+  "logo": {
+    "url": "/wp-content/uploads/2025/11/ITTI_LOGO-NOBG.png",
+    "alt": "International Travel and Tourism Institute"
+  },
+  "favicon": "/wp-content/uploads/2025/11/android-chrome-512x512-1.png",
+  "tokens": {
+    "colors": {
+      "primary": {
+        "title": "Primary",
+        "value": "#002147"
+      },
+      "secondary": {
+        "title": "Secondary",
+        "value": "#E6E6E6"
+      },
+      "text": {
+        "title": "Text",
+        "value": "#3277AE"
+      },
+      "accent": {
+        "title": "Accent",
+        "value": "#F5F5F5"
+      },
+      "284b516": {
+        "title": "White Element",
+        "value": "#F5F5F5"
+      },
+      "fc5ff30": {
+        "title": "White BG",
+        "value": "#E6E6E6"
+      },
+      "b67616c": {
+        "title": "Full Transparency",
+        "value": "#FFFFFF00"
+      },
+      "979e0fe": {
+        "title": "Borders + Shapes",
+        "value": "#F2F3F5"
+      },
+      "81be640": {
+        "title": "Form Border",
+        "value": "#CBC8CC"
+      },
+      "7d0b5e3": {
+        "title": "Blue BG Borders",
+        "value": "#002147"
+      },
+      "fe075fe": {
+        "title": "Bright BG Borders",
+        "value": "#3277AE"
+      },
+      "cef0432": {
+        "title": "Popup Overlay",
+        "value": "#000000CC"
+      },
+      "b996166": {
+        "title": "Accent 2",
+        "value": "#8C1515"
+      },
+      "e98a190": {
+        "title": "blue transparent",
+        "value": "#3277AE4D"
+      }
+    },
+    "typography": {
+      "primary": {
+        "title": "Primary",
+        "base": {
+          "font-family": "\"Poppins\", sans-serif",
+          "font-weight": "300",
+          "text-transform": "capitalize",
+          "font-size": "52px",
+          "line-height": "1.2em"
+        },
+        "tablet": {},
+        "mobile": {
+          "font-size": "25px"
+        }
+      },
+      "secondary": {
+        "title": "Secondary",
+        "base": {
+          "font-family": "\"Merriweather\", sans-serif",
+          "font-weight": "400",
+          "text-transform": "capitalize",
+          "font-size": "24px",
+          "line-height": "1em"
+        },
+        "tablet": {},
+        "mobile": {}
+      },
+      "text": {
+        "title": "Text",
+        "base": {
+          "font-family": "\"Merriweather\", sans-serif",
+          "font-weight": "300",
+          "font-size": "16px",
+          "line-height": "1.8em"
+        },
+        "tablet": {},
+        "mobile": {}
+      },
+      "accent": {
+        "title": "Accent",
+        "base": {
+          "font-family": "\"Merriweather\", sans-serif",
+          "font-weight": "400",
+          "text-transform": "capitalize",
+          "font-size": "16px",
+          "line-height": "1em"
+        },
+        "tablet": {},
+        "mobile": {}
+      },
+      "b43c0ff": {
+        "title": "Accent 2",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "400",
+          "text-transform": "capitalize",
+          "text-decoration": "underline",
+          "font-size": "16px"
+        },
+        "tablet": {},
+        "mobile": {}
+      },
+      "5a11820": {
+        "title": "Footer Titles",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "300",
+          "text-transform": "uppercase",
+          "font-size": "16px",
+          "line-height": "1em"
+        },
+        "tablet": {},
+        "mobile": {}
+      },
+      "42300ad": {
+        "title": "Small Titles 1",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "400",
+          "text-transform": "capitalize",
+          "font-size": "18px",
+          "line-height": "1.2em"
+        },
+        "tablet": {
+          "font-size": "15px"
+        },
+        "mobile": {}
+      },
+      "54d6145": {
+        "title": "Medium Titles",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "400",
+          "text-transform": "capitalize",
+          "font-style": "normal",
+          "font-size": "20px",
+          "line-height": "1.4em"
+        },
+        "tablet": {},
+        "mobile": {
+          "font-size": "20px",
+          "line-height": "1.4em"
+        }
+      },
+      "883ce6d": {
+        "title": "Homepage Hero Title",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "300",
+          "text-transform": "uppercase",
+          "font-size": "80px",
+          "line-height": "1em"
+        },
+        "tablet": {
+          "font-size": "60px"
+        },
+        "mobile": {
+          "font-size": "33px"
+        }
+      },
+      "7ba1c84": {
+        "title": "Small Titles 2",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "300",
+          "text-transform": "capitalize",
+          "font-size": "15px"
+        },
+        "tablet": {
+          "font-size": "14px"
+        },
+        "mobile": {}
+      },
+      "947f909": {
+        "title": "Inner Pages Hero Title",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "300",
+          "text-transform": "uppercase",
+          "font-size": "60px",
+          "line-height": "1em"
+        },
+        "tablet": {
+          "font-size": "50px"
+        },
+        "mobile": {
+          "font-size": "35px"
+        }
+      },
+      "dc8af67": {
+        "title": "About Page Quotation",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "200",
+          "text-transform": "capitalize",
+          "font-size": "25px",
+          "line-height": "1.4em"
+        },
+        "tablet": {
+          "font-size": "20px"
+        },
+        "mobile": {}
+      },
+      "4863f62": {
+        "title": "Small Titles 3",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "400",
+          "text-transform": "capitalize",
+          "font-style": "normal",
+          "font-size": "22px",
+          "line-height": "1.4em"
+        },
+        "tablet": {},
+        "mobile": {
+          "font-size": "20px",
+          "line-height": "1.4em"
+        }
+      },
+      "456247d": {
+        "title": "Single Post Hero Title",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "300",
+          "text-transform": "uppercase",
+          "font-size": "45px",
+          "line-height": "1em"
+        },
+        "tablet": {
+          "font-size": "50px"
+        },
+        "mobile": {
+          "font-size": "35px"
+        }
+      },
+      "525d066": {
+        "title": "Popup Main Title",
+        "base": {
+          "font-family": "\"Montserrat\", sans-serif",
+          "font-weight": "300",
+          "text-transform": "uppercase",
+          "font-size": "28px",
+          "line-height": "1.2em"
+        },
+        "tablet": {},
+        "mobile": {
+          "font-size": "20px"
+        }
+      }
+    },
+    "containerWidth": 1400,
+    "breakpoints": {
+      "tablet": 1024,
+      "mobile": 767
+    },
+    "bodyBackground": "var(--e-global-color-fc5ff30)",
+    "bodyColor": "var(--e-global-color-secondary)",
+    "bodyFont": "Merriweather",
+    "headingFont": "Montserrat",
+    "paragraphSpacing": "0px",
+    "fonts": [
+      "Merriweather",
+      "Montserrat",
+      "Poppins",
+      "Roboto"
+    ]
+  },
+  "menus": {
+    "top-bar": {
+      "name": "Top bar",
+      "items": [
+        {
+          "label": "Faculty",
+          "href": "#"
+        },
+        {
+          "label": "Staff",
+          "href": "#"
+        },
+        {
+          "label": "Students",
+          "href": "#"
+        },
+        {
+          "label": "Parents",
+          "href": "#"
+        },
+        {
+          "label": "Visitors",
+          "href": "#"
+        }
+      ]
+    },
+    "footer-menu-1": {
+      "name": "Footer menu 1",
+      "items": [
+        {
+          "label": "Smart University",
+          "href": "#"
+        },
+        {
+          "label": "Strategic plan",
+          "href": "#"
+        },
+        {
+          "label": "Smart's research",
+          "href": "#"
+        },
+        {
+          "label": "Fees and funding",
+          "href": "#"
+        },
+        {
+          "label": "Libraries",
+          "href": "#"
+        },
+        {
+          "label": "Museums and collections",
+          "href": "#"
+        },
+        {
+          "label": "Open days",
+          "href": "#"
+        },
+        {
+          "label": "Smart glossary",
+          "href": "#"
+        },
+        {
+          "label": "Sport at Smart",
+          "href": "#"
+        },
+        {
+          "label": "Conferences at Smart",
+          "href": "#"
+        }
+      ]
+    },
+    "footer-menu-2": {
+      "name": "Footer menu 2",
+      "items": [
+        {
+          "label": "Undergraduate Admissions",
+          "href": "#"
+        },
+        {
+          "label": "Graduate Admissions",
+          "href": "#"
+        },
+        {
+          "label": "Continuing Education",
+          "href": "#"
+        },
+        {
+          "label": "Current Smart students",
+          "href": "#"
+        },
+        {
+          "label": "Smart residents/Community",
+          "href": "#"
+        },
+        {
+          "label": "Visitors/Tourists",
+          "href": "#"
+        },
+        {
+          "label": "Media",
+          "href": "#"
+        },
+        {
+          "label": "Teachers",
+          "href": "#"
+        },
+        {
+          "label": "Businesses/Partnerships",
+          "href": "#"
+        }
+      ]
+    },
+    "footer-menu-3": {
+      "name": "Footer menu 3",
+      "items": [
+        {
+          "label": "Contact search",
+          "href": "#"
+        },
+        {
+          "label": "Jobs and vacancies",
+          "href": "#"
+        },
+        {
+          "label": "Term dates",
+          "href": "#"
+        },
+        {
+          "label": "Map",
+          "href": "#"
+        },
+        {
+          "label": "Nexus webmail",
+          "href": "#"
+        },
+        {
+          "label": "Giving to Smart",
+          "href": "#"
+        },
+        {
+          "label": "Social Media Hub",
+          "href": "#"
+        },
+        {
+          "label": "Smart University Images",
+          "href": "#"
+        }
+      ]
+    },
+    "menu-1": {
+      "name": "Menu 1",
+      "items": [
+        {
+          "label": "Home",
+          "href": "/"
+        },
+        {
+          "label": "About",
+          "href": "/about"
+        },
+        {
+          "label": "/category/77",
+          "href": "/category/77"
+        },
+        {
+          "label": "Campus",
+          "href": "/campus"
+        },
+        {
+          "label": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "header-menu": {
+      "name": "Header menu",
+      "items": [
+        {
+          "label": "Home",
+          "href": "/"
+        },
+        {
+          "label": "About",
+          "href": "/about"
+        },
+        {
+          "label": "Courses",
+          "href": "/courses",
+          "children": [
+            {
+              "label": "AI Prompt Engineering",
+              "href": "/itti-course/ai-prompt-engineering"
+            },
+            {
+              "label": "International Travel and Tourism Foundation Diploma",
+              "href": "/itti-course/international-travel-and-tourism-foundation-diploma"
+            },
+            {
+              "label": "Personal Development",
+              "href": "/itti-course/personal-development"
+            },
+            {
+              "label": "Customer Care",
+              "href": "/itti-course/customer-care"
+            },
+            {
+              "label": "Hotel Hospitality Management",
+              "href": "/itti-course/hotel-hospitality-management"
+            },
+            {
+              "label": "IATA Airline Cabin Crew Training",
+              "href": "/itti-course/iata-airline-cabin-crew-training"
+            },
+            {
+              "label": "Hospitality and Customer Service Excellence",
+              "href": "/itti-course/hospitality-and-customer-service-excellence"
+            },
+            {
+              "label": "Professional Development Training",
+              "href": "/itti-course/professional-development-training"
+            },
+            {
+              "label": "Customer Service Skills for Airline Travel and Tourism Professionals",
+              "href": "/itti-course/customer-service-skills-for-airline-travel-and-tourism-professionals"
+            },
+            {
+              "label": "Interpersonal and Communication Skills",
+              "href": "/itti-course/interpersonal-and-communication-skills"
+            }
+          ]
+        },
+        {
+          "label": "Campus",
+          "href": "/campus",
+          "children": [
+            {
+              "label": "Photo Gallery",
+              "href": "/photo-gallery"
+            },
+            {
+              "label": "Life at ITTI",
+              "href": "/life-at-itti"
+            },
+            {
+              "label": "Training Spaces Booking",
+              "href": "/contact-us/training-spaces"
+            }
+          ]
+        },
+        {
+          "label": "Careers",
+          "href": "/careers"
+        },
+        {
+          "label": "Events",
+          "href": "/events",
+          "children": [
+            {
+              "label": "Personal Development Week",
+              "href": "/personal-development-week"
+            }
+          ]
+        },
+        {
+          "label": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    }
+  },
+  "theme": {
+    "header": "elementor-header-3923-3923",
+    "footer": "footer-3796",
+    "singlePost": "news-article-4631",
+    "archive": "projects-archive-3801",
+    "notFound": "404-page-3784",
+    "floating": "whatsapp-icon-4864",
+    "popups": [
+      {
+        "id": 3776,
+        "slug": "contact-popup-3776"
+      }
+    ],
+    "defaultCourseTemplate": "itti-course-template-2-4265"
+  }
+}

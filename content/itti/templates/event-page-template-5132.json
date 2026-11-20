@@ -1,0 +1,1394 @@
+{
+  "wpId": 5132,
+  "title": "Event page - template",
+  "slug": "event-page-template-5132",
+  "kind": "page",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "103405ac",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "174df29e",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "1a36544d",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "188915f",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "5e57b1ff",
+                      "type": "heading",
+                      "props": {
+                        "title": "5th – 7th May 2026",
+                        "header_size": "h3"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "var(--e-global-color-text)",
+                            "font-family": "var(--e-global-typography-secondary-font-family)",
+                            "font-size": "var(--e-global-typography-secondary-font-size)",
+                            "font-weight": "var(--e-global-typography-secondary-font-weight)",
+                            "text-transform": "var(--e-global-typography-secondary-text-transform)",
+                            "font-style": "var(--e-global-typography-secondary-font-style)",
+                            "text-decoration": "var(--e-global-typography-secondary-text-decoration)",
+                            "line-height": "var(--e-global-typography-secondary-line-height)",
+                            "letter-spacing": "var(--e-global-typography-secondary-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-secondary-word-spacing)"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "170c5f22",
+                      "type": "heading",
+                      "props": {
+                        "title": "Life Skills & Personal Development Programme Batch 11"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "var(--e-global-color-primary)",
+                            "font-family": "var(--e-global-typography-primary-font-family)",
+                            "font-size": "var(--e-global-typography-primary-font-size)",
+                            "font-weight": "var(--e-global-typography-primary-font-weight)",
+                            "text-transform": "var(--e-global-typography-primary-text-transform)",
+                            "font-style": "var(--e-global-typography-primary-font-style)",
+                            "text-decoration": "var(--e-global-typography-primary-text-decoration)",
+                            "line-height": "var(--e-global-typography-primary-line-height)",
+                            "letter-spacing": "var(--e-global-typography-primary-letter-spacing)",
+                            "word-spacing": "var(--e-global-typography-primary-word-spacing)"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0px 0px 0px 0px",
+                        "--justify-content": "center",
+                        "--row-gap": "10px",
+                        "--column-gap": "10px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "--width": "100%"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "d859a1e",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "5f26281",
+                      "type": "heading",
+                      "props": {
+                        "title": "Program Outline"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        },
+                        {
+                          "bp": "base",
+                          "sel": " .w-title",
+                          "css": {
+                            "color": "var(--e-global-color-primary)",
+                            "font-family": "\"Poppins\", sans-serif",
+                            "font-weight": "200",
+                            "text-transform": "capitalize",
+                            "font-size": "25px",
+                            "line-height": "1.2em"
+                          }
+                        },
+                        {
+                          "bp": "mobile",
+                          "sel": " .w-title",
+                          "css": {
+                            "font-size": "25px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "6ed8d923",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><span style=\"font-weight: 400;\">The seminar is intended to introduce participants to key perspectives of the ‘</span><b>Personal Development &amp; Life Skills to enable them perform better at the work place and beyond'</b><span style=\"font-weight: 400;\">.</span></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "text-align": "left",
+                            "color": "var(--e-global-color-text)",
+                            "font-family": "\"Merriweather\", sans-serif",
+                            "font-weight": "300",
+                            "font-size": "20px",
+                            "line-height": "1.8em"
+                          }
+                        },
+                        {
+                          "bp": "tablet",
+                          "sel": "",
+                          "css": {
+                            "text-align": "center"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "--padding": "0% 10% 0% 5%",
+                        "--justify-content": "center",
+                        "--row-gap": "0px",
+                        "--column-gap": "0px"
+                      }
+                    },
+                    {
+                      "bp": "tablet",
+                      "sel": "",
+                      "css": {
+                        "--width": "100%"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "margin": "25% 0% 0% 0%"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "--flex-direction": "row",
+                    "--align-items": "stretch",
+                    "--row-gap": "10px",
+                    "--column-gap": "10px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "--flex-wrap": "wrap"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "10% 0% 10% 0%",
+                "--row-gap": "80px",
+                "--column-gap": "0px",
+                "border-style": "solid",
+                "border-width": "0px 0px 0px 0px",
+                "border-color": "var(--e-global-color-979e0fe)"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "margin": "0 0% 0 0%",
+            "--flex-direction": "row",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "10px"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "margin": "0 0px 0 0px"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "0% 5% 0% 5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "54365d0e",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "4538ae5a",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "4073067a",
+              "type": "heading",
+              "props": {
+                "title": "Learning Outcomes",
+                "link": {
+                  "url": {
+                    "$dyn": "field",
+                    "field": ""
+                  }
+                }
+              },
+              "styles": [
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-title",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-family": "\"Poppins\", sans-serif",
+                    "font-weight": "300",
+                    "text-transform": "capitalize",
+                    "font-size": "48px",
+                    "line-height": "1.2em"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": " .w-title",
+                  "css": {
+                    "font-size": "25px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "flex": "0 0 auto",
+                "--justify-content": "center",
+                "--width": "21.027%"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "align-self": "center",
+                "--align-items": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "634d6cb7",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "1ea061e9",
+              "type": "icon-list",
+              "props": {
+                "icon_list": [
+                  {
+                    "text": "By the end of this seminar, participants should be able to:",
+                    "_id": "e9494cd",
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "text": "Understand some basic principles of Personal Development required to improve their work schedule.",
+                    "_id": "ebd9cd2",
+                    "selected_icon": {
+                      "value": "far fa-check-circle",
+                      "library": "fa-regular"
+                    }
+                  },
+                  {
+                    "text": "Identify the knowledge and practical skills effective Life Skills required for improving their job roles.",
+                    "_id": "8f2b8f1",
+                    "selected_icon": {
+                      "value": "far fa-check-circle",
+                      "library": "fa-regular"
+                    }
+                  }
+                ]
+              },
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "padding": "40px 40px 40px 40px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-item:not(:last-child)",
+                  "css": {
+                    "padding-bottom": "8px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon",
+                  "css": {
+                    "color": "var(--e-global-color-secondary)",
+                    "font-size": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-icon svg",
+                  "css": {
+                    "fill": "var(--e-global-color-secondary)",
+                    "width": "22px"
+                  }
+                },
+                {
+                  "bp": "base",
+                  "sel": " .w-il-text",
+                  "css": {
+                    "padding-inline-start": "3px"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--justify-content": "center"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--min-height": "150px",
+            "background-color": "var(--e-global-color-primary)"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column"
+          }
+        }
+      ]
+    },
+    {
+      "id": "37316d3f",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "1a88bf",
+          "type": "nested-tabs",
+          "children": [
+            {
+              "id": "ac8ec3",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "1bfa47eb",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "77d4d751",
+                      "type": "heading",
+                      "props": {
+                        "title": "Session 1"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "76fb5f0",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Time: 08:30 – 12:00</b></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px",
+                            "text-align": "start"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "49940f2b",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Facilitator: Mr Joseph Kennedy</b></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Introduction to Personal Development</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Introduction to Business Communication Skills</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Understanding Business Communication Skills, Barriers to Effective Communication</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">How to Improve Business Communication</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Interview Techniques &amp; Compiling and presenting personal statement </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Team Building</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Business Etiquette</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">CV Writing</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Basic Book Keeping Skills</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Report Writing</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Memos and Cover Letter</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Getting Ready for An Interview</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Interview Techniques </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Work, Life &amp; Balance</span></li></ul>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "3324cbe",
+                      "type": "container",
+                      "props": {
+                        "boxed": false,
+                        "overlay": true
+                      },
+                      "children": [
+                        {
+                          "id": "9c6e2fc",
+                          "type": "heading",
+                          "props": {
+                            "title": "Break "
+                          },
+                          "styles": [
+                            {
+                              "bp": "base",
+                              "sel": "",
+                              "css": {
+                                "text-align": "center"
+                              }
+                            },
+                            {
+                              "bp": "base",
+                              "sel": " .w-title",
+                              "css": {
+                                "color": "var(--e-global-color-secondary)"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "::before",
+                          "css": {
+                            "background-color": "var(--e-global-color-7d0b5e3)",
+                            "opacity": "0.5"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "66ce50d",
+                      "type": "heading",
+                      "props": {
+                        "title": "Session 2"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "f2b06a0",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Time: 12:30 – 15:00</b></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px",
+                            "text-align": "start"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "369cd23",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Facilitator: <span style=\"font-weight: 400;\">Mrs. Hannah Blankson </span></b></p><ul><li><span style=\"font-weight: 400;\">Basic Customer Service Skills</span></li><li><span style=\"font-weight: 400;\">Grooming</span></li><li><span style=\"font-weight: 400;\">Life Skills / Case Studies and Scenarios</span></li><li><span style=\"font-weight: 400;\">Personal Etiquette</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Use of Cutlery</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Common Courtesy</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Personal Wellness &amp; Self-Care</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Work Life Balance</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Business Etiquette</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Interview Techniques</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Getting Ready for Interview and Make-Up Session (How to Apply Etc.)</span></li></ul><p><strong><em>Student Will Bring Cutlery and Make-Up Kits</em></strong></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "--width": "100%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "1d81d9c0",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "ca52733",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "d82e90b",
+                      "type": "heading",
+                      "props": {
+                        "title": "Session"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "89740ef",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Time: 08:30 – 12:00</b></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px",
+                            "text-align": "start"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1d6beed",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><strong>Facilitator: Mrs. Sandy Kojo-Andah</strong><i></i></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Introduction to Personal Development</span></li></ul><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Personal Development Process</span></li></ul><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Setting Goals and Achieving Them</span></li></ul><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Interpersonal Skills, Public Speaking</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">How to Write Personal Statement</span></li><li style=\"list-style-type: none;\"> </li></ul>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "692189b",
+                      "type": "container",
+                      "props": {
+                        "boxed": false,
+                        "overlay": true
+                      },
+                      "children": [
+                        {
+                          "id": "db29b42",
+                          "type": "heading",
+                          "props": {
+                            "title": "Break "
+                          },
+                          "styles": [
+                            {
+                              "bp": "base",
+                              "sel": "",
+                              "css": {
+                                "text-align": "center"
+                              }
+                            },
+                            {
+                              "bp": "base",
+                              "sel": " .w-title",
+                              "css": {
+                                "color": "var(--e-global-color-secondary)"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "::before",
+                          "css": {
+                            "background-color": "var(--e-global-color-7d0b5e3)",
+                            "opacity": "0.5"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "6928b20",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Time: 11:45 - 14:00</b></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px",
+                            "text-align": "start"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "b420b0b",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Defining Personal Development</span></li></ul><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Personal Development Process</span></li></ul><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Points to Consider When Writing A Personal Statement</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Interview Skills</span></li></ul><p><strong><i>ACTIVITY: Writing of Personal Statements and CV</i></strong></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "11467e26",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "986a92f",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "a36067c",
+                      "type": "heading",
+                      "props": {
+                        "title": "Session 1"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "23f4004",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Time: 08:30 – 10:30</b></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px",
+                            "text-align": "start"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "bb0cc38",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Facilitator: <span style=\"font-weight: 400;\">Mrs. Sandy Kojo-Andah </span></b></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">General Counseling</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">One-on-one meetings / interactions</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Presentation of Personal Statements</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Interview techniques and getting ready for an interview</span></li></ul>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1c94830",
+                      "type": "container",
+                      "props": {
+                        "boxed": false,
+                        "overlay": true
+                      },
+                      "children": [
+                        {
+                          "id": "a5009c8",
+                          "type": "heading",
+                          "props": {
+                            "title": "Break "
+                          },
+                          "styles": [
+                            {
+                              "bp": "base",
+                              "sel": "",
+                              "css": {
+                                "text-align": "center"
+                              }
+                            },
+                            {
+                              "bp": "base",
+                              "sel": " .w-title",
+                              "css": {
+                                "color": "var(--e-global-color-secondary)"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "::before",
+                          "css": {
+                            "background-color": "var(--e-global-color-7d0b5e3)",
+                            "opacity": "0.5"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ab640a4",
+                      "type": "heading",
+                      "props": {
+                        "title": "Session 2"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "25px 10px 10px 10px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "343ac6a",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Time: 12:30 – 15:00</b></p>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px",
+                            "text-align": "start"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "97f3820",
+                      "type": "text-editor",
+                      "props": {
+                        "editor": "<p><b>Facilitator: <span style=\"font-weight: 400;\">Mrs. Sandy Kojo-Andah  / Mr. Joseph Kennedy </span></b></p><ul><li><span style=\"font-weight: 400;\">Mock Interview Sessions / Marketing Presentation</span></li><li><span style=\"font-weight: 400;\">Finalization of all assessments</span></li><li><span style=\"font-weight: 400;\"> Award of certificate</span></li><li><span style=\"font-weight: 400;\"> Programme Closure</span></li></ul>"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "padding": "19px 19px 19px 19px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "de24a63",
+                      "type": "container",
+                      "props": {
+                        "boxed": false,
+                        "overlay": true
+                      },
+                      "children": [
+                        {
+                          "id": "624a238",
+                          "type": "heading",
+                          "props": {
+                            "title": "Refreshments"
+                          },
+                          "styles": [
+                            {
+                              "bp": "base",
+                              "sel": "",
+                              "css": {
+                                "text-align": "center"
+                              }
+                            },
+                            {
+                              "bp": "base",
+                              "sel": " .w-title",
+                              "css": {
+                                "color": "var(--e-global-color-secondary)"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "::before",
+                          "css": {
+                            "background-color": "var(--e-global-color-7d0b5e3)",
+                            "opacity": "0.5"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "props": {
+            "tabs": [
+              {
+                "tab_title": "Tuesday 5th May",
+                "_id": "c5a390a"
+              },
+              {
+                "tab_title": "Wednesday 6th May",
+                "_id": "50e99ae"
+              },
+              {
+                "_id": "a44b469",
+                "tab_title": "Thursday 7th May"
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "50px 0px 0px 0px",
+                "width": "70%",
+                "max-width": "100%"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "width": "100%",
+                "max-width": "100%",
+                "align-self": "center"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "max-width": "100%",
+                "align-self": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab",
+              "css": {
+                "background-color": "var(--e-global-color-secondary)",
+                "color": "var(--e-global-color-primary)",
+                "font-family": "\"Merriweather\", sans-serif",
+                "font-weight": "400",
+                "text-transform": "capitalize",
+                "font-size": "16px",
+                "line-height": "1em"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab:hover",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 03px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab[aria-selected=\"true\"]",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 3px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tabs-heading",
+              "css": {
+                "gap": "-5px",
+                "margin-bottom": "50px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": " .w-tab",
+              "css": {
+                "text-align": "center"
+              }
+            }
+          ]
+        },
+        {
+          "id": "45a53779",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "7911bee",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "488abf45",
+                  "type": "heading",
+                  "props": {
+                    "title": "Get Started Today!"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "font-size": "36px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "8bd791d",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Ready to secure your spot? </p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5f4799d2",
+                  "type": "button",
+                  "props": {
+                    "text": "Apply Now"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "width": "100%",
+                        "align-self": "center",
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "text-decoration": "none",
+                        "font-size": "24px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn svg",
+                      "css": {
+                        "fill": "var(--e-global-color-primary)"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-btn",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "50px 50px 50px 50px",
+                    "--padding": "25px 25px 25px 25px",
+                    "--width": "80%",
+                    "background-color": "var(--e-global-color-text)",
+                    "border-radius": "5px 5px 5px 5px"
+                  }
+                },
+                {
+                  "bp": "tablet",
+                  "sel": "",
+                  "css": {
+                    "align-self": "center",
+                    "--align-items": "center",
+                    "--width": "100%"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "align-self": "center",
+                    "--justify-content": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "100px 0px 0px 0px",
+                "--flex-direction": "column",
+                "--justify-content": "flex-start",
+                "--width": "25%"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "align-self": "center",
+                "--justify-content": "center",
+                "--align-items": "center"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "--width": "100%"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--width": "100%"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column"
+          }
+        },
+        {
+          "bp": "mobile",
+          "sel": "",
+          "css": {
+            "--justify-content": "center"
+          }
+        }
+      ]
+    }
+  ]
+}

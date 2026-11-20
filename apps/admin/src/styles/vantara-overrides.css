@@ -1,0 +1,92 @@
+/*
+ * ITTI overrides for vantara-ui components whose colours are hard-coded
+ * (not driven by tokens) in vantara-ui 0.8.0.
+ */
+
+/* ── Sidebar: ITTI navy with white text ─────────────────────────────────── */
+.itti-sidebar {
+  background-color: var(--color-primary-600) !important;
+  border-color: rgb(255 255 255 / 0.1) !important;
+  color: #fff;
+}
+.itti-sidebar .bg-white {
+  background-color: transparent !important;
+}
+.itti-sidebar .border-gray-100,
+.itti-sidebar .border-gray-200,
+.itti-sidebar .border-t,
+.itti-sidebar .border-b {
+  border-color: rgb(255 255 255 / 0.12) !important;
+}
+/* Nav items, logo text, collapse button */
+.itti-sidebar .text-black,
+.itti-sidebar .text-gray-500,
+.itti-sidebar .text-gray-600,
+.itti-sidebar .text-gray-700 {
+  color: rgb(255 255 255 / 0.88) !important;
+}
+.itti-sidebar a:hover,
+.itti-sidebar button:hover {
+  color: #fff !important;
+}
+.itti-sidebar .hover\:bg-gray-50:hover {
+  background-color: rgb(255 255 255 / 0.08) !important;
+}
+/* Active item: ITTI "Text" blue */
+.itti-sidebar .bg-\[\#1a1a2e\] {
+  background-color: var(--color-primary-500) !important;
+  color: #fff !important;
+}
+/* Logo: drop the white pill, white mark with a navy centre, white wordmark */
+.itti-sidebar .bg-\[\#ffffff\].rounded-2xl,
+.itti-sidebar .bg-\[\#ffffff\].rounded-surface {
+  background-color: transparent !important;
+}
+/* Logo mark: the ITTI logo (public/itti-logo.png, served at /staff/) in place of vantara's placeholder square */
+.itti-sidebar .bg-black {
+  width: 2.75rem !important;
+  height: 2.75rem !important;
+  border-radius: 9999px !important;
+  background: #fff url('/staff/itti-logo.png') center / 88% no-repeat !important;
+}
+.itti-sidebar .bg-black > .bg-\[\#ffffff\] {
+  display: none;
+}
+/* Collapse / close toggles */
+.itti-sidebar button {
+  color: rgb(255 255 255 / 0.8);
+}
+/* Count badges keep their colour but get a navy ring for separation */
+.itti-sidebar .bg-red-500 {
+  box-shadow: 0 0 0 2px var(--color-primary-600);
+}
+.itti-sidebar button[aria-label$='sidebar'],
+.itti-sidebar button[aria-label$='sidebar'] svg {
+  color: rgb(255 255 255 / 0.8) !important;
+}
+
+/* ── No grey text on grey/white backgrounds ─────────────────────────────── */
+/*
+ * vantara-ui hard-codes grey text classes (text-gray-400…700, text-black/60 …).
+ * On the admin's white and light-grey surfaces these are replaced with the dark
+ * ITTI text colour. The navy sidebar keeps its own white text (rules above), and
+ * text on solid coloured fills (buttons, badges, the blue active state) is left alone.
+ */
+:is(.text-gray-400, .text-gray-500, .text-gray-600, .text-gray-700, .text-gray-800, .text-slate-400, .text-slate-500, .text-slate-600, .text-\[\#717182\], .text-text-secondary, .text-text-tertiary):not(.itti-sidebar *, .itti-sidebar) {
+  color: var(--color-text-primary);
+}
+
+/* ── Empty states: dark, centred text ───────────────────────────────────── */
+.itti-empty,
+.itti-empty p,
+.itti-empty span,
+.itti-empty div {
+  text-align: center;
+}
+.itti-empty p,
+.itti-empty span {
+  color: var(--color-text-primary);
+}
+.itti-empty [aria-hidden='true'] {
+  color: var(--color-primary-500);
+}

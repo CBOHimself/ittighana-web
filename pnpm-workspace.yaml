@@ -1,0 +1,13 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+  - "tools/*"
+
+onlyBuiltDependencies:
+  - sharp
+  - esbuild
+
+# Keep a single MongoDB driver in the tree: Better Auth's adapter must share the
+# exact driver version Mongoose uses. Bump together with mongoose.
+overrides:
+  mongodb: ~7.7.0

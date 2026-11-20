@@ -1,0 +1,41 @@
+{
+  "wpId": 4864,
+  "title": "WhatsApp Icon",
+  "slug": "whatsapp-icon-4864",
+  "kind": "floating-buttons",
+  "conditions": [
+    "general"
+  ],
+  "status": "published",
+  "layout": [
+    {
+      "id": "6411b197",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "79820b2",
+          "type": "contact-buttons",
+          "props": {
+            "top_bar_title": "Anita",
+            "top_bar_subtitle": "ITTI Front Desk",
+            "top_bar_image": {
+              "id": 4881,
+              "url": "/wp-content/uploads/2026/01/woman.jpg",
+              "alt": "",
+              "source": "library",
+              "size": ""
+            },
+            "message_bubble_name": "Anita",
+            "message_bubble_body": "Hey, how may I assist you?",
+            "send_button_text": "Click to start chat",
+            "chat_aria_label": "Floating Element",
+            "chat_button_number": "+233545454022"
+          }
+        }
+      ]
+    }
+  ]
+}

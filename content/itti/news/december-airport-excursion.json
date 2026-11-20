@@ -1,0 +1,38 @@
+{
+  "wpId": 4625,
+  "title": "December Airport Excursion",
+  "slug": "december-airport-excursion",
+  "path": "/december-airport-excursion",
+  "status": "published",
+  "excerpt": "Class Update | Team Lead Hello everyone, On 16 December 2025 , a group of ITTI students took part in an educational field visit to the airport as part of their practical training. The trip was designed to reinforce class",
+  "categories": [
+    "events",
+    "news"
+  ],
+  "cover": {
+    "id": 4626,
+    "url": "/wp-content/uploads/2025/12/airport-trip-17-12-25.jpeg",
+    "alt": ""
+  },
+  "publishedAt": "2025-12-17T11:29:20.000Z",
+  "seo": {},
+  "html": "<!-- wp:paragraph -->\n<p>Class Update | Team Lead</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Hello everyone,</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>On <strong>16 December 2025</strong>, a group of ITTI students took part in an educational field visit to the airport as part of their practical training. The trip was designed to reinforce classroom learning through real-world observation and assessment of core aviation ground operations.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>During the visit, students were assessed across key operational areas that are essential to safe, compliant, and customer-focused airport service delivery. The exercise allowed students to observe procedures in action, understand industry expectations, and connect theory with professional practice.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Please note that an assessment has been conducted after all activities.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>The assessment covered the following learning modules:</p>\n<!-- /wp:paragraph --><!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Special Assistance Passengers &amp; Persons with Disabilities – support procedures, safety, and service standards reviewed.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>Flight Disruptions – handling, communication, and coordination during delays/cancellations assessed.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>Arrival Functions/Procedures – passenger processing, coordination, and compliance checked.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>Handling of Live Animals – safety, care, and regulatory procedures evaluated.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --><!-- wp:paragraph -->\n<p> </p>\n<!-- /wp:paragraph -->",
+  "layout": [
+    {
+      "id": "6d47e775",
+      "type": "container",
+      "props": {
+        "boxed": true
+      },
+      "children": [
+        {
+          "id": "3d5db593",
+          "type": "text-editor",
+          "props": {
+            "editor": "<!-- wp:paragraph -->\n<p>Class Update | Team Lead</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Hello everyone,</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>On <strong>16 December 2025</strong>, a group of ITTI students took part in an educational field visit to the airport as part of their practical training. The trip was designed to reinforce classroom learning through real-world observation and assessment of core aviation ground operations.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>During the visit, students were assessed across key operational areas that are essential to safe, compliant, and customer-focused airport service delivery. The exercise allowed students to observe procedures in action, understand industry expectations, and connect theory with professional practice.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>Please note that an assessment has been conducted after all activities.</p>\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n<p>The assessment covered the following learning modules:</p>\n<!-- /wp:paragraph --><!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>Special Assistance Passengers &amp; Persons with Disabilities – support procedures, safety, and service standards reviewed.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>Flight Disruptions – handling, communication, and coordination during delays/cancellations assessed.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>Arrival Functions/Procedures – passenger processing, coordination, and compliance checked.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>Handling of Live Animals – safety, care, and regulatory procedures evaluated.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --><!-- wp:paragraph -->\n<p> </p>\n<!-- /wp:paragraph -->"
+          }
+        }
+      ]
+    }
+  ]
+}

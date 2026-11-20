@@ -1,0 +1,660 @@
+{
+  "wpId": 5269,
+  "title": "photo gallery - for page",
+  "slug": "photo-gallery-for-page-5269",
+  "kind": "section",
+  "conditions": [],
+  "status": "published",
+  "layout": [
+    {
+      "id": "262934e4",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "5006ae41",
+          "type": "nested-tabs",
+          "children": [
+            {
+              "id": "2db2edfc",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "7762848d",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "33645b0f",
+                      "type": "heading",
+                      "props": {
+                        "title": "Kotoka International Airport Excursion"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "margin": "050px 0px 0px 0px"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "19235928",
+                      "type": "gallery",
+                      "props": {
+                        "gallery": [
+                          {
+                            "id": 4176,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.24.jpeg"
+                          },
+                          {
+                            "id": 4175,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.24-1.jpeg"
+                          },
+                          {
+                            "id": 4174,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.23.jpeg"
+                          },
+                          {
+                            "id": 4172,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.23-2.jpeg"
+                          },
+                          {
+                            "id": 4171,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.23-1.jpeg"
+                          },
+                          {
+                            "id": 4170,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.22.jpeg"
+                          },
+                          {
+                            "id": 4169,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.22-3.jpeg"
+                          },
+                          {
+                            "id": 4168,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.22-2.jpeg"
+                          },
+                          {
+                            "id": 4159,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.20-1.jpeg"
+                          },
+                          {
+                            "id": 4160,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.20-2.jpeg"
+                          },
+                          {
+                            "id": 4161,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.20-3.jpeg"
+                          },
+                          {
+                            "id": 4166,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.21.jpeg"
+                          },
+                          {
+                            "id": 4145,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14.jpeg"
+                          },
+                          {
+                            "id": 4147,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.15-2.jpeg"
+                          },
+                          {
+                            "id": 4148,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.15-3.jpeg"
+                          },
+                          {
+                            "id": 4149,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.15.jpeg"
+                          },
+                          {
+                            "id": 4143,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14-2.jpeg"
+                          },
+                          {
+                            "id": 4144,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14-3.jpeg"
+                          },
+                          {
+                            "id": 4141,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.13.jpeg"
+                          },
+                          {
+                            "id": 4142,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14-1.jpeg"
+                          },
+                          {
+                            "id": 4150,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.16-1.jpeg"
+                          },
+                          {
+                            "id": 4133,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.11-3.jpeg"
+                          },
+                          {
+                            "id": 4128,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.10-2.jpeg"
+                          },
+                          {
+                            "id": 4123,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.08.jpeg"
+                          },
+                          {
+                            "id": 4115,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.06-3.jpeg"
+                          },
+                          {
+                            "id": 4116,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.06.jpeg"
+                          },
+                          {
+                            "id": 4114,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.06-2.jpeg"
+                          },
+                          {
+                            "id": 4108,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.04.jpeg"
+                          },
+                          {
+                            "id": 4106,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.04-2.jpeg"
+                          }
+                        ],
+                        "galleries": [
+                          {
+                            "gallery_title": "New Gallery",
+                            "_id": "c7a0afb"
+                          }
+                        ],
+                        "order_by": "random",
+                        "show_all_galleries_label": "All"
+                      }
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "0px 0px 0px 0px",
+                    "--width": "100%"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "190612c9",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "6c1a16b9",
+                  "type": "container",
+                  "props": {
+                    "boxed": false
+                  },
+                  "children": [
+                    {
+                      "id": "34e2254c",
+                      "type": "heading",
+                      "props": {
+                        "title": "ITTI Bootcamp"
+                      },
+                      "styles": [
+                        {
+                          "bp": "base",
+                          "sel": "",
+                          "css": {
+                            "margin": "050px 0px 0px 0px",
+                            "text-align": "right"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "764e8d31",
+                      "type": "gallery",
+                      "props": {
+                        "gallery": [
+                          {
+                            "id": 4176,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.24.jpeg"
+                          },
+                          {
+                            "id": 4175,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.24-1.jpeg"
+                          },
+                          {
+                            "id": 4174,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.23.jpeg"
+                          },
+                          {
+                            "id": 4172,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.23-2.jpeg"
+                          },
+                          {
+                            "id": 4171,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.23-1.jpeg"
+                          },
+                          {
+                            "id": 4170,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.22.jpeg"
+                          },
+                          {
+                            "id": 4169,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.22-3.jpeg"
+                          },
+                          {
+                            "id": 4168,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.22-2.jpeg"
+                          },
+                          {
+                            "id": 4159,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.20-1.jpeg"
+                          },
+                          {
+                            "id": 4160,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.20-2.jpeg"
+                          },
+                          {
+                            "id": 4161,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.20-3.jpeg"
+                          },
+                          {
+                            "id": 4166,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.21.jpeg"
+                          },
+                          {
+                            "id": 4145,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14.jpeg"
+                          },
+                          {
+                            "id": 4147,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.15-2.jpeg"
+                          },
+                          {
+                            "id": 4148,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.15-3.jpeg"
+                          },
+                          {
+                            "id": 4149,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.15.jpeg"
+                          },
+                          {
+                            "id": 4143,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14-2.jpeg"
+                          },
+                          {
+                            "id": 4144,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14-3.jpeg"
+                          },
+                          {
+                            "id": 4141,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.13.jpeg"
+                          },
+                          {
+                            "id": 4142,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.14-1.jpeg"
+                          },
+                          {
+                            "id": 4150,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.16-1.jpeg"
+                          },
+                          {
+                            "id": 4133,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.11-3.jpeg"
+                          },
+                          {
+                            "id": 4128,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.10-2.jpeg"
+                          },
+                          {
+                            "id": 4123,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.08.jpeg"
+                          },
+                          {
+                            "id": 4115,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.06-3.jpeg"
+                          },
+                          {
+                            "id": 4116,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.06.jpeg"
+                          },
+                          {
+                            "id": 4114,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.06-2.jpeg"
+                          },
+                          {
+                            "id": 4108,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.04.jpeg"
+                          },
+                          {
+                            "id": 4106,
+                            "url": "/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-12.02.04-2.jpeg"
+                          }
+                        ],
+                        "galleries": [
+                          {
+                            "gallery_title": "New Gallery",
+                            "_id": "c7a0afb"
+                          }
+                        ],
+                        "order_by": "random",
+                        "show_all_galleries_label": "All"
+                      }
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "margin": "0px 0px 0px 0px",
+                        "z-index": "8",
+                        "align-self": "flex-start",
+                        "--width": "100%",
+                        "background-color": "var(--e-global-color-284b516)",
+                        "border-style": "solid",
+                        "border-width": "015px 0px 0px 0px",
+                        "border-color": "var(--e-global-color-text)",
+                        "border-radius": "0px 0px 0px 0px"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": ":hover",
+                      "css": {
+                        "border-style": "solid",
+                        "border-width": "0px 0px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "props": {
+            "tabs": [
+              {
+                "tab_title": "Kotoka International Airport Excursion",
+                "_id": "c5a390a"
+              },
+              {
+                "tab_title": "ITTI Bootcamp",
+                "_id": "50e99ae"
+              }
+            ]
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "50px 0px 0px 0px",
+                "width": "70%",
+                "max-width": "100%"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "align-self": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab",
+              "css": {
+                "background-color": "var(--e-global-color-secondary)",
+                "color": "var(--e-global-color-primary)",
+                "font-family": "\"Merriweather\", sans-serif",
+                "font-weight": "400",
+                "text-transform": "capitalize",
+                "font-size": "16px",
+                "line-height": "1em"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab:hover",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 03px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tab[aria-selected=\"true\"]",
+              "css": {
+                "background-color": "var(--e-global-color-text)",
+                "border-style": "solid",
+                "border-width": "0px 0px 3px 0px",
+                "border-color": "var(--e-global-color-primary)"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-tabs-heading",
+              "css": {
+                "gap": "-5px",
+                "margin-bottom": "50px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "772dc54c",
+          "type": "container",
+          "props": {
+            "boxed": false
+          },
+          "children": [
+            {
+              "id": "437ec80b",
+              "type": "container",
+              "props": {
+                "boxed": false
+              },
+              "children": [
+                {
+                  "id": "7b709a7",
+                  "type": "heading",
+                  "props": {
+                    "title": "Get Started Today!"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-title",
+                      "css": {
+                        "color": "var(--e-global-color-secondary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "font-size": "36px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-title",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "7450ae73",
+                  "type": "text-editor",
+                  "props": {
+                    "editor": "<p>Ready to secure your spot? </p>"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "text-align": "center",
+                        "color": "var(--e-global-color-secondary)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "50154d3",
+                  "type": "button",
+                  "props": {
+                    "text": "Apply Now"
+                  },
+                  "styles": [
+                    {
+                      "bp": "base",
+                      "sel": "",
+                      "css": {
+                        "width": "100%",
+                        "align-self": "center",
+                        "text-align": "center"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn",
+                      "css": {
+                        "color": "var(--e-global-color-primary)",
+                        "font-family": "\"Poppins\", sans-serif",
+                        "font-weight": "300",
+                        "text-transform": "capitalize",
+                        "text-decoration": "none",
+                        "font-size": "24px",
+                        "line-height": "1.2em"
+                      }
+                    },
+                    {
+                      "bp": "base",
+                      "sel": " .w-btn svg",
+                      "css": {
+                        "fill": "var(--e-global-color-primary)"
+                      }
+                    },
+                    {
+                      "bp": "mobile",
+                      "sel": " .w-btn",
+                      "css": {
+                        "font-size": "25px"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "styles": [
+                {
+                  "bp": "base",
+                  "sel": "",
+                  "css": {
+                    "margin": "50px 50px 50px 50px",
+                    "--padding": "25px 25px 25px 25px",
+                    "--width": "80%",
+                    "background-color": "var(--e-global-color-text)",
+                    "border-radius": "5px 5px 5px 5px"
+                  }
+                },
+                {
+                  "bp": "mobile",
+                  "sel": "",
+                  "css": {
+                    "align-self": "center"
+                  }
+                }
+              ]
+            }
+          ],
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "--padding": "100px 0px 0px 0px",
+                "--flex-direction": "column",
+                "--justify-content": "flex-start",
+                "--width": "25%"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "align-self": "center"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--flex-direction": "row",
+            "--width": "100%"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--flex-direction": "column"
+          }
+        }
+      ]
+    }
+  ]
+}

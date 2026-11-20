@@ -1,0 +1,121 @@
+{
+  "wpId": 5259,
+  "title": "Blog post loop item",
+  "slug": "blog-post-loop-item-5259",
+  "kind": "loop-item",
+  "conditions": [],
+  "status": "draft",
+  "layout": [
+    {
+      "id": "undefined-39225b8",
+      "type": "container",
+      "props": {
+        "boxed": false
+      },
+      "children": [
+        {
+          "id": "undefined-cc0a752",
+          "type": "heading",
+          "props": {
+            "title": "Blog Post Preview"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "text-align": "center"
+              }
+            },
+            {
+              "bp": "base",
+              "sel": " .w-title",
+              "css": {
+                "color": "#1C244B",
+                "font-family": "\"Poppins\", sans-serif",
+                "font-size": "40px",
+                "line-height": "1.2"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": " .w-title",
+              "css": {
+                "font-size": "32px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": " .w-title",
+              "css": {
+                "font-size": "32px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "undefined-1d0d24d",
+          "type": "text-editor",
+          "props": {
+            "editor": "<p>This card gives a quick look at our latest blog post, including key topics and author details.</p>"
+          },
+          "styles": [
+            {
+              "bp": "base",
+              "sel": "",
+              "css": {
+                "margin": "0px 0px 50px 0px",
+                "text-align": "center",
+                "color": "#324A6D",
+                "font-family": "\"Poppins\", sans-serif",
+                "text-transform": "none",
+                "font-style": "normal",
+                "text-decoration": "none",
+                "font-size": "18px",
+                "line-height": "140%",
+                "letter-spacing": "0px"
+              }
+            },
+            {
+              "bp": "tablet",
+              "sel": "",
+              "css": {
+                "margin": "0px 0px 20px 0px",
+                "font-size": "18px"
+              }
+            },
+            {
+              "bp": "mobile",
+              "sel": "",
+              "css": {
+                "font-size": "16px"
+              }
+            }
+          ]
+        }
+      ],
+      "styles": [
+        {
+          "bp": "base",
+          "sel": "",
+          "css": {
+            "--padding": "80px 24px 80px 24px",
+            "--flex-direction": "column",
+            "--align-items": "stretch",
+            "--row-gap": "10px",
+            "--column-gap": "8px",
+            "--content-width": "1550px",
+            "background-color": "#FFFFFF"
+          }
+        },
+        {
+          "bp": "tablet",
+          "sel": "",
+          "css": {
+            "--padding": "48px 16px 48px 16px"
+          }
+        }
+      ]
+    }
+  ]
+}
