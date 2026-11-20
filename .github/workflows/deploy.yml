@@ -58,13 +58,15 @@ jobs:
       - name: Configure SSH
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.CPANEL_SSH_KEY }}" > ~/.ssh/id_ed25519
+          printf '%s\n' "${{ secrets.CPANEL_SSH_KEY }}" | tr -d '\r' > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
+          # Fails early with a clear message if the key secret is not a valid private key
+          ssh-keygen -y -f ~/.ssh/id_ed25519 > /dev/null || { echo "CPANEL_SSH_KEY is not a valid private key (paste the file WITHOUT .pub, including BEGIN/END lines)"; exit 1; }
           ssh-keyscan -p ${{ secrets.CPANEL_SSH_PORT }} ${{ secrets.CPANEL_HOST }} >> ~/.ssh/known_hosts
 
       - name: Upload
         env:
-          SSH: ssh -p ${{ secrets.CPANEL_SSH_PORT }}
+          SSH: ssh -p ${{ secrets.CPANEL_SSH_PORT }} -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes -o BatchMode=yes
           TARGET: ${{ secrets.CPANEL_USER }}@${{ secrets.CPANEL_HOST }}
         run: |
           set -e
@@ -74,7 +76,7 @@ jobs:
 
       - name: Migrate indexes & restart apps
         run: |
-          ssh -p ${{ secrets.CPANEL_SSH_PORT }} ${{ secrets.CPANEL_USER }}@${{ secrets.CPANEL_HOST }} '
+          ssh -p ${{ secrets.CPANEL_SSH_PORT }} -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes -o BatchMode=yes ${{ secrets.CPANEL_USER }}@${{ secrets.CPANEL_HOST }} '
             set -e
             cd ${{ vars.API_DIR }} && node --env-file=.env dist/sync-indexes.js
             mkdir -p ${{ vars.API_DIR }}/tmp ${{ vars.WEB_DIR }}/tmp
