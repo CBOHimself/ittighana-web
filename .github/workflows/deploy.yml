@@ -82,18 +82,18 @@ jobs:
 
       - name: Migrate indexes & restart apps
         run: |
-          ssh -p ${{ secrets.CPANEL_SSH_PORT }} -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes -o BatchMode=yes ${{ secrets.CPANEL_USER }}@${{ secrets.CPANEL_HOST }} '
-            set -e
-            # cPanel (CloudLinux) puts Node on PATH only inside the app's virtual environment
-            APP=$(basename ${{ vars.API_DIR }})
-            ACT=$(ls -d $HOME/nodevenv/$APP/*/bin/activate 2>/dev/null | sort -V | tail -1)
-            if [ -n "$ACT" ]; then source "$ACT"; fi
-            command -v node >/dev/null || { echo "node not found: create the itti-api app in cPanel > Setup Node.js App first"; exit 1; }
-            node -v
-            cd ${{ vars.API_DIR }} && node --env-file=.env dist/sync-indexes.js
-            mkdir -p ${{ vars.API_DIR }}/tmp ${{ vars.WEB_DIR }}/tmp
-            touch ${{ vars.API_DIR }}/tmp/restart.txt ${{ vars.WEB_DIR }}/tmp/restart.txt
-          '
+          ssh -p ${{ secrets.CPANEL_SSH_PORT }} -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes -o BatchMode=yes ${{ secrets.CPANEL_USER }}@${{ secrets.CPANEL_HOST }} bash -s <<'REMOTE'
+          set -e
+          # cPanel (CloudLinux) puts Node on PATH only inside each app virtual environment
+          ACT=$(ls -d "$HOME"/nodevenv/$(basename "${{ vars.API_DIR }}")/*/bin/activate 2>/dev/null | sort -V | tail -1)
+          if [ -n "$ACT" ]; then source "$ACT"; fi
+          command -v node >/dev/null || { echo "node not found: create the itti-api app in cPanel Setup Node.js App first"; exit 1; }
+          node -v
+          cd "${{ vars.API_DIR }}"
+          node --env-file=.env dist/sync-indexes.js
+          mkdir -p "${{ vars.API_DIR }}/tmp" "${{ vars.WEB_DIR }}/tmp"
+          touch "${{ vars.API_DIR }}/tmp/restart.txt" "${{ vars.WEB_DIR }}/tmp/restart.txt"
+          REMOTE
 
       - name: Smoke test
         run: |
