@@ -26,7 +26,9 @@ jobs:
           node-version: 22
           cache: pnpm
 
-      - run: pnpm install --frozen-lockfile
+      # Hoisted (flat) node_modules: the web bundle then ships real folders, not pnpm symlinks,
+      # which cPanel's Passenger/LiteSpeed launcher does not resolve the way plain node does.
+      - run: pnpm install --frozen-lockfile --config.node-linker=hoisted
 
       - name: Build
         run: pnpm build
@@ -44,10 +46,13 @@ jobs:
           set -e
           mkdir -p release
           # Web: Next.js standalone server + static assets
-          cp -r apps/web/.next/standalone release/web
+          # -L copies what links point to, so no symlinks reach the server
+          cp -rL apps/web/.next/standalone release/web
           mkdir -p release/web/apps/web/.next
           cp -r apps/web/.next/static release/web/apps/web/.next/static
           cp -r apps/web/public release/web/apps/web/public
+          echo "symlinks left in web bundle: $(find release/web -type l | wc -l)"
+          test -d release/web/node_modules/@swc/helpers || find release/web -path '*@swc/helpers/package.json' | head -3
           # API: bundled dist + production node_modules (linux-x64, matches cPanel)
           pnpm --filter @itti/api deploy --prod --legacy release/api
           cp -r apps/api/dist release/api/dist
@@ -97,6 +102,14 @@ jobs:
 
       - name: Smoke test
         run: |
-          sleep 10
-          curl -fsS ${{ vars.API_URL }}/health
-          curl -fsS -o /dev/null ${{ vars.SITE_URL }}
+          check() {
+            for i in 1 2 3 4 5 6; do
+              code=$(curl -s -o /dev/null -w '%{http_code}' "$1")
+              echo "$1 -> $code (try $i)"
+              [ "$code" = "200" ] && return 0
+              sleep 10
+            done
+            return 1
+          }
+          check "${{ vars.API_URL }}/health"
+          check "${{ vars.SITE_URL }}/"
