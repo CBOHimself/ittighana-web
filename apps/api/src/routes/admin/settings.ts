@@ -15,7 +15,10 @@ export const settingsRoutes = new Hono<AppEnv>()
   })
   .put('/', requirePermission('settings:manage'), zValidator('json', siteSettingsInput), async (c) => {
     const next = c.req.valid('json');
-    const current = siteSettingsInput.parse((await SiteSettings.findOne({ key: 'site' }).lean())?.value ?? {});
+    // The stored document also holds design data the form doesn't edit (tokens, menus, theme
+    // templates, logo); keep it and only replace the fields the form sends.
+    const stored = ((await SiteSettings.findOne({ key: 'site' }).lean())?.value ?? {}) as Record<string, unknown>;
+    const current = siteSettingsInput.parse(stored);
     // The HostHaus watermark can only be changed by a super admin.
     if (
       JSON.stringify(next.watermark) !== JSON.stringify(current.watermark) &&
@@ -23,7 +26,7 @@ export const settingsRoutes = new Hono<AppEnv>()
     ) {
       throw forbidden('Only a super admin can change the HostHaus watermark');
     }
-    await SiteSettings.updateOne({ key: 'site' }, { value: next, updatedBy: c.get('user')?.id }, { upsert: true });
+    await SiteSettings.updateOne({ key: 'site' }, { value: { ...stored, ...next }, updatedBy: c.get('user')?.id }, { upsert: true });
     await audit(c, 'update', 'settings', 'site');
     await revalidate(['settings', 'content']);
     return c.json(next);

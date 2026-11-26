@@ -5,6 +5,7 @@ import { m003 } from './003-import-wordpress';
 import { m004 } from './004-content-templates';
 import { m005 } from './005-template-refs';
 import { m006 } from './006-wordpress-2024-cleanup';
+import { m007 } from './007-restore-site-design';
 import type { Migration, MigrationContext } from './types';
 
 export type { Migration, MigrationContext } from './types';
@@ -13,7 +14,7 @@ export type { Migration, MigrationContext } from './types';
  * Versioned migrations, applied in order and recorded in the `migrations` collection.
  * Add new ones at the end with a new id; never edit or reorder released migrations.
  */
-export const MIGRATIONS: Migration[] = [m001, m002, m003, m004, m005, m006];
+export const MIGRATIONS: Migration[] = [m001, m002, m003, m004, m005, m006, m007];
 
 type Applied = { _id: string; description: string; appliedAt: Date; durationMs: number };
 
